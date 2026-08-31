@@ -1,40 +1,29 @@
 {
-  "updatedAt": "2026-08-31T02:59:36Z",
-  "headline": "연준의 인플레이션 경계와 미·이란 긴장 재고조로 금리·유가 부담이 커진 가운데, 한국 증시는 아시아 위험회피 흐름 속 약세를 보였다.",
+  "updatedAt": "2026-08-31T09:00:11Z",
+  "headline": "연준의 인플레이션 경계와 미·이란 긴장으로 금리·유가 부담이 이어진 가운데, 한국 증시는 장중 급락을 되돌렸고 AI 데이터센터 광통신 수요는 강한 흐름을 보였다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
           "id": "macro-fed-warsh-inflation-20260828",
-          "title": "워시 연준 의장, 물가 목표 복귀 확신 없으면 추가 대응 필요 강조",
+          "title": "워시 연준 의장, 인플레이션이 목표로 충분히 향하지 않으면 추가 대응 필요 강조",
           "source": "Federal Reserve",
           "publishedAt": "2026-08-28",
-          "updatedAt": "2026-08-31T02:59:36Z",
+          "updatedAt": "2026-08-31T09:00:11Z",
           "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm",
-          "summary": "케빈 워시 연준 의장은 인플레이션이 2% 목표로 충분한 속도로 향한다는 확신이 없다면 추가 대응이 필요하다고 밝혔다. 현재 금융여건이 광범위하게 제약적이지 않으며 정책의 우선 초점은 물가라고 강조했다.",
+          "summary": "케빈 워시 연준 의장은 PCE 물가가 여전히 2% 목표를 웃돌고 있으며 최근의 개선만으로는 기조적 인플레이션이 충분히 낮아졌다고 보기 어렵다고 밝혔다. 물가 안정이 현재 정책의 우선 과제라는 점을 재확인했다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "macro-g20-china-trade-20260830",
-          "title": "베선트, G20에 중국발 무역불균형 대응 위한 교역조건 재검토 촉구",
-          "source": "Reuters",
-          "publishedAt": "2026-08-30T23:07:00Z",
-          "updatedAt": "2026-08-31T02:59:36Z",
-          "url": "https://www.reuters.com/world/china/g20-countries-should-consider-more-trade-barriers-with-china-cut-imbalances-2026-08-30/",
-          "summary": "스콧 베선트 미 재무장관은 G20 회원국들이 중국의 대규모 무역흑자를 줄이기 위해 교역 조건을 재검토할 필요가 있다고 밝혔다. 미국은 중국의 수출 의존도를 낮추고 내수를 확대하도록 압박하는 공동 대응을 추진하고 있다.",
-          "impact": "medium",
-          "region": "global"
-        },
-        {
-          "id": "macro-oil-iran-larak-20260830",
-          "title": "미군의 이란 라라크섬 공격 뒤 국제유가 1% 이상 상승",
-          "source": "Reuters",
-          "publishedAt": "2026-08-30T22:12:00Z",
-          "updatedAt": "2026-08-31T02:59:36Z",
-          "url": "https://www.reuters.com/business/energy/oil-jumps-more-than-2-after-us-attack-irans-larak-island-2026-08-30/",
-          "summary": "미군이 호르무즈 해협의 이란 라라크섬 발사대를 타격하고 이란이 보복에 나서면서 브렌트유와 WTI가 1% 넘게 상승했다. 호르무즈 해협의 선박 통행 감소까지 겹치며 에너지 공급 차질 우려가 다시 확대됐다.",
+          "id": "macro-oil-iran-market-20260831",
+          "title": "미군의 이란 발사대 타격 뒤 국제유가 약 3% 급등",
+          "source": "AP",
+          "publishedAt": "2026-08-31",
+          "updatedAt": "2026-08-31T09:00:11Z",
+          "url": "https://apnews.com/article/stocks-markets-ipo-oil-rates-fed-future-00f872327d65e5330598054a234dc25a",
+          "summary": "미군이 호르무즈 해협 인근의 이란 로켓 발사대를 타격한 뒤 브렌트유가 배럴당 90달러를 넘어서며 약 3% 상승했다. 중동 긴장 재고조가 에너지 가격과 글로벌 위험자산에 동시에 부담을 주고 있다.",
           "impact": "high",
           "region": "global"
         }
@@ -42,19 +31,31 @@
     },
     {
       "id": "us",
-      "items": []
+      "items": [
+        {
+          "id": "us-soitec-ai-photonics-demand-20260831",
+          "title": "AI 데이터센터 광통신 수요 급증에 Soitec, 장기 웨이퍼 공급계약 확대",
+          "source": "Reuters",
+          "publishedAt": "2026-08-31T05:03:00Z",
+          "updatedAt": "2026-08-31T09:00:11Z",
+          "url": "https://www.reuters.com/world/asia-pacific/soitec-locks-customers-into-multi-year-deals-ai-wafer-demand-surges-2026-08-31/",
+          "summary": "AI 데이터센터 내부 연결이 구리에서 광통신으로 이동하면서 실리콘 포토닉스용 웨이퍼 수요가 크게 늘고 있다. Soitec은 10곳이 넘는 고객과 다년 공급계약을 추진하고 있으며 올해 관련 매출이 2억달러를 웃돌 것으로 보고 있다.",
+          "impact": "medium",
+          "region": "global"
+        }
+      ]
     },
     {
       "id": "korea",
       "items": [
         {
-          "id": "korea-stocks-oil-yields-20260831",
-          "title": "유가·미 국채금리 부담에 한국 증시 2.4% 하락",
-          "source": "Reuters",
-          "publishedAt": "2026-08-31T00:38:00Z",
-          "updatedAt": "2026-08-31T02:59:36Z",
-          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-31/",
-          "summary": "미·이란 긴장으로 유가가 오르고 미국의 금리 인상 가능성이 높아지면서 아시아 증시가 전반적으로 약세를 보였고 한국 증시는 2.4% 하락했다. 단기적으로 에너지 가격과 미국 금리 기대가 국내 위험자산 심리를 함께 압박하고 있다.",
+          "id": "korea-kospi-rebound-20260831",
+          "title": "KOSPI, 장중 2.5% 급락 뒤 반등해 0.46% 상승 마감",
+          "source": "Seoul Economic Daily",
+          "publishedAt": "2026-08-31T07:02:29Z",
+          "updatedAt": "2026-08-31T09:00:11Z",
+          "url": "https://en.sedaily.com/finance/2026/08/31/kospi-closes-at-6820-as-samsung-sk-hynix-rebound",
+          "summary": "KOSPI는 연준의 매파적 신호와 미·이란 충돌 우려로 장 초반 2% 넘게 밀렸지만 삼성전자와 SK하이닉스가 반등하면서 6,820.02로 0.46% 상승 마감했다. 장중 변동성이 크게 확대됐지만 대형 반도체주 매수세가 지수를 되돌렸다.",
           "impact": "high",
           "region": "Korea"
         }
