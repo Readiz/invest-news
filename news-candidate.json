@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-08-24T08:59:07Z",
-  "headline": "대이란 제재와 에너지 공급 우려가 글로벌 시장의 핵심 변수로 부상한 가운데, 금 가격과 한국 기술주 변동성이 확대됐다.",
+  "updatedAt": "2026-08-31T02:59:36Z",
+  "headline": "연준의 인플레이션 경계와 미·이란 긴장 재고조로 금리·유가 부담이 커진 가운데, 한국 증시는 아시아 위험회피 흐름 속 약세를 보였다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-iran-sanctions-20260824",
-          "title": "미국, 대이란 추가 제재 예고…이란은 걸프 원유 수출 차단 위협",
-          "source": "Reuters",
-          "publishedAt": "2026-08-23T15:23:00Z",
-          "updatedAt": "2026-08-24T08:59:07Z",
-          "url": "https://www.reuters.com/business/energy/iran-says-it-discovered-over-75-trillion-cubic-feet-gas-2026-08-23/",
-          "summary": "미국은 이란의 교역 상대까지 겨냥하는 추가 경제 제재를 예고했고, 이란은 압박이 계속되면 걸프 지역 원유 수출을 막을 수 있다고 경고했다. 중동 에너지 공급과 물가 경로에 대한 불확실성이 다시 커졌다.",
+          "id": "macro-fed-warsh-inflation-20260828",
+          "title": "워시 연준 의장, 물가 목표 복귀 확신 없으면 추가 대응 필요 강조",
+          "source": "Federal Reserve",
+          "publishedAt": "2026-08-28",
+          "updatedAt": "2026-08-31T02:59:36Z",
+          "url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm",
+          "summary": "케빈 워시 연준 의장은 인플레이션이 2% 목표로 충분한 속도로 향한다는 확신이 없다면 추가 대응이 필요하다고 밝혔다. 현재 금융여건이 광범위하게 제약적이지 않으며 정책의 우선 초점은 물가라고 강조했다.",
           "impact": "high",
-          "region": "global"
-        },
-        {
-          "id": "macro-gold-dollar-20260824",
-          "title": "금값 3개월여 만에 최고…달러 약세와 미국 물가·연준 발언 주목",
-          "source": "Reuters",
-          "publishedAt": "2026-08-24T04:39:00Z",
-          "updatedAt": "2026-08-24T08:59:07Z",
-          "url": "https://www.reuters.com/world/india/gold-hits-over-3-month-high-ahead-us-inflation-data-fed-chair-speech-2026-08-24/",
-          "summary": "달러가 수개월 저점 부근에서 약세를 보이면서 금 현물 가격이 3개월여 만의 최고 수준으로 상승했다. 시장은 이번 주 미국 PCE 물가와 연준 의장 발언을 통해 금리 경로에 대한 단서를 확인하려 하고 있다.",
-          "impact": "medium",
           "region": "US"
         },
         {
-          "id": "macro-eu-windfall-tax-20260824",
-          "title": "EU 6개국, 이란발 에너지 충격 대응 위해 석유사 초과이익 과세 논의 요청",
+          "id": "macro-g20-china-trade-20260830",
+          "title": "베선트, G20에 중국발 무역불균형 대응 위한 교역조건 재검토 촉구",
           "source": "Reuters",
-          "publishedAt": "2026-08-24T08:23:00Z",
-          "updatedAt": "2026-08-24T08:59:07Z",
-          "url": "https://www.reuters.com/business/energy/six-countries-want-eu-talks-september-taxing-windfall-profits-oil-companies-2026-08-24/",
-          "summary": "독일·스페인 등 EU 6개국 재무장관이 이란의 호르무즈 해협 봉쇄 여파로 급등한 에너지 가격에 대응해 석유회사 초과이익 과세 체계를 논의하자고 제안했다. 에너지 가격 충격이 재정·산업정책으로 번지는 흐름이 나타나고 있다.",
+          "publishedAt": "2026-08-30T23:07:00Z",
+          "updatedAt": "2026-08-31T02:59:36Z",
+          "url": "https://www.reuters.com/world/china/g20-countries-should-consider-more-trade-barriers-with-china-cut-imbalances-2026-08-30/",
+          "summary": "스콧 베선트 미 재무장관은 G20 회원국들이 중국의 대규모 무역흑자를 줄이기 위해 교역 조건을 재검토할 필요가 있다고 밝혔다. 미국은 중국의 수출 의존도를 낮추고 내수를 확대하도록 압박하는 공동 대응을 추진하고 있다.",
           "impact": "medium",
-          "region": "EU"
+          "region": "global"
+        },
+        {
+          "id": "macro-oil-iran-larak-20260830",
+          "title": "미군의 이란 라라크섬 공격 뒤 국제유가 1% 이상 상승",
+          "source": "Reuters",
+          "publishedAt": "2026-08-30T22:12:00Z",
+          "updatedAt": "2026-08-31T02:59:36Z",
+          "url": "https://www.reuters.com/business/energy/oil-jumps-more-than-2-after-us-attack-irans-larak-island-2026-08-30/",
+          "summary": "미군이 호르무즈 해협의 이란 라라크섬 발사대를 타격하고 이란이 보복에 나서면서 브렌트유와 WTI가 1% 넘게 상승했다. 호르무즈 해협의 선박 통행 감소까지 겹치며 에너지 공급 차질 우려가 다시 확대됐다.",
+          "impact": "high",
+          "region": "global"
         }
       ]
     },
@@ -48,13 +48,13 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-samsung-shareholder-return-20260824",
-          "title": "삼성전자, 790억달러 규모 주주환원 계획 발표 후 주가 급락",
+          "id": "korea-stocks-oil-yields-20260831",
+          "title": "유가·미 국채금리 부담에 한국 증시 2.4% 하락",
           "source": "Reuters",
-          "publishedAt": "2026-08-24T00:49:00Z",
-          "updatedAt": "2026-08-24T08:59:07Z",
-          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-24/",
-          "summary": "삼성전자는 기록적인 약 790억달러 규모 주주환원 계획을 발표했지만 시장 기대에 미치지 못했다는 평가 속에 주가가 8% 넘게 하락했다. 한국 기술주 전반의 변동성 확대에도 영향을 줬다.",
+          "publishedAt": "2026-08-31T00:38:00Z",
+          "updatedAt": "2026-08-31T02:59:36Z",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-31/",
+          "summary": "미·이란 긴장으로 유가가 오르고 미국의 금리 인상 가능성이 높아지면서 아시아 증시가 전반적으로 약세를 보였고 한국 증시는 2.4% 하락했다. 단기적으로 에너지 가격과 미국 금리 기대가 국내 위험자산 심리를 함께 압박하고 있다.",
           "impact": "high",
           "region": "Korea"
         }
