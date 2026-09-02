@@ -1,31 +1,42 @@
 {
-  "updatedAt": "2026-09-01T22:58:34Z",
-  "headline": "미·이란 충돌 재격화로 유가와 장기금리가 다시 뛰면서 미국 증시는 약세를 보였고, 연준 인사도 물가가 충분히 둔화하지 않으면 금리 인상이 필요하다고 경고했다. 한국 증시는 반도체 강세로 상승 마감한 가운데, 크립토 시장에서는 비트코인 조정 속에서도 대형 금융기관의 스테이블코인 진출과 온체인 인프라 확대가 이어졌다.",
+  "updatedAt": "2026-09-02T02:59:47Z",
+  "headline": "미·이란 충돌 재격화로 유가와 미 국채금리, 달러가 동반 강세를 보이며 글로벌 위험자산을 압박했다. 미국 제조업은 확장세를 유지했지만 투입물가 부담이 이어졌고, 한국은 일본과 비상 에너지 공급 협력을 강화하는 한편 크립토 시장에서는 비트코인 조정과 CME 중심의 XRP 기관 참여 확대가 동시에 나타났다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-oil-us-iran-20260901",
-          "title": "미·이란 교전 재개에 국제유가 5주 최고…브렌트 94.65달러",
+          "id": "macro-oil-us-iran-20260902",
+          "title": "미·이란 교전 재격화에 국제유가 5주 최고…브렌트 94.65달러",
           "source": "Reuters",
           "publishedAt": "2026-09-01T12:56:00Z",
-          "updatedAt": "2026-09-01T22:58:34Z",
+          "updatedAt": "2026-09-02T02:59:47Z",
           "url": "https://www.reuters.com/business/energy/oil-prices-rise-latest-fighting-resurrects-middle-east-supply-disruption-risks-2026-09-01/",
-          "summary": "미국과 이란의 교전 재개와 호르무즈 해협 공급 차질 우려로 브렌트유가 4.6% 오른 94.65달러, WTI가 5.2% 오른 90.22달러에 마감했다. 에너지 가격 급등이 글로벌 인플레이션과 금리 경로의 핵심 위험으로 다시 부상했다.",
+          "summary": "미국과 이란의 교전 재개와 호르무즈 해협 공급 차질 우려로 브렌트유가 4.6% 오른 94.65달러, WTI가 5.2% 오른 90.22달러에 마감했다. 에너지 공급 불안이 글로벌 인플레이션과 금리 경로의 핵심 위험으로 다시 부상했다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-fed-barr-rate-hike-20260901",
-          "title": "연준 바 부의장, 물가 둔화 부족하면 '단호한 금리 인상' 필요",
-          "source": "Federal Reserve Board",
-          "publishedAt": "2026-09-01",
-          "updatedAt": "2026-09-01T22:58:34Z",
-          "url": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
-          "summary": "마이클 바 연준 이사는 인플레이션이 여전히 너무 높다며 2%로 충분히 둔화하지 않을 경우 금리를 단호하게 올려야 한다고 밝혔다. 중동 충돌·관세·AI 투자 확대가 물가 압력을 높이는 요인으로 지목됐다.",
+          "id": "macro-dollar-yields-mideast-20260902",
+          "title": "중동 긴장·금리인상 기대에 달러 강세…미 10년물 4.8%",
+          "source": "Reuters",
+          "publishedAt": "2026-09-02T01:03:00Z",
+          "updatedAt": "2026-09-02T02:59:47Z",
+          "url": "https://www.reuters.com/world/china/dollar-holds-firm-middle-east-hostilities-lift-oil-2026-09-02/",
+          "summary": "중동 긴장과 유가 상승으로 인플레이션 우려가 커지면서 달러지수가 8월 17일 이후 최고권을 유지했고 미국 10년물 국채금리는 4.8% 부근까지 올랐다. 시장의 9월 연준 금리 인상 기대도 일주일 전보다 크게 높아졌다.",
           "impact": "high",
-          "region": "US"
+          "region": "global"
+        },
+        {
+          "id": "macro-gold-yields-dollar-20260901",
+          "title": "금값 2% 넘게 하락…미 국채금리·달러 강세에 2주 저점",
+          "source": "Reuters",
+          "publishedAt": "2026-09-01T02:56:00Z",
+          "updatedAt": "2026-09-02T02:59:47Z",
+          "url": "https://www.reuters.com/world/india/gold-muted-traders-await-us-jobs-data-monitor-mideast-tensions-2026-09-01/",
+          "summary": "미 국채금리 상승과 달러 강세로 금 현물이 2% 넘게 떨어져 2주 만의 저점으로 밀렸다. 중동발 인플레이션 우려와 연준의 추가 긴축 가능성이 비이자 자산인 금에 부담으로 작용했다.",
+          "impact": "medium",
+          "region": "global"
         }
       ]
     },
@@ -33,25 +44,25 @@
       "id": "us",
       "items": [
         {
-          "id": "us-wall-street-yields-oil-20260901",
-          "title": "미 증시 하락…유가·국채금리 상승에 나스닥 1.03%↓",
+          "id": "us-manufacturing-jolts-20260901",
+          "title": "미 제조업 확장세 둔화…투입물가 높고 구인 건수는 증가",
           "source": "Reuters",
-          "publishedAt": "2026-09-01T09:20:00Z",
-          "updatedAt": "2026-09-01T22:58:34Z",
-          "url": "https://www.reuters.com/business/wall-st-futures-kick-off-september-under-pressure-yields-oil-prices-rise-2026-09-01/",
-          "summary": "다우는 0.79%, S&P 500은 0.71%, 나스닥은 1.03% 하락했다. 중동 긴장에 따른 유가 급등과 장기금리 상승, 9월 연준 금리 인상 기대가 기술주와 경기민감주에 부담을 줬다.",
+          "publishedAt": "2026-09-01T14:02:00Z",
+          "updatedAt": "2026-09-02T02:59:47Z",
+          "url": "https://www.reuters.com/business/us-manufacturing-activity-slows-august-input-prices-still-elevated-2026-09-01/",
+          "summary": "미국 ISM 제조업 PMI는 7월 55.6에서 8월 54.6으로 낮아졌지만 확장 국면을 유지했다. 동시에 7월 구인 건수는 727만1천건으로 늘고 투입가격 압력도 높게 유지돼 연준의 긴축 논리를 뒷받침했다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-manufacturing-inflation-20260901",
-          "title": "미 제조업 8월 확장세 둔화…투입물가 압력은 지속",
-          "source": "Reuters",
-          "publishedAt": "2026-09-01T14:02:00Z",
-          "updatedAt": "2026-09-01T22:58:34Z",
-          "url": "https://www.reuters.com/business/us-manufacturing-activity-slows-august-input-prices-still-elevated-2026-09-01/",
-          "summary": "미국 ISM 제조업 PMI가 7월 55.6에서 8월 54.6으로 내려왔지만 여전히 확장 국면을 유지했다. 중동 충돌·관세·AI 투자 수요로 투입가격 지수가 높은 수준을 지속해 연준의 추가 긴축 가능성을 뒷받침했다.",
-          "impact": "high",
+          "id": "us-sec-transfer-agent-blockchain-20260901",
+          "title": "SEC, 블록체인 반영한 이전대리인 규정 현대화 제안",
+          "source": "U.S. Securities and Exchange Commission",
+          "publishedAt": "2026-09-01",
+          "updatedAt": "2026-09-02T02:59:47Z",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-81-sec-proposes-modernize-rules-registered-transfer-agents",
+          "summary": "SEC는 수십 년 된 이전대리인 규정을 전자 기록·통신과 블록체인 기술 활용을 반영하도록 개정하는 규칙안을 제안했다. 미국 증권의 발행·소유권 이전 과정에서 디지털 인프라를 제도권 규정에 명시적으로 포함하려는 움직임이다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -60,13 +71,13 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-tech-gains-20260901",
-          "title": "코스피 이틀째 상승…중동 긴장에도 반도체주가 지수 견인",
-          "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-01T07:32:00Z",
-          "updatedAt": "2026-09-01T22:58:34Z",
-          "url": "https://en.yna.co.kr/view/AEN20260901008352320",
-          "summary": "코스피는 장 초반 약세를 뒤집고 0.23% 오른 6,835.80에 마감했다. 삼성전자와 SK하이닉스가 상승했고 8월 수출의 견조한 반도체 수요가 중동발 유가·금리 부담을 일부 상쇄했다.",
+          "id": "korea-japan-emergency-energy-supply-20260902",
+          "title": "한국·일본, LNG·원유 등 비상 에너지 공급 협력 강화 논의",
+          "source": "Reuters",
+          "publishedAt": "2026-09-02T02:04:00Z",
+          "updatedAt": "2026-09-02T02:59:47Z",
+          "url": "https://www.reuters.com/business/energy/south-korea-japan-discuss-cooperation-emergency-energy-supply-2026-09-02/",
+          "summary": "한국과 일본이 공급망 파트너십 이행을 위한 첫 회의를 열고 LNG, 원유, 석유제품의 비상시 안정 공급 협력을 강화하기로 했다. 중동발 에너지 공급 불안이 커진 상황에서 양국의 공동 대응 체계가 주목된다.",
           "impact": "high",
           "region": "Korea"
         }
@@ -76,35 +87,24 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-bitcoin-78k-hawkish-fed-20260901",
-          "title": "비트코인 7만8천달러 부근 횡보…매파 연준·고유가가 위험자산 압박",
+          "id": "crypto-xrp-cme-futures-20260901",
+          "title": "XRP 40% 반등 속 CME 선물 비중 확대…기관 참여 신호",
           "source": "CoinDesk",
           "publishedAt": "2026-09-01",
-          "updatedAt": "2026-09-01T22:58:34Z",
-          "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
-          "summary": "비트코인은 8월 24% 급등 후 7만8천달러 부근에서 횡보했고 이더리움·솔라나 등 주요 알트코인은 약세를 보였다. 유가 상승과 미 10년물 금리 상승, 9월 연준 인상 기대가 단기 위험선호를 제한했다.",
+          "updatedAt": "2026-09-02T02:59:47Z",
+          "url": "https://www.coindesk.com/markets/2026/09/01/xrp-futures-are-shifting-toward-cme-as-institutional-participation-grows",
+          "summary": "XRP가 약 2주간 40% 가까이 반등하는 동안 전체 선물 미결제약정은 줄었지만 CME의 XRP 선물 미결제약정은 약 36% 증가했다. 규제된 미국 거래소의 비중이 약 10%에서 17%로 확대돼 기관 투자자의 참여가 커지는 흐름이 나타났다.",
           "impact": "medium",
           "region": "global"
         },
         {
-          "id": "crypto-global-banks-stablecoin-20260901",
-          "title": "BOA·Citi·Goldman 등 21개 금융사, 글로벌 스테이블코인 합작사 설립",
-          "source": "Brunswick Group / PR Newswire",
-          "publishedAt": "2026-09-01T13:31:00Z",
-          "updatedAt": "2026-09-01T22:58:34Z",
-          "url": "https://www.prnewswire.com/news-releases/group-of-leading-international-financial-institutions-to-establish-stablecoin-enterprise-302866318.html",
-          "summary": "Bank of America, Citi, Goldman Sachs, UBS 등 21개 금융기관이 달러 스테이블코인을 발행하는 합작사를 2026년 하반기에 설립하기로 했다. 첫 상품은 2027년 상반기 출시를 목표로 하며 향후 유로 등 G7 통화로 확대할 계획이다.",
-          "impact": "high",
-          "region": "global"
-        },
-        {
-          "id": "crypto-arbitrum-robinhood-chain-20260901",
-          "title": "Robinhood Chain 수익 급증에 Arbitrum 30% 상승",
+          "id": "crypto-bitcoin-78k-rates-20260901",
+          "title": "비트코인 7만8천달러대 유지…고유가·연준 긴축 우려에 알트코인 약세",
           "source": "CoinDesk",
           "publishedAt": "2026-09-01",
-          "updatedAt": "2026-09-01T22:58:34Z",
-          "url": "https://www.coindesk.com/markets/2026/09/01/robinhood-s-new-crypto-network-is-printing-cash-and-it-s-sending-arbitrum-s-token-soaring",
-          "summary": "Robinhood의 이더리움 기반 네트워크가 하루 약 192만달러의 수익을 기록하며 Arbitrum의 ARB 토큰이 24시간 동안 30% 넘게 올랐다. 다만 네트워크 수익은 토큰 보유자에게 직접 배분되지 않아 가격 상승과 현금흐름 간 괴리도 함께 지적됐다.",
+          "updatedAt": "2026-09-02T02:59:47Z",
+          "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-steady-above-usd78-000-hype-leads-as-majors-slip-on-hawkish-fed-bets",
+          "summary": "비트코인은 8월 24% 상승 이후 7만8천달러대에서 비교적 안정적으로 움직였지만 이더리움·솔라나 등 주요 알트코인은 약세를 보였다. 유가와 미 국채금리 상승, 연준의 9월 금리 인상 우려가 위험자산 전반의 단기 부담으로 작용했다.",
           "impact": "medium",
           "region": "global"
         }
