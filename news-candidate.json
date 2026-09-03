@@ -1,41 +1,41 @@
 {
-  "updatedAt": "2026-09-03T09:01:15Z",
-  "headline": "미·이란 충돌로 높아진 유가와 장기금리 부담이 이어지는 가운데 9월 3일 글로벌 주식·채권은 반등했고 달러와 미 국채금리는 소폭 진정됐다. 한국 증시도 유가 완화에 반등했으며, 비트코인은 7만7천달러대로 회복했지만 시장은 미국 고용지표와 9월 연준 금리 결정에 여전히 민감한 상태다.",
+  "updatedAt": "2026-09-03T23:02:56Z",
+  "headline": "연준 월러 이사가 물가 둔화가 이어질 경우 9월 금리 동결을 지지하겠다고 밝히며 미 국채금리가 내려가고 미국 증시와 비트코인이 강하게 반등했다. 다만 중동 긴장으로 유가는 여전히 6주 고점 부근에 머물고 있어 인플레이션 경계는 지속되고 있다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-global-rally-fed-data-20260903",
-          "title": "글로벌 주식·채권 반등…미 고용지표와 연준 발언 대기",
-          "source": "Reuters",
-          "publishedAt": "2026-09-03T02:02:00Z",
-          "updatedAt": "2026-09-03T09:01:15Z",
-          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-03/",
-          "summary": "글로벌 주식과 채권이 반등하고 미국 10년물 국채금리는 4.766%로 소폭 하락했다. 시장은 9월 연준 금리 인상 가능성을 약 60%로 반영하며 금요일 미국 고용보고서와 연준 인사 발언을 주시하고 있다.",
+          "id": "macro-fed-waller-hold-if-disinflation-20260903",
+          "title": "월러 연준 이사, 물가 둔화 이어지면 9월 금리 동결 지지",
+          "source": "Federal Reserve Board",
+          "publishedAt": "2026-09-03",
+          "updatedAt": "2026-09-03T23:02:56Z",
+          "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
+          "summary": "크리스토퍼 월러 연준 이사는 최근 물가 둔화가 앞으로 발표될 지표에서도 이어지면 9월 FOMC에서 금리 동결을 지지하겠다고 밝혔다. 반대로 8월 물가가 다시 강해지면 금리 인상도 고려할 수 있다고 했다.",
           "impact": "high",
-          "region": "global"
+          "region": "US"
         },
         {
-          "id": "macro-oil-hormuz-20260903",
-          "title": "유가 나흘 만에 하락…호르무즈 통항 감소로 공급 불안은 지속",
-          "source": "Reuters",
-          "publishedAt": "2026-09-03T00:46:00Z",
-          "updatedAt": "2026-09-03T09:01:15Z",
-          "url": "https://www.reuters.com/business/energy/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-2026-09-03/",
-          "summary": "브렌트유와 WTI는 각각 약 0.6% 하락하며 나흘 만에 처음 내렸지만, 호르무즈 해협의 원자재 선박 통항은 최근 평균보다 크게 적었다. 미·이란 충돌이 중동 공급망을 흔들 수 있다는 우려가 여전히 유가의 핵심 변동 요인이다.",
-          "impact": "high",
-          "region": "global"
-        },
-        {
-          "id": "macro-gold-payrolls-20260903",
-          "title": "금 가격 반등…달러·국채금리 완화 속 미 고용보고서 대기",
-          "source": "Reuters",
-          "publishedAt": "2026-09-03T02:41:00Z",
-          "updatedAt": "2026-09-03T09:01:15Z",
-          "url": "https://www.reuters.com/world/india/gold-rises-dollar-yields-ease-with-us-nonfarm-payrolls-report-spotlight-2026-09-03/",
-          "summary": "현물 금은 달러와 미 국채금리가 고점에서 물러나며 약 0.8% 반등했다. 시장은 9월 연준 결정의 핵심 변수로 금요일 비농업 고용보고서를 기다리고 있으며, 금리 인상 기대는 여전히 높은 수준이다.",
+          "id": "macro-us-productivity-q2-revised-20260903",
+          "title": "미 2분기 노동생산성 연율 1.4% 증가…단위노동비용 1.2% 상승",
+          "source": "U.S. Bureau of Labor Statistics",
+          "publishedAt": "2026-09-03T12:30:00Z",
+          "updatedAt": "2026-09-03T23:02:56Z",
+          "url": "https://www.bls.gov/news.release/prod2.nr0.htm",
+          "summary": "미국 비농업 부문 노동생산성은 2분기 연율 기준 1.4% 증가했고 단위노동비용은 1.2% 상승했다. 전년 동기 대비 생산성은 2.2%, 단위노동비용은 1.4% 올랐다.",
           "impact": "medium",
+          "region": "US"
+        },
+        {
+          "id": "macro-oil-middle-east-russia-ukraine-20260903",
+          "title": "유가 혼조…중동 긴장과 러·우 협상 기대가 엇갈려",
+          "source": "Reuters",
+          "publishedAt": "2026-09-03T14:09:00Z",
+          "updatedAt": "2026-09-03T23:02:56Z",
+          "url": "https://www.reuters.com/business/energy/oil-prices-rise-escalation-middle-east-2026-09-03/",
+          "summary": "브렌트유는 배럴당 95.52달러로 0.12% 하락했고 WTI는 91.30달러로 0.32% 상승했다. 미·이란 간 교전과 호르무즈 해협 통항 감소가 공급 우려를 키운 반면 러시아의 우크라이나 평화협상 가능성 언급은 가격 상단을 제한했다.",
+          "impact": "high",
           "region": "global"
         }
       ]
@@ -44,24 +44,35 @@
       "id": "us",
       "items": [
         {
-          "id": "us-wall-street-rebound-20260902",
-          "title": "미 증시 3일 하락 뒤 반등…엔비디아·반도체주 강세",
+          "id": "us-wall-street-waller-rally-20260903",
+          "title": "월러 발언에 금리인상 우려 완화…미 3대 지수 1% 이상 상승",
           "source": "Reuters",
-          "publishedAt": "2026-09-02T08:58:00Z",
-          "updatedAt": "2026-09-03T09:01:15Z",
-          "url": "https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/",
-          "summary": "다우는 0.56%, S&P 500은 0.46%, 나스닥은 0.45% 상승하며 3거래일 연속 하락에서 반등했다. 엔비디아가 3.2% 오르고 델이 연간 실적 전망 상향으로 15.8% 급등하는 등 기술·반도체주가 회복을 주도했다.",
+          "publishedAt": "2026-09-03T10:02:00Z",
+          "updatedAt": "2026-09-03T23:02:56Z",
+          "url": "https://www.reuters.com/business/wall-st-futures-subdued-investors-weigh-earnings-oil-prices-2026-09-03/",
+          "summary": "다우는 1.18%, S&P 500은 1.06%, 나스닥은 1.40% 상승했다. 월러 이사의 조건부 금리 동결 발언 이후 9월 금리 인상 기대가 낮아지고 미 국채금리도 하락하면서 대형 기술주와 위험자산이 반등했다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-nvidia-huggingface-acquisition-20260903",
+          "title": "엔비디아, 허깅페이스 129억달러에 인수",
+          "source": "NVIDIA",
+          "publishedAt": "2026-09-03",
+          "updatedAt": "2026-09-03T23:02:56Z",
+          "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+          "summary": "엔비디아는 오픈 AI 모델 플랫폼 허깅페이스를 약 129억달러에 인수하기로 합의했다. 회사는 허깅페이스가 특정 엔비디아 칩이나 클라우드 사용을 강제하지 않는 개방형 플랫폼으로 계속 운영될 것이라고 밝혔다.",
           "impact": "high",
           "region": "US"
         },
         {
           "id": "us-sec-24hour-trading-roundtable-20260901",
-          "title": "SEC, 미국 주식 24시간 거래 준비 논의…거래소·브로커·청산 인프라 점검",
+          "title": "SEC, 미국 주식 24시간 거래 준비 위한 시장구조 논의",
           "source": "U.S. Securities and Exchange Commission",
           "publishedAt": "2026-09-01",
-          "updatedAt": "2026-09-03T09:01:15Z",
+          "updatedAt": "2026-09-03T23:02:56Z",
           "url": "https://www.sec.gov/newsroom/press-releases/2026-83-sec-announces-agenda-panelists-roundtable-preparations-24-hour-trading",
-          "summary": "SEC는 9월 17일 미국 주식의 24시간 거래 확대 준비를 논의하는 라운드테이블을 개최한다. 거래소·브로커 준비상태, 야간 감시, 청산·결제, 시스템 복원력과 유동성 등 시장구조 전반이 논의 대상이다.",
+          "summary": "SEC는 9월 17일 미국 주식의 24시간 거래 확대 준비를 논의하는 라운드테이블을 연다. 거래소·브로커 준비상태, 야간 감시, 청산·결제, 시스템 복원력과 유동성 등 사실상 상시 거래에 필요한 인프라가 핵심 의제다.",
           "impact": "medium",
           "region": "US"
         }
@@ -71,24 +82,13 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-close-rebound-20260903",
-          "title": "코스피 0.26% 반등 마감…유가 완화에 자동차·방산·조선 강세",
+          "id": "korea-kospi-rebound-oil-eases-20260903",
+          "title": "코스피 0.26% 반등…유가 완화에 원화·채권도 강세",
           "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-03T06:55:00Z",
-          "updatedAt": "2026-09-03T09:01:15Z",
-          "url": "https://en.yna.co.kr/view/AEN20260903007151320",
-          "summary": "코스피는 전날 3.99% 급락 뒤 0.26% 오른 6,579.48로 마감했다. 유가 완화 기대 속 현대차·한화에어로스페이스·한화오션이 강세를 보였고 원화는 달러당 1,359.3원으로 전일보다 강해졌다.",
-          "impact": "high",
-          "region": "Korea"
-        },
-        {
-          "id": "korea-fx-sk-hynix-repatriation-20260902",
-          "title": "한국 외환당국, SK하이닉스 ADR 환류 달러 약 200억달러 매입",
-          "source": "Reuters",
-          "publishedAt": "2026-09-02T07:23:00Z",
-          "updatedAt": "2026-09-03T09:01:15Z",
-          "url": "https://www.reuters.com/world/asia-pacific/south-korea-fx-stabilization-fund-bought-about-20-bln-sk-hynix-adr-windfall-says-2026-09-02/",
-          "summary": "한국 외환당국은 SK하이닉스의 미국 ADR 발행 후 국내로 환류된 달러 가운데 약 200억달러를 외국환평형기금을 통해 매입한 것으로 전해졌다. 이번 조치는 원화 급변동을 완화하는 동시에 최근 개입으로 줄어든 외화 유동성을 보충하려는 성격을 갖는다.",
+          "publishedAt": "2026-09-03T07:29:00Z",
+          "updatedAt": "2026-09-03T23:02:56Z",
+          "url": "https://en.yna.co.kr/view/AEN20260903007152320",
+          "summary": "코스피는 전날 3.99% 급락 뒤 0.26% 오른 6,579.48로 마감했다. 원화는 달러당 1,359.3원으로 강세를 보였고 국고채 금리도 하락하면서 중동발 위험회피가 일부 완화됐다.",
           "impact": "high",
           "region": "Korea"
         }
@@ -98,14 +98,25 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-btc-rebound-fed-odds-20260903",
-          "title": "비트코인 7만7600달러대로 반등…XRP 강세, 현물 수급은 아직 약해",
+          "id": "crypto-bitcoin-above-81000-waller-20260903",
+          "title": "비트코인 8만1000달러 돌파…월러 발언에 금리·달러 하락",
           "source": "CoinDesk",
           "publishedAt": "2026-09-03",
-          "updatedAt": "2026-09-03T09:01:15Z",
-          "url": "https://www.coindesk.com/markets/2026/09/03/bitcoin-back-above-usd77-500-xrp-leads-majors-as-fed-hike-odds-near-66",
-          "summary": "비트코인은 약 1.5% 올라 7만7600달러를 웃돌았고 XRP는 약 3% 상승하며 주요 코인 중 강세를 보였다. 다만 거래소 유입 증가와 비트코인 현물 ETF의 약 2억3600만달러 순유출 등 현물 수급은 약해 금요일 미국 고용지표가 다음 핵심 변수가 됐다.",
+          "updatedAt": "2026-09-03T23:02:56Z",
+          "url": "https://www.coindesk.com/business/2026/09/03/live-updates-crypto-majors-bounce-while-global-funds-run-their-lowest-dollar-hedges-since-2015",
+          "summary": "비트코인은 월러 연준 이사의 금리 동결 가능성 발언 이후 8만1000달러를 넘어 5월 이후 최고 수준까지 올랐다. 미 국채금리와 달러가 하락하면서 크립토와 관련 주식 전반에 위험선호가 회복됐다.",
           "impact": "high",
+          "region": "global"
+        },
+        {
+          "id": "crypto-sofi-kraken-settlement-stablecoin-20260903",
+          "title": "SoFi·Kraken 제휴…24시간 달러 결제망과 스테이블코인 연결",
+          "source": "CoinDesk",
+          "publishedAt": "2026-09-03",
+          "updatedAt": "2026-09-03T23:02:56Z",
+          "url": "https://www.coindesk.com/business/2026/09/03/sofi-kraken-tie-up-as-crypto-and-banking-push-into-each-other-s-turf",
+          "summary": "Kraken 모회사 Payward가 SoFi의 24시간 달러 결제망에 참여하고 Kraken은 SoFiUSD를 상장한다. SoFi는 Kraken Prime을 고객 암호화폐 거래의 추가 유동성 공급원으로 활용하며 전통 금융과 크립토 인프라 결합을 확대한다.",
+          "impact": "medium",
           "region": "global"
         }
       ]
