@@ -1,31 +1,53 @@
 {
-  "updatedAt": "2026-09-02T22:59:35Z",
-  "headline": "미·이란 충돌이 에너지 가격과 금리 경로의 불확실성을 키우는 가운데 미국 증시는 저가매수와 AI 대형주 반등으로 일부 회복했다. 연준 베이지북은 미국 경제의 완만한 성장과 제한적인 고용 증가, 높은 투입물가 압력을 확인했으며 한국에서는 SK하이닉스 ADR 환류자금이 외환시장 안정에 활용됐다.",
+  "updatedAt": "2026-09-03T03:01:55Z",
+  "headline": "미·이란 충돌과 높은 에너지 가격이 인플레이션·금리 경로의 불확실성을 키우고 있지만, 9월 3일 아시아 시장에서는 주식과 채권이 동반 반등하고 유가가 소폭 하락했다. 연준 베이지북은 미국 경제의 완만한 성장과 제한적인 고용 증가, 높은 투입물가 압력을 확인했고 한국 증시는 반도체주 중심으로 반등했다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
+          "id": "macro-asia-relief-rally-fed-20260903",
+          "title": "아시아 주식·채권 반등…시장, 미 고용지표와 연준 신호 대기",
+          "source": "Reuters",
+          "publishedAt": "2026-09-03T02:02:00Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-03/",
+          "summary": "9월 3일 아시아 시장에서 주식과 채권이 동반 반등하고 엔화는 전날 강세를 유지했다. 시장은 9월 연준 금리 인상 여부를 가늠하기 위해 금요일 미국 고용보고서와 연준 인사 발언을 주시하고 있다.",
+          "impact": "high",
+          "region": "global"
+        },
+        {
+          "id": "macro-oil-eases-iran-uncertainty-20260903",
+          "title": "유가 소폭 하락…미·이란 충돌 완화 가능성과 공급 불안 사이 변동성 지속",
+          "source": "Reuters",
+          "publishedAt": "2026-09-03T00:46:00Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
+          "url": "https://www.reuters.com/business/energy/oil-edges-down-investors-weigh-uncertainty-over-us-iran-strikes-2026-09-03/",
+          "summary": "브렌트유는 0.45% 내린 배럴당 95.20달러, WTI는 0.26% 내린 90.77달러를 기록했다. 최근 미·이란 교전이 다소 잦아들 수 있다는 기대가 유가를 눌렀지만 중동 공급 차질 위험은 여전히 높은 상태다.",
+          "impact": "high",
+          "region": "global"
+        },
+        {
+          "id": "macro-imf-bond-yields-debt-20260903",
+          "title": "IMF 총재, 선진국 고금리·부채가 신흥국 부채개선 위협 경고",
+          "source": "Reuters",
+          "publishedAt": "2026-09-03T00:22:00Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
+          "url": "https://www.reuters.com/world/china/imfs-georgieva-says-rising-bond-yields-threaten-progress-developing-country-debt-2026-09-03/",
+          "summary": "크리스탈리나 게오르기에바 IMF 총재는 선진국의 높은 부채와 상승하는 국채금리가 신흥국·저소득국의 부채개선 성과를 되돌릴 수 있다고 경고했다. 중동발 인플레이션과 AI 관련 자금수요가 글로벌 자본비용을 끌어올리는 요인으로 지목됐다.",
+          "impact": "high",
+          "region": "global"
+        },
+        {
           "id": "macro-fed-beige-book-20260902",
           "title": "연준 베이지북, 미국 경제 완만한 성장…고용 증가 미미·투입물가 압력 지속",
           "source": "Board of Governors of the Federal Reserve System",
           "publishedAt": "2026-09-02",
-          "updatedAt": "2026-09-02T22:59:35Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
           "url": "https://www.federalreserve.gov/monetarypolicy/beigebook202608-summary.htm",
           "summary": "연준 베이지북은 12개 지역 중 10곳에서 경제활동이 소폭~완만하게 증가했다고 평가했지만 전체 고용 증가는 매우 제한적이었다. 제조·건설을 중심으로 에너지·운송·원자재 가격 상승이 이어져 투입물가 압력이 높게 유지됐다.",
           "impact": "high",
           "region": "US"
-        },
-        {
-          "id": "macro-oil-yields-iran-20260902",
-          "title": "미·이란 긴장 지속에 유가 상승…미 국채금리는 고점에서 일부 하락",
-          "source": "Reuters",
-          "publishedAt": "2026-09-02T00:43:00Z",
-          "updatedAt": "2026-09-02T22:59:35Z",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-02/",
-          "summary": "미·이란 충돌 장기화 우려로 브렌트유는 1% 오른 배럴당 95.63달러, WTI는 0.9% 오른 91.01달러에 마감했다. 미국 10년물 국채금리는 최근 수년래 고점에서 일부 내려왔지만 에너지 가격과 긴축 우려는 계속 시장 부담으로 남았다.",
-          "impact": "high",
-          "region": "global"
         }
       ]
     },
@@ -37,20 +59,9 @@
           "title": "미 증시 3일 하락 뒤 반등…엔비디아 3.2% 상승",
           "source": "Reuters",
           "publishedAt": "2026-09-02T08:58:00Z",
-          "updatedAt": "2026-09-02T22:59:35Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
           "url": "https://www.reuters.com/business/us-stock-index-futures-subdued-oil-treasury-yields-rise-iran-tensions-2026-09-02/",
-          "summary": "다우는 0.56%, S&P 500은 0.46%, 나스닥은 0.45% 상승하며 3거래일 연속 하락에서 일부 회복했다. 엔비디아가 3.2% 오르는 등 반도체주가 반등했지만 중동 긴장과 높은 금리는 여전히 핵심 위험요인으로 남았다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "us-microsoft-azure-sales-20260902",
-          "title": "마이크로소프트, Azure 매출 첫 공개…분기 294억달러",
-          "source": "Reuters",
-          "publishedAt": "2026-09-02T20:31:00Z",
-          "updatedAt": "2026-09-02T22:59:35Z",
-          "url": "https://www.reuters.com/business/retail-consumer/microsoft-reveal-azure-cloud-sales-financial-reporting-shift-2026-09-02/",
-          "summary": "마이크로소프트는 처음으로 Azure 단독 매출을 공개해 최근 분기 294억달러, 최근 회계연도 1,019억달러를 기록했다고 밝혔다. AI 중심 사업구조를 반영해 보고 체계를 두 개 부문으로 재편하며, 발표 후 주가는 시간외 거래에서 약 1.4% 올랐다.",
+          "summary": "다우는 0.56%, S&P 500은 0.46%, 나스닥은 0.45% 상승하며 3거래일 연속 하락에서 일부 회복했다. 엔비디아가 3.2% 오르는 등 반도체주가 반등했지만 중동 긴장과 글로벌 채권금리 상승은 여전히 핵심 위험요인으로 남았다.",
           "impact": "high",
           "region": "US"
         }
@@ -60,11 +71,22 @@
       "id": "korea",
       "items": [
         {
+          "id": "korea-kospi-open-rebound-20260903",
+          "title": "코스피 장초반 반등…삼성전자·SK하이닉스 동반 강세",
+          "source": "Yonhap News Agency",
+          "publishedAt": "2026-09-03T00:24:00Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
+          "url": "https://en.yna.co.kr/view/AEN20260903001451320",
+          "summary": "코스피는 전날 3.99% 급락 뒤 9월 3일 장초반 최대 1.33% 상승하며 반등했다. 삼성전자는 1.2%, SK하이닉스는 1.05% 오르는 등 반도체주가 상승을 이끌었고 원화도 달러 대비 소폭 강세를 보였다.",
+          "impact": "high",
+          "region": "Korea"
+        },
+        {
           "id": "korea-fx-sk-hynix-repatriation-20260902",
           "title": "한국 외환당국, SK하이닉스 ADR 환류자금 약 200억달러 매입",
           "source": "Reuters",
           "publishedAt": "2026-09-02T07:23:00Z",
-          "updatedAt": "2026-09-02T22:59:35Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
           "url": "https://www.reuters.com/world/asia-pacific/south-korea-fx-stabilization-fund-bought-about-20-bln-sk-hynix-adr-windfall-says-2026-09-02/",
           "summary": "한국 외환당국이 SK하이닉스의 미국 ADR 발행 후 국내로 환류된 달러 가운데 약 200억달러를 외국환평형기금을 통해 장외 매입한 것으로 전해졌다. 원화 급변동을 완화하면서 최근 개입으로 줄어든 외화 유동성을 보충하려는 조치다.",
           "impact": "high",
@@ -80,7 +102,7 @@
           "title": "비트코인 7만6500달러 아래로…유가·미 국채금리 상승에 위험회피",
           "source": "CoinDesk",
           "publishedAt": "2026-09-02",
-          "updatedAt": "2026-09-02T22:59:35Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
           "url": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93",
           "summary": "미국의 대이란 공습 확대와 유가·미 국채금리 상승 속에서 비트코인은 7만6500달러 아래로 밀리며 주간 기준 약 3% 하락했다. 선물 미결제약정은 크게 늘지 않아 급격한 레버리지 확대보다는 거시 위험회피가 가격 하락의 주된 배경으로 나타났다.",
           "impact": "high",
@@ -91,7 +113,7 @@
           "title": "미국 XRP 현물 ETF 11거래일 연속 순유입…누적 17억달러 근접",
           "source": "CoinDesk",
           "publishedAt": "2026-09-02",
-          "updatedAt": "2026-09-02T22:59:35Z",
+          "updatedAt": "2026-09-03T03:01:55Z",
           "url": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
           "summary": "미국 XRP 현물 ETF는 11거래일 연속 자금 순유입을 기록하며 해당 기간 약 1억7000만달러, 출시 이후 누적 약 16억8000만달러를 끌어모았다. 2분기 공시 기준 골드만삭스가 가장 큰 기관 보유자로 나타났지만 해당 보유분의 헤지 여부는 공시만으로 확인할 수 없다.",
           "impact": "medium",
