@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-05T02:58:39Z",
-  "headline": "미국 8월 고용이 예상보다 크게 늘면서 9월 연준 금리 인상 기대와 국채금리가 다시 높아졌고, 글로벌 자금은 현금성 자산으로 이동하는 모습이 두드러졌다. 한국 증시는 수출·반도체 강세로 상승했지만 비트코인은 강한 고용지표 뒤 8만달러 아래로 밀렸다.",
+  "updatedAt": "2026-09-05T08:58:09Z",
+  "headline": "미국 8월 고용이 예상보다 강해 9월 연준 금리 인상 가능성이 남은 가운데, 세계 식량가격 상승과 이란 핵심 원유 수출 거점 인근의 유조선 피격이 추가 물가·에너지 리스크를 키웠다. 한국은 AI 반도체 호황으로 올해 누적 수출이 지난해 연간 사상 최고치를 넘어섰고, 크립토에서는 한국의 증권 토큰화 로드맵과 동남아 블록체인 투자 회복이 부각됐다.",
   "sections": [
     {
       "id": "macro",
@@ -10,32 +10,32 @@
           "title": "미 8월 비농업 고용 16만2000명 증가…실업률 4.1% 유지",
           "source": "U.S. Bureau of Labor Statistics",
           "publishedAt": "2026-09-04T12:30:00Z",
-          "updatedAt": "2026-09-05T02:58:39Z",
+          "updatedAt": "2026-09-05T08:58:09Z",
           "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-          "summary": "미국의 8월 비농업 고용은 16만2000명 늘었고 실업률은 4.1%로 유지됐다. 노동시장이 예상보다 견조하게 나타나면서 연준의 9월 정책 판단에서 물가 억제 필요성이 다시 부각됐다.",
+          "summary": "미국의 8월 비농업 고용은 16만2000명 증가했고 실업률은 4.1%로 유지됐다. 6·7월 고용도 합계 5만5000명 상향 수정돼 노동시장이 예상보다 견조하다는 점이 확인됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "macro-global-money-funds-inflow-20260904",
-          "title": "글로벌 머니마켓펀드에 461억달러 유입…한 달 만에 최대",
+          "id": "macro-world-food-prices-20260904",
+          "title": "세계 식량가격, 2022년 이후 최고…공급 리스크 확대",
           "source": "Reuters",
-          "publishedAt": "2026-09-04T10:44:00Z",
-          "updatedAt": "2026-09-05T02:58:39Z",
-          "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-09-04/",
-          "summary": "9월 2일까지 한 주 동안 글로벌 머니마켓펀드에 461억달러가 순유입돼 8월 초 이후 최대를 기록했다. 미·이란 긴장과 글로벌 채권 매도 속에서 투자자들이 현금성 자산과 단기채로 이동한 흐름이 확인됐다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-04T13:41:00Z",
+          "updatedAt": "2026-09-05T08:58:09Z",
+          "url": "https://www.reuters.com/world/europe/world-food-prices-highest-since-2022-supply-risks-mount-fao-says-2026-09-04/",
+          "summary": "FAO 식량가격지수는 8월 133.3으로 올라 2022년 11월 이후 최고치를 기록했다. 유럽의 폭염·가뭄, 흑해 전쟁 격화와 이란 전쟁에 따른 비료·물류 차질이 곡물·설탕 등 가격을 밀어 올렸다.",
+          "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-norway-us-treasury-cut-proposal-20260904",
-          "title": "노르웨이 국부펀드, 미 국채 비중 대폭 축소 제안",
+          "id": "macro-iran-kharg-tanker-hit-20260905",
+          "title": "이란 핵심 원유 수출 거점 하르그섬 인근 유조선 피격",
           "source": "Reuters",
-          "publishedAt": "2026-09-04T09:28:00Z",
-          "updatedAt": "2026-09-05T02:58:39Z",
-          "url": "https://www.reuters.com/business/norways-2-trillion-sovereign-fund-proposes-deep-cuts-us-treasury-holdings-2026-09-04/",
-          "summary": "노르웨이 국부펀드 운용사는 벤치마크 내 국채 비중을 70%에서 50%로 낮추는 방안을 제안했다. Reuters 계산상 현재 약 2150억달러인 미 국채 보유액에서 약 800억달러가 줄 수 있어 장기채 수급 측면에서 주목된다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-05T07:16:00Z",
+          "updatedAt": "2026-09-05T08:58:09Z",
+          "url": "https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/",
+          "summary": "이란 타스님통신은 하르그섬 정박지 인근의 이란 유조선이 미군 공격을 받았다고 보도했다. 전쟁 전 이란 원유의 약 90%가 하르그섬을 통해 수출된 만큼 에너지 공급망 불확실성을 다시 키우는 사건이다.",
+          "impact": "high",
           "region": "global"
         }
       ]
@@ -44,25 +44,36 @@
       "id": "us",
       "items": [
         {
-          "id": "us-wall-street-jobs-yields-20260904",
-          "title": "강한 고용지표에 미 국채금리 상승…미 3대 지수 하락",
-          "source": "Reuters",
-          "publishedAt": "2026-09-04T02:34:00Z",
-          "updatedAt": "2026-09-05T02:58:39Z",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/",
-          "summary": "강한 8월 고용지표 뒤 미 2년물 금리는 4.37%, 10년물은 약 4.78%로 올랐고 연방기금 선물의 9월 인상 기대도 높아졌다. 다우는 0.51%, S&P 500은 0.38%, 나스닥은 0.29% 하락했다.",
+          "id": "us-nvidia-huggingface-sec-20260903",
+          "title": "엔비디아, 허깅페이스 약 129억달러 인수 계약 공시",
+          "source": "NVIDIA Corporation / U.S. SEC",
+          "publishedAt": "2026-09-03T12:03:56Z",
+          "updatedAt": "2026-09-05T08:58:09Z",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm",
+          "summary": "엔비디아는 허깅페이스 주주 지급액 약 119억달러와 최대 10억달러의 직원 유지 보상을 포함한 인수 계약을 SEC에 공시했다. 거래는 2027년 상반기 종결 예정이며 허깅페이스의 개방형 플랫폼과 타사 반도체 지원을 유지하기로 했다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-nvidia-huggingface-sec-20260903",
-          "title": "엔비디아, 허깅페이스 인수 계약 SEC 공시",
-          "source": "NVIDIA Corporation / U.S. SEC",
-          "publishedAt": "2026-09-03T08:03:56-04:00",
-          "updatedAt": "2026-09-05T02:58:39Z",
-          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm",
-          "summary": "엔비디아는 허깅페이스 주주에게 약 119억달러를 지급하고 최대 10억달러의 직원 유지 보상을 포함하는 인수 계약을 체결했다고 8-K로 공시했다. 거래는 규제 승인 등을 거쳐 2027년 상반기 종결될 예정이며 플랫폼 개방성을 유지하겠다고 밝혔다.",
+          "id": "us-anthropic-ipo-timing-20260904",
+          "title": "Anthropic IPO 마케팅, 10월 중순 이후로 이동 가능성",
+          "source": "Reuters",
+          "publishedAt": "2026-09-04T22:41:00Z",
+          "updatedAt": "2026-09-05T08:58:09Z",
+          "url": "https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/",
+          "summary": "Reuters는 Anthropic이 IPO 마케팅을 이르면 10월 중순 시작하고 상장 절차를 미국 중간선거 직전 마무리하는 방안을 검토 중이라고 보도했다. 최대 2조달러 규모로 거론되는 대형 AI 상장이 공모시장과 AI 밸류에이션의 핵심 시험대로 부상하고 있다.",
           "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-china-ai-safety-talks-20260904",
+          "title": "미·중, 9월 중순 AI 안전 대화 추진",
+          "source": "Reuters",
+          "publishedAt": "2026-09-04T16:30:00Z",
+          "updatedAt": "2026-09-05T08:58:09Z",
+          "url": "https://www.reuters.com/legal/litigation/us-china-gear-up-mid-september-ai-safety-dialogue-2026-09-04/",
+          "summary": "미국과 중국이 AI 기반 사이버공격 감시와 프런티어 모델 안전 문제를 다루는 양자 대화를 9월 중순 추진 중인 것으로 전해졌다. 최종 일정은 확정되지 않았지만 미·중 기술정책과 AI 기업 규제환경에 영향을 줄 수 있는 사안이다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -71,24 +82,13 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-close-20260904",
-          "title": "코스피 1.64% 상승…수출 호조·반도체 강세",
-          "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-04T07:18:00Z",
-          "updatedAt": "2026-09-05T02:58:39Z",
-          "url": "https://en.yna.co.kr/view/AEN20260904008551320",
-          "summary": "코스피는 1.64% 오른 6,687.21에 마감했고 외국인과 기관이 합산 약 2조1500억원을 순매수했다. 삼성전자와 SK하이닉스가 각각 2.2%, 3.2% 올라 수출·AI 반도체 기대가 지수 상승을 이끌었다.",
-          "impact": "high",
-          "region": "Korea"
-        },
-        {
-          "id": "korea-us-chip-investment-talks-20260904",
-          "title": "한미, 반도체 투자 협의 지속…미 관세정책과 연계",
+          "id": "korea-record-exports-20260905",
+          "title": "한국 올해 누적 수출 7094억달러…지난해 연간 사상 최고치 돌파",
           "source": "Reuters",
-          "publishedAt": "2026-09-04T04:23:00Z",
-          "updatedAt": "2026-09-05T02:58:39Z",
-          "url": "https://www.reuters.com/world/asia-pacific/south-korea-says-chip-investments-under-discussion-with-us-amid-tariff-concerns-2026-09-04/",
-          "summary": "한국 대통령실은 미국과의 광범위한 협상에서 미국 내 반도체 투자가 논의되고 있다고 밝혔다. 미국의 선별적 반도체 수입 관세 구상과 삼성전자·SK하이닉스의 대미 투자 조건이 맞물린 사안이다.",
+          "publishedAt": "2026-09-05T05:56:00Z",
+          "updatedAt": "2026-09-05T08:58:09Z",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-2026-09-05/",
+          "summary": "한국의 올해 누적 수출이 7094억달러로 지난해 연간 기록 7093억달러를 이미 넘어섰다. 1~8월 반도체 수출은 전년 대비 169.6% 증가한 2810억달러로 전체 수출의 41%를 차지했다.",
           "impact": "high",
           "region": "Korea"
         }
@@ -98,26 +98,26 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-bitcoin-below-80000-jobs-20260904",
-          "title": "강한 미 고용지표에 비트코인 8만달러 아래로 하락",
-          "source": "CoinDesk",
-          "publishedAt": "2026-09-04",
-          "updatedAt": "2026-09-05T02:58:39Z",
-          "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
-          "summary": "미국 8월 고용이 예상치를 크게 웃돌자 비트코인은 약 2% 떨어져 8만달러 아래로 내려갔다. 동시에 미 10년물과 2년물 국채금리가 뛰면서 금리 경로가 암호화폐 시장의 핵심 변수로 다시 부각됐다.",
-          "impact": "high",
-          "region": "global"
-        },
-        {
           "id": "crypto-korea-tokenized-securities-roadmap-20260904",
           "title": "금융위, 증권 토큰화 3단계 로드맵 공개",
           "source": "Financial Services Commission",
           "publishedAt": "2026-09-04",
-          "updatedAt": "2026-09-05T02:58:39Z",
+          "updatedAt": "2026-09-05T08:58:09Z",
           "url": "https://www.fsc.go.kr/eng/pr010101/87653",
-          "summary": "금융위원회는 2027년 2월부터 주식·채권·펀드 등 전통 증권까지 포함하는 토큰화 인프라를 단계적으로 도입하겠다고 밝혔다. 최종 단계에서는 스테이블코인과 연결된 온체인 결제 인프라 구축을 추진한다.",
+          "summary": "금융위원회는 2027년 2월부터 주식·채권·펀드 등 전통 증권을 포함한 토큰화 인프라를 단계적으로 도입하기로 했다. 최종 단계에서는 스테이블코인과 연결된 온체인 결제 인프라 구축을 추진한다.",
           "impact": "high",
           "region": "Korea"
+        },
+        {
+          "id": "crypto-sea-funding-rebound-20260905",
+          "title": "동남아 블록체인 투자 6억8000만달러…2025년 연간의 두 배 이상",
+          "source": "CoinDesk",
+          "publishedAt": "2026-09-05",
+          "updatedAt": "2026-09-05T08:58:09Z",
+          "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
+          "summary": "동남아 블록체인 기업의 2026년 누적 지분투자가 6억8000만달러로 2025년 전체 3억1900만달러의 두 배를 넘었다. 다만 투자 건수는 줄고 자금이 싱가포르와 성숙한 금융서비스 기업에 집중되는 양상이다.",
+          "impact": "medium",
+          "region": "Asia"
         }
       ]
     }
