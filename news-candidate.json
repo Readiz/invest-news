@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-04T22:57:36Z",
-  "headline": "미국 8월 고용이 예상보다 크게 늘며 9월 연준 금리 인상 기대와 국채금리가 다시 높아졌고, 비트코인은 8만달러 아래로 밀렸다. 미·이란 충돌로 유가도 주간 급등했지만, 한국 증시는 미국 고용 발표 전 수출·반도체 강세를 바탕으로 상승 마감했다.",
+  "updatedAt": "2026-09-05T02:58:39Z",
+  "headline": "미국 8월 고용이 예상보다 크게 늘면서 9월 연준 금리 인상 기대와 국채금리가 다시 높아졌고, 글로벌 자금은 현금성 자산으로 이동하는 모습이 두드러졌다. 한국 증시는 수출·반도체 강세로 상승했지만 비트코인은 강한 고용지표 뒤 8만달러 아래로 밀렸다.",
   "sections": [
     {
       "id": "macro",
@@ -10,21 +10,32 @@
           "title": "미 8월 비농업 고용 16만2000명 증가…실업률 4.1% 유지",
           "source": "U.S. Bureau of Labor Statistics",
           "publishedAt": "2026-09-04T12:30:00Z",
-          "updatedAt": "2026-09-04T22:57:36Z",
+          "updatedAt": "2026-09-05T02:58:39Z",
           "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-          "summary": "미국의 8월 비농업 고용은 16만2000명 늘었고 실업률은 4.1%로 유지됐다. 시간당 평균임금은 전월 대비 0.3%, 전년 대비 3.1% 올라 노동시장이 예상보다 견조하다는 신호를 보냈다.",
+          "summary": "미국의 8월 비농업 고용은 16만2000명 늘었고 실업률은 4.1%로 유지됐다. 노동시장이 예상보다 견조하게 나타나면서 연준의 9월 정책 판단에서 물가 억제 필요성이 다시 부각됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "macro-oil-us-iran-weekly-surge-20260904",
-          "title": "미·이란 교전 재개에 유가 주간 급등…미 디젤 가격 사상 최고",
+          "id": "macro-global-money-funds-inflow-20260904",
+          "title": "글로벌 머니마켓펀드에 461억달러 유입…한 달 만에 최대",
           "source": "Reuters",
-          "publishedAt": "2026-09-04T01:28:00Z",
-          "updatedAt": "2026-09-04T22:57:36Z",
-          "url": "https://www.reuters.com/business/energy/oil-set-steepest-weekly-gain-since-mid-july-over-intensifying-us-iran-tensions-2026-09-04/",
-          "summary": "브렌트유와 WTI는 주간 기준 각각 7.6%, 약 10% 상승했고 미국 평균 디젤 가격은 갤런당 5.85달러로 사상 최고를 기록했다. 호르무즈 해협 통항량이 최근 평균을 크게 밑돌아 에너지발 인플레이션 부담이 이어지고 있다.",
-          "impact": "high",
+          "publishedAt": "2026-09-04T10:44:00Z",
+          "updatedAt": "2026-09-05T02:58:39Z",
+          "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-09-04/",
+          "summary": "9월 2일까지 한 주 동안 글로벌 머니마켓펀드에 461억달러가 순유입돼 8월 초 이후 최대를 기록했다. 미·이란 긴장과 글로벌 채권 매도 속에서 투자자들이 현금성 자산과 단기채로 이동한 흐름이 확인됐다.",
+          "impact": "medium",
+          "region": "global"
+        },
+        {
+          "id": "macro-norway-us-treasury-cut-proposal-20260904",
+          "title": "노르웨이 국부펀드, 미 국채 비중 대폭 축소 제안",
+          "source": "Reuters",
+          "publishedAt": "2026-09-04T09:28:00Z",
+          "updatedAt": "2026-09-05T02:58:39Z",
+          "url": "https://www.reuters.com/business/norways-2-trillion-sovereign-fund-proposes-deep-cuts-us-treasury-holdings-2026-09-04/",
+          "summary": "노르웨이 국부펀드 운용사는 벤치마크 내 국채 비중을 70%에서 50%로 낮추는 방안을 제안했다. Reuters 계산상 현재 약 2150억달러인 미 국채 보유액에서 약 800억달러가 줄 수 있어 장기채 수급 측면에서 주목된다.",
+          "impact": "medium",
           "region": "global"
         }
       ]
@@ -33,13 +44,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-stocks-yields-after-jobs-20260904",
-          "title": "강한 고용지표에 미 국채금리 상승…미 증시는 혼조",
+          "id": "us-wall-street-jobs-yields-20260904",
+          "title": "강한 고용지표에 미 국채금리 상승…미 3대 지수 하락",
           "source": "Reuters",
           "publishedAt": "2026-09-04T02:34:00Z",
-          "updatedAt": "2026-09-04T22:57:36Z",
+          "updatedAt": "2026-09-05T02:58:39Z",
           "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-04/",
-          "summary": "8월 고용이 예상치를 크게 웃돌면서 미 10년물 국채금리는 4.77%대로 올랐고 9월 금리 인상 기대도 높아졌다. 다우와 S&P 500은 소폭 하락하고 나스닥은 강보합을 기록하는 등 주식시장은 혼조를 보였다.",
+          "summary": "강한 8월 고용지표 뒤 미 2년물 금리는 4.37%, 10년물은 약 4.78%로 올랐고 연방기금 선물의 9월 인상 기대도 높아졌다. 다우는 0.51%, S&P 500은 0.38%, 나스닥은 0.29% 하락했다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-nvidia-huggingface-sec-20260903",
+          "title": "엔비디아, 허깅페이스 인수 계약 SEC 공시",
+          "source": "NVIDIA Corporation / U.S. SEC",
+          "publishedAt": "2026-09-03T08:03:56-04:00",
+          "updatedAt": "2026-09-05T02:58:39Z",
+          "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000078/nvda-20260902.htm",
+          "summary": "엔비디아는 허깅페이스 주주에게 약 119억달러를 지급하고 최대 10억달러의 직원 유지 보상을 포함하는 인수 계약을 체결했다고 8-K로 공시했다. 거래는 규제 승인 등을 거쳐 2027년 상반기 종결될 예정이며 플랫폼 개방성을 유지하겠다고 밝혔다.",
           "impact": "high",
           "region": "US"
         }
@@ -53,32 +75,21 @@
           "title": "코스피 1.64% 상승…수출 호조·반도체 강세",
           "source": "Yonhap News Agency",
           "publishedAt": "2026-09-04T07:18:00Z",
-          "updatedAt": "2026-09-04T22:57:36Z",
+          "updatedAt": "2026-09-05T02:58:39Z",
           "url": "https://en.yna.co.kr/view/AEN20260904008551320",
-          "summary": "코스피는 1.64% 오른 6,687.21에 마감했고 외국인과 기관이 합산 2조1500억원을 순매수했다. 삼성전자와 SK하이닉스가 각각 2.2%, 3.2% 상승하며 지수 반등을 이끌었다.",
+          "summary": "코스피는 1.64% 오른 6,687.21에 마감했고 외국인과 기관이 합산 약 2조1500억원을 순매수했다. 삼성전자와 SK하이닉스가 각각 2.2%, 3.2% 올라 수출·AI 반도체 기대가 지수 상승을 이끌었다.",
           "impact": "high",
           "region": "Korea"
         },
         {
-          "id": "korea-us-chip-investment-tariff-talks-20260904",
+          "id": "korea-us-chip-investment-talks-20260904",
           "title": "한미, 반도체 투자 협의 지속…미 관세정책과 연계",
           "source": "Reuters",
           "publishedAt": "2026-09-04T04:23:00Z",
-          "updatedAt": "2026-09-04T22:57:36Z",
+          "updatedAt": "2026-09-05T02:58:39Z",
           "url": "https://www.reuters.com/world/asia-pacific/south-korea-says-chip-investments-under-discussion-with-us-amid-tariff-concerns-2026-09-04/",
-          "summary": "한국 대통령실은 미국과의 광범위한 협상 과정에서 미국 내 반도체 투자 문제가 논의되고 있다고 밝혔다. 미국의 반도체 수입 관세 정책과 삼성전자·SK하이닉스의 대미 투자 조건이 맞물린 사안이다.",
+          "summary": "한국 대통령실은 미국과의 광범위한 협상에서 미국 내 반도체 투자가 논의되고 있다고 밝혔다. 미국의 선별적 반도체 수입 관세 구상과 삼성전자·SK하이닉스의 대미 투자 조건이 맞물린 사안이다.",
           "impact": "high",
-          "region": "Korea"
-        },
-        {
-          "id": "korea-us-companies-invest-2b-20260904",
-          "title": "미 기업 4곳, 한국 반도체·에너지 분야에 20억달러 투자",
-          "source": "Reuters",
-          "publishedAt": "2026-09-03T22:39:00Z",
-          "updatedAt": "2026-09-04T22:57:36Z",
-          "url": "https://www.reuters.com/business/energy/south-korea-says-us-companies-invest-2-billion-chip-energy-sectors-2026-09-03/",
-          "summary": "Air Products, Axcelis, Corning, Pacifico Energy 등 미국 기업 4곳이 한국 반도체·첨단소재·에너지 분야에 총 20억달러를 투자하기로 했다. 반도체 공급망과 서남권 해상풍력 프로젝트에 대한 외국인 직접투자 확대가 핵심이다.",
-          "impact": "medium",
           "region": "Korea"
         }
       ]
@@ -87,24 +98,24 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-bitcoin-below-80000-after-jobs-20260904",
+          "id": "crypto-bitcoin-below-80000-jobs-20260904",
           "title": "강한 미 고용지표에 비트코인 8만달러 아래로 하락",
           "source": "CoinDesk",
           "publishedAt": "2026-09-04",
-          "updatedAt": "2026-09-04T22:57:36Z",
-          "url": "https://www.coindesk.com/business/2026/09/04/live-updates-bitcoin-etfs-take-usd731-million-their-biggest-day-since-january",
-          "summary": "미국 8월 고용이 예상치를 크게 웃돌자 비트코인은 약 2% 하락해 8만달러 아래로 밀렸고 미 국채금리는 뛰었다. 직전 거래일에는 미국 현물 비트코인 ETF에 약 7억3100만달러가 순유입돼 기관 수급과 거시환경이 엇갈리는 모습이다.",
+          "updatedAt": "2026-09-05T02:58:39Z",
+          "url": "https://www.coindesk.com/markets/2026/09/04/u-s-added-stronger-than-expected-162-000-jobs-in-august-as-labor-market-bounced-back",
+          "summary": "미국 8월 고용이 예상치를 크게 웃돌자 비트코인은 약 2% 떨어져 8만달러 아래로 내려갔다. 동시에 미 10년물과 2년물 국채금리가 뛰면서 금리 경로가 암호화폐 시장의 핵심 변수로 다시 부각됐다.",
           "impact": "high",
           "region": "global"
         },
         {
           "id": "crypto-korea-tokenized-securities-roadmap-20260904",
-          "title": "금융위, 증권 토큰화 3단계 로드맵 공개…향후 스테이블코인 결제 연계",
+          "title": "금융위, 증권 토큰화 3단계 로드맵 공개",
           "source": "Financial Services Commission",
           "publishedAt": "2026-09-04",
-          "updatedAt": "2026-09-04T22:57:36Z",
+          "updatedAt": "2026-09-05T02:58:39Z",
           "url": "https://www.fsc.go.kr/eng/pr010101/87653",
-          "summary": "금융위원회는 2027년 2월부터 주식·채권·펀드 등 전통 증권의 토큰화를 단계적으로 확대하는 로드맵을 공개했다. 최종 단계에서는 스테이블코인과 연계한 온체인 결제 인프라 구축을 추진한다.",
+          "summary": "금융위원회는 2027년 2월부터 주식·채권·펀드 등 전통 증권까지 포함하는 토큰화 인프라를 단계적으로 도입하겠다고 밝혔다. 최종 단계에서는 스테이블코인과 연결된 온체인 결제 인프라 구축을 추진한다.",
           "impact": "high",
           "region": "Korea"
         }
