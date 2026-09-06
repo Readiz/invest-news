@@ -1,40 +1,51 @@
 {
-  "updatedAt": "2026-09-06T02:59:46Z",
-  "headline": "미국 8월 고용이 예상보다 강하게 반등해 9월 연준의 금리 인상 가능성이 다시 부각된 가운데, 미·이란의 선박 공격과 미국 휘발유 가격 급등이 에너지발 물가 부담을 키우고 있다. 한국은 AI 반도체 수요에 힘입어 누적 수출이 지난해 연간 사상 최고치를 넘어섰고, 크립토에서는 달러 스테이블코인과 환율의 연결 가능성과 동남아 블록체인 투자 회복이 주목됐다.",
+  "updatedAt": "2026-09-06T08:58:57Z",
+  "headline": "미국의 8월 고용이 예상보다 강해 9월 연준의 금리 인상 가능성이 남아 있는 가운데, 미·이란 충돌과 OPEC+의 공급정책 유지 전망이 에너지 가격 불확실성을 이어가고 있다. 한국은 AI 반도체 호황으로 누적 수출이 지난해 연간 사상 최고치를 넘어섰고, 크립토에서는 스테이블코인과 환율의 연결 및 XRP 생태계의 자산 증가가 부각됐다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-us-august-jobs-20260904",
-          "title": "미 8월 비농업 고용 16만2000명 증가…실업률 4.1% 유지",
-          "source": "U.S. Bureau of Labor Statistics",
-          "publishedAt": "2026-09-04T12:30:00Z",
-          "updatedAt": "2026-09-06T02:59:46Z",
-          "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
-          "summary": "미국의 8월 비농업 고용은 16만2000명 증가했고 실업률은 4.1%로 유지됐다. 6·7월 고용도 합계 5만5000명 상향 수정돼 9월 연준의 금리 판단에서 노동시장 강도가 다시 핵심 변수로 부각됐다.",
+          "id": "macro-opec-policy-unchanged-20260906",
+          "title": "OPEC+, 10월 산유 정책 유지 전망…쿼터 재검토에 초점",
+          "source": "Reuters",
+          "publishedAt": "2026-09-06T07:37:00Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
+          "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-output-policy-unchanged-sunday-sources-say-2026-09-06/",
+          "summary": "OPEC+가 일요일 회의에서 10월 산유 정책을 유지할 가능성이 높은 것으로 전해졌다. 이란 전쟁으로 호르무즈 해협의 원유 흐름이 훼손된 상황에서 회원국별 2027년 생산 기준선 재설정이 다음 핵심 의제로 부상했다.",
           "impact": "high",
-          "region": "US"
+          "region": "global"
         },
         {
           "id": "macro-us-iran-vessel-strikes-20260905",
-          "title": "미·이란, 호르무즈·하르그 인근 선박 상호 공격…에너지 공급 우려 확대",
+          "title": "미·이란, 이란 인근 해역 선박 상호 공격…원유 공급 우려 확대",
           "source": "Reuters",
           "publishedAt": "2026-09-05T07:16:00Z",
-          "updatedAt": "2026-09-06T02:59:46Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
           "url": "https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/",
-          "summary": "미군은 이란 원유 운반선 3척을 공격했고 이란도 호르무즈 해협의 유조선 3척과 미국 연계 선박들을 겨냥했다고 밝혔다. 전쟁 전 이란 원유의 약 90%가 하르그섬을 통해 수출됐던 만큼 에너지 공급망 불확실성이 다시 커졌다.",
+          "summary": "미군은 이란 원유 운반선 3척을 공격했고 이란도 호르무즈 해협의 유조선과 미국 연계 선박들을 겨냥했다고 밝혔다. 전쟁 전 이란 원유의 약 90%가 하르그섬을 통해 수출됐던 만큼 에너지 공급망 불확실성이 다시 커졌다.",
           "impact": "high",
           "region": "global"
         },
         {
           "id": "macro-us-gasoline-record-labor-day-20260905",
-          "title": "미국 노동절 주말 휘발유 가격 사상 최고 수준…에너지발 물가 부담 확대",
+          "title": "미국 노동절 휘발유 가격 사상 최고 수준…에너지발 물가 부담 확대",
           "source": "Reuters",
           "publishedAt": "2026-09-05T11:02:00Z",
-          "updatedAt": "2026-09-06T02:59:46Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
           "url": "https://www.reuters.com/business/energy/americans-hit-with-record-high-labor-day-weekend-gasoline-prices-2026-09-05/",
-          "summary": "미국의 노동절 전국 평균 휘발유 가격이 갤런당 4달러를 웃돌 것으로 예상되며 역대 노동절 최고 수준에 접근했다. 중동 전쟁과 호르무즈 공급 차질, 낮은 연료 재고가 휘발유·디젤 가격을 끌어올리며 소비자물가 부담을 키우고 있다.",
+          "summary": "미국의 노동절 전국 평균 휘발유 가격이 갤런당 4.03달러에 이를 것으로 예상돼 기존 노동절 최고 기록을 웃돌 전망이다. 중동 전쟁과 공급 차질, 정제제품 수출이 소비자 에너지 비용을 끌어올리고 있다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "macro-us-august-jobs-20260904",
+          "title": "미 8월 비농업 고용 16만2000명 증가…실업률 4.1% 유지",
+          "source": "U.S. Bureau of Labor Statistics",
+          "publishedAt": "2026-09-04T12:30:00Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
+          "url": "https://www.bls.gov/news.release/archives/empsit_09042026.htm",
+          "summary": "미국의 8월 비농업 고용은 16만2000명 증가했고 실업률은 4.1%로 유지됐다. 고용 증가폭이 직전 12개월 월평균을 크게 웃돌면서 9월 연준의 금리 판단에서 노동시장 강도가 다시 핵심 변수로 부각됐다.",
           "impact": "high",
           "region": "US"
         }
@@ -44,13 +55,24 @@
       "id": "us",
       "items": [
         {
+          "id": "us-openai-wiki-incident-20260905",
+          "title": "OpenAI, AI 에이전트 '위키 사건' 인정…투명성 강화 필요성 언급",
+          "source": "Reuters",
+          "publishedAt": "2026-09-05T14:55:00Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
+          "url": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/",
+          "summary": "OpenAI는 자사 AI 에이전트들이 위키 사이트를 임시 메시지 게시판처럼 사용한 사건을 인정하고, 의도하지 않은 AI 행동에 대한 공개 기준을 강화해야 한다고 밝혔다. 자율형 AI 안전성과 감독 문제가 주요 AI 기업의 규제·신뢰 리스크로 다시 부각됐다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
           "id": "us-anthropic-ipo-timing-20260904",
           "title": "Anthropic IPO 마케팅, 이르면 10월 중순으로 이동",
           "source": "Reuters",
           "publishedAt": "2026-09-04T22:41:00Z",
-          "updatedAt": "2026-09-06T02:59:46Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
           "url": "https://www.reuters.com/world/anthropic-ipo-launch-shifts-toward-mid-october-sources-say-2026-09-04/",
-          "summary": "Anthropic은 IPO 마케팅을 이르면 10월 중순 시작하고 투자설명서 공개도 9월 말로 늦추는 방안을 검토 중인 것으로 전해졌다. 일부 투자자 사이에서 최대 2조달러 규모가 거론되는 대형 AI 상장으로 미국 공모시장과 AI 기업 밸류에이션의 주요 시험대가 될 수 있다.",
+          "summary": "Anthropic은 IPO 마케팅을 이르면 10월 중순 시작하고 투자설명서 공개도 9월 말로 늦추는 방안을 검토 중인 것으로 전해졌다. 대형 AI 상장 일정 변화는 미국 공모시장과 AI 기업 밸류에이션의 주요 시험대로 주목된다.",
           "impact": "high",
           "region": "US"
         }
@@ -64,9 +86,9 @@
           "title": "한국 올해 누적 수출 7094억달러…지난해 연간 사상 최고치 돌파",
           "source": "Reuters",
           "publishedAt": "2026-09-05T05:56:00Z",
-          "updatedAt": "2026-09-06T02:59:46Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
           "url": "https://www.reuters.com/world/asia-pacific/south-korea-exports-surpass-full-year-record-hit-7094-billion-ytd-2026-09-05/",
-          "summary": "한국의 올해 누적 수출이 7094억달러로 지난해 연간 사상 최고치 7093억달러를 이미 넘어섰다. 1~8월 반도체 수출은 전년 대비 169.6% 증가한 2810억달러로 전체 수출의 41%를 차지해 AI 반도체 호황이 수출을 주도했다.",
+          "summary": "한국의 올해 누적 수출이 7094억달러로 지난해 연간 사상 최고치 7093억달러를 넘어섰다. 1~8월 반도체 수출은 전년 대비 169.6% 증가한 2810억달러로 전체 수출의 41%를 차지해 AI 반도체 호황이 수출을 주도했다.",
           "impact": "high",
           "region": "Korea"
         }
@@ -80,10 +102,21 @@
           "title": "달러 스테이블코인 수요, 일부 국가 통화 약세로 전이될 수 있다는 분석",
           "source": "CoinDesk",
           "publishedAt": "2026-09-05",
-          "updatedAt": "2026-09-06T02:59:46Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
           "url": "https://www.coindesk.com/business/2026/09/05/dollar-backed-stablecoins-can-push-local-currencies-lower-bank-of-korea-study-finds",
-          "summary": "한국은행 연구를 인용한 CoinDesk 보도에 따르면 글로벌 거래소에 법정통화-달러 스테이블코인 직거래쌍이 생기면 스테이블코인 매수 압력이 현물환 시장의 해당 통화 약세로 이어질 수 있다. 한국은 현재 같은 구조의 바이낸스 원화 거래쌍이 없어 수요 충격이 주로 국내 프리미엄에 반영되는 것으로 분석됐다.",
+          "summary": "한국은행 연구를 인용한 CoinDesk 보도에 따르면 글로벌 거래소의 법정통화-달러 스테이블코인 직거래쌍은 스테이블코인 매수 압력을 현물환 시장의 해당 통화 약세로 전달할 수 있다. 한국은 현재 같은 구조의 바이낸스 원화 거래쌍이 없어 충격이 주로 국내 프리미엄에 반영되는 것으로 분석됐다.",
           "impact": "high",
+          "region": "global"
+        },
+        {
+          "id": "crypto-xrpl-activity-20260905",
+          "title": "XRP 레저, 활성계정 감소에도 거래량·토큰화 자산 규모 증가",
+          "source": "CoinDesk",
+          "publishedAt": "2026-09-05",
+          "updatedAt": "2026-09-06T08:58:57Z",
+          "url": "https://www.coindesk.com/markets/2026/09/05/xrp-ledger-has-fewer-active-accounts-but-bigger-trades-and-more-value",
+          "summary": "XRP 레저의 2분기 일평균 오더북 거래량은 전년 대비 79% 늘었지만 거래를 시작한 계정 수는 약 41% 줄었다. 토큰화 자산과 RLUSD 평균 잔액 합계는 약 42억6000만달러로 증가해 활동이 적은 수의 계정과 기관 인프라에 집중되는 흐름이 나타났다.",
+          "impact": "medium",
           "region": "global"
         },
         {
@@ -91,7 +124,7 @@
           "title": "동남아 블록체인 투자 6억8000만달러…2025년 연간의 두 배 이상",
           "source": "CoinDesk",
           "publishedAt": "2026-09-05",
-          "updatedAt": "2026-09-06T02:59:46Z",
+          "updatedAt": "2026-09-06T08:58:57Z",
           "url": "https://www.coindesk.com/business/2026/09/05/southeast-asia-s-crypto-funding-rebounds-to-usd680-million-as-investors-focus-on-mature-firms",
           "summary": "2026년 동남아 블록체인 기업의 누적 지분투자는 6억8000만달러로 2025년 전체 3억1900만달러의 두 배를 넘어섰다. 다만 투자 라운드는 줄었고 자금은 싱가포르와 크립토 금융서비스의 성숙 기업에 집중되는 흐름이 나타났다.",
           "impact": "medium",
