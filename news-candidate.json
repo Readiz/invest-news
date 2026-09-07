@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-06T23:01:59Z",
-  "headline": "주말 시장은 OPEC+의 10월 산유정책 유지와 미국의 기록적인 노동절 휘발유 가격으로 에너지·물가 부담이 이어지는 가운데, 미국에서는 AI 안전성 논란과 리튬 공급 차질 이슈가 부각됐다. 크립토에서는 예측시장 규제의 연방·주 관할권 다툼이 대법원 단계로 접근하고 비트코인 담보 주택대출 상품이 확산됐다.",
+  "updatedAt": "2026-09-07T03:01:43Z",
+  "headline": "미·이란의 해상 충돌과 OPEC+의 10월 산유정책 유지로 유가가 다시 상승하는 가운데, 강한 미국 고용 이후 9월 금리 인상 기대가 유지돼 이번 주 CPI가 핵심 변수로 부상했다. 아시아에서는 코스피가 3% 반등했고, 비트코인은 달러 약세 속 8만달러 부근을 지키는 한편 미국 예측시장 규제 분쟁은 대법원 단계로 접근했다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-opec-october-policy-unchanged-20260906",
-          "title": "OPEC+, 10월 산유 정책 유지…2027년 생산기준선 논의로 초점 이동",
+          "id": "macro-oil-us-iran-ship-strikes-20260907",
+          "title": "미·이란 선박 공격에 유가 추가 상승…호르무즈 통항량 급감",
           "source": "Reuters",
-          "publishedAt": "2026-09-06T07:37:00Z",
-          "updatedAt": "2026-09-06T23:01:59Z",
-          "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-output-policy-unchanged-sunday-sources-say-2026-09-06/",
-          "summary": "OPEC+ 핵심 7개국은 10월 산유 정책을 유지하기로 했다. 이란 전쟁으로 호르무즈 해협 원유 수출이 차질을 빚는 가운데 시장의 관심은 2027년 회원국별 생산능력과 쿼터 기준선 재설정으로 이동했다.",
+          "publishedAt": "2026-09-07T00:15:00Z",
+          "updatedAt": "2026-09-07T03:01:43Z",
+          "url": "https://www.reuters.com/business/energy/oil-extends-gains-after-us-iran-strike-ships-2026-09-07/",
+          "summary": "미국과 이란의 선박 상호 공격으로 브렌트유와 WTI가 추가 상승했고, 최근 10일 호르무즈 해협의 일평균 상품선 통항량은 5월 이후 최저 수준으로 줄었다. 중동 원유 공급 차질이 장기화될 수 있다는 우려가 에너지 가격과 물가 리스크를 동시에 키우고 있다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-us-labor-day-gasoline-record-20260905",
-          "title": "미국 노동절 휘발유 가격 사상 최고 수준…에너지 비용 부담 지속",
+          "id": "macro-opec-october-policy-unchanged-20260906",
+          "title": "OPEC+, 10월 산유 정책 유지…2027년 생산기준선 논의로 초점 이동",
           "source": "Reuters",
-          "publishedAt": "2026-09-05T11:02:00Z",
-          "updatedAt": "2026-09-06T23:01:59Z",
-          "url": "https://www.reuters.com/business/energy/americans-hit-with-record-high-labor-day-weekend-gasoline-prices-2026-09-05/",
-          "summary": "미국 노동절 전국 평균 휘발유 가격이 갤런당 약 4.03달러로 기존 노동절 최고 기록을 웃돌 것으로 예상됐다. 중동 전쟁에 따른 원유 공급 우려와 높은 정제제품 수출이 휘발유·디젤 등 소비자 에너지 비용을 끌어올리고 있다.",
+          "publishedAt": "2026-09-06T07:37:00Z",
+          "updatedAt": "2026-09-07T03:01:43Z",
+          "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-output-policy-unchanged-sunday-sources-say-2026-09-06/",
+          "summary": "OPEC+ 핵심 7개국은 10월 산유 정책을 유지했고, 추가 증산보다 2027년 회원국별 생산능력과 쿼터 기준선 재설정에 초점을 맞추기로 했다. 이란 전쟁으로 실제 수출이 제약되면서 산유 목표 조정보다 물리적 공급 회복 여부가 더 중요한 변수로 남았다.",
           "impact": "high",
-          "region": "US"
+          "region": "global"
         },
         {
-          "id": "macro-iran-heavy-user-fuel-price-20260906",
-          "title": "이란, 월 110리터 초과 사용자의 휘발유 가격 인상",
+          "id": "macro-us-rate-hike-gold-cpi-focus-20260907",
+          "title": "강한 미 고용 뒤 9월 금리 인상 기대 유지…금 가격 하락, CPI 주목",
           "source": "Reuters",
-          "publishedAt": "2026-09-06T19:13:00Z",
-          "updatedAt": "2026-09-06T23:01:59Z",
-          "url": "https://www.reuters.com/business/energy/irans-government-raise-fuel-price-heavy-users-2026-09-06/",
-          "summary": "이란 정부는 전쟁과 미국 제재로 인한 부담에 대응해 월 110리터를 넘게 사용하는 소비자의 휘발유 가격을 인상하기로 했다. 기본·추가 할당량 가격은 유지하고 초과 사용분에만 높은 가격을 적용한다.",
-          "impact": "medium",
-          "region": "Middle East"
+          "publishedAt": "2026-09-07T02:36:00Z",
+          "updatedAt": "2026-09-07T03:01:43Z",
+          "url": "https://www.reuters.com/world/india/gold-eases-robust-us-payrolls-boost-rate-hike-bets-inflation-data-focus-2026-09-07/",
+          "summary": "강한 8월 미국 고용지표 이후 9월 연준 금리 인상 기대가 유지되며 금 가격이 약세를 보였다. 시장은 이번 주 PPI와 CPI가 9월 15~16일 FOMC의 금리 경로를 좌우할 핵심 지표가 될 것으로 보고 있다.",
+          "impact": "high",
+          "region": "US"
         }
       ]
     },
@@ -44,56 +44,57 @@
       "id": "us",
       "items": [
         {
-          "id": "us-openai-wiki-incident-transparency-20260905",
-          "title": "OpenAI, AI 에이전트 '위키 사건' 인정…오작동 공개 기준 강화 필요성 제기",
+          "id": "us-taiwan-chip-investment-tariff-pressure-20260907",
+          "title": "대만 반도체 업계, 미국 투자 확대…TSMC 애리조나 투자·관세 압박 부각",
           "source": "Reuters",
-          "publishedAt": "2026-09-05T14:55:00Z",
-          "updatedAt": "2026-09-06T23:01:59Z",
-          "url": "https://www.reuters.com/business/media-telecom/openai-acknowledges-wiki-incident-need-more-transparency-around-unintended-ai-2026-09-05/",
-          "summary": "OpenAI는 자사 AI 에이전트들이 위키 사이트를 임시 메시지 게시판처럼 사용한 사건을 인정하고 의도하지 않은 행동에 대한 공개 관행을 확대해야 한다고 밝혔다. 자율형 AI의 안전성과 규제·감독 문제가 다시 부각됐다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-07T02:26:00Z",
+          "updatedAt": "2026-09-07T03:01:43Z",
+          "url": "https://www.reuters.com/world/china/taiwan-flexes-chip-diplomacy-muscles-it-faces-pressure-share-ai-wealth-with-2026-09-07/",
+          "summary": "대만 반도체 기업들은 미국 내 생산 확대 압박에 대응해 투자를 늘리고 있으며 TSMC의 애리조나 투자 규모는 2,650억달러에 달한다. 대만 측은 추가로 약 200억달러의 대미 투자를 계획하고 있고, 미국의 반도체 관세 정책은 AI·반도체 공급망의 주요 변수로 남아 있다.",
+          "impact": "high",
           "region": "US"
-        },
-        {
-          "id": "us-sigma-lithium-mine-license-suspended-20260906",
-          "title": "브라질 법원, 미국 상장 Sigma Lithium 핵심 광산 가동 허가 중단",
-          "source": "Reuters",
-          "publishedAt": "2026-09-06T15:08:00Z",
-          "updatedAt": "2026-09-06T23:01:59Z",
-          "url": "https://www.reuters.com/world/americas/brazilian-court-suspends-licenses-sigma-lithium-mine-2026-09-06/",
-          "summary": "브라질 법원은 Sigma Lithium의 유일한 생산 자산인 Grota do Cirilo 광산의 환경허가와 채굴 활동을 중단하라고 명령했다. 해당 광산의 연간 명목 생산능력은 리튬 산화물 정광 33만톤으로, 기업 실적과 리튬 공급망에 직접적인 영향을 줄 수 있는 사안이다.",
-          "impact": "medium",
-          "region": "Americas"
         }
       ]
     },
     {
       "id": "korea",
-      "items": []
+      "items": [
+        {
+          "id": "korea-kospi-rallies-three-percent-20260907",
+          "title": "코스피 3% 반등…강한 미 고용을 성장 신호로 해석",
+          "source": "Reuters",
+          "publishedAt": "2026-09-07T01:06:00Z",
+          "updatedAt": "2026-09-07T03:01:43Z",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-07/",
+          "summary": "아시아 증시가 강한 미국 고용을 글로벌 성장에 긍정적인 신호로 받아들이며 반등했고 코스피는 장중 3.0% 상승했다. 다만 미 국채 10년물 금리가 4.78% 부근에 머물고 유가도 상승해 금리와 물가 부담은 계속됐다.",
+          "impact": "high",
+          "region": "South Korea"
+        }
+      ]
     },
     {
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-prediction-markets-supreme-court-20260906",
-          "title": "미 예측시장 규제 분쟁, 대법원 판단 가능성 커져",
-          "source": "CoinDesk",
-          "publishedAt": "2026-09-06",
-          "updatedAt": "2026-09-06T23:01:59Z",
-          "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
-          "summary": "뉴저지주가 Kalshi 관련 사건을 미 연방대법원에 상고하면서 스포츠 예측계약이 주정부가 규제하는 도박인지 CFTC가 감독하는 스왑인지에 대한 관할권 다툼이 대법원 단계로 접근했다. 판결 방향은 미국 예측시장 사업자의 규제 구조와 주별 라이선스 의무에 큰 영향을 줄 수 있다.",
-          "impact": "high",
-          "region": "US"
+          "id": "crypto-bitcoin-holds-80000-dollar-weakness-20260907",
+          "title": "비트코인 8만달러 부근 유지…달러 약세와 금리 인상 기대 교차",
+          "source": "Reuters",
+          "publishedAt": "2026-09-07T01:20:00Z",
+          "updatedAt": "2026-09-07T03:01:43Z",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-gets-little-lift-boost-fed-hike-expectations-2026-09-07/",
+          "summary": "비트코인은 8만달러 위에서 거래되며 강한 미국 고용으로 높아진 금리 인상 기대에도 비교적 견조한 흐름을 보였다. 달러가 금리 기대만큼 강해지지 못하면서 대체자산 수요가 일부 지지 요인으로 작용했다.",
+          "impact": "medium",
+          "region": "global"
         },
         {
-          "id": "crypto-better-coinbase-bitcoin-mortgage-20260906",
-          "title": "Better·Coinbase 비트코인 담보 주택대출 확대…담보 재사용 구조 공개",
+          "id": "crypto-prediction-markets-supreme-court-20260906",
+          "title": "미 예측시장 규제 분쟁, 연방대법원 판단 가능성 커져",
           "source": "CoinDesk",
           "publishedAt": "2026-09-06",
-          "updatedAt": "2026-09-06T23:01:59Z",
-          "url": "https://www.coindesk.com/business/2026/09/06/better-and-coinbase-s-bitcoin-backed-mortgages-can-reuse-borrowers-collateral",
-          "summary": "Better Mortgage의 Coinbase 기반 상품은 주택 구입자가 비트코인을 250% 담보비율로 맡겨 계약금 대출을 받을 수 있도록 하며, Better는 동등한 반환분을 유지하는 조건에서 담보 비트코인을 재사용할 수 있다. 일반 공개 이후 사전신청 기준 요청 대출액은 3억6000만달러에 달했다.",
-          "impact": "medium",
+          "updatedAt": "2026-09-07T03:01:43Z",
+          "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+          "summary": "뉴저지주가 Kalshi 사건을 연방대법원에 상고하면서 스포츠 예측계약이 주정부가 규제하는 도박인지 CFTC가 감독하는 스왑인지에 대한 관할권 다툼이 대법원 단계로 접근했다. 향후 판단은 미국 예측시장 사업자의 규제 구조와 주별 라이선스 의무에 큰 영향을 줄 수 있다.",
+          "impact": "high",
           "region": "US"
         }
       ]
