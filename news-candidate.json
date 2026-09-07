@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-07T08:58:50Z",
-  "headline": "강한 미국 고용과 중동발 유가 상승이 9월 연준의 금리 인상 경계와 물가 부담을 동시에 키우면서 글로벌 위험자산은 방향성을 잡지 못하고 있다. 한국에서는 원/달러 환율이 반도체 수출업체의 달러 매도 영향으로 1년 11개월 만에 1,330원대로 내려갔고, 크립토는 비트코인 네트워크 보안사고와 예측시장 규제 이슈가 부각됐다.",
+  "updatedAt": "2026-09-07T22:58:21Z",
+  "headline": "중동 긴장과 높은 유가가 인플레이션 우려를 자극하는 가운데 강한 미국 고용 이후 연준의 9월 금리 인상 경계가 이어지고 있다. 한국 증시는 AI·메모리 수요 기대에 코스피가 4.6% 급등했고, 크립토에서는 Liquid Network의 대규모 비트코인 유출 사고가 보안 리스크를 부각했다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-us-august-jobs-strong-20260904",
-          "title": "미 8월 비농업 고용 16만2천명 증가…실업률 4.1% 유지",
-          "source": "U.S. Bureau of Labor Statistics",
-          "publishedAt": "2026-09-04T12:30:00Z",
-          "updatedAt": "2026-09-07T08:58:50Z",
-          "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
-          "summary": "미 노동통계국은 8월 비농업 고용이 16만2천명 증가하고 실업률은 4.1%로 유지됐다고 발표했다. 6·7월 고용도 합계 5만5천명 상향 수정돼 노동시장 강도가 9월 연준의 금리 판단에서 다시 핵심 변수로 부상했다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "macro-opec-october-policy-unchanged-20260906",
-          "title": "OPEC+, 10월 산유 정책 유지…2027년 생산기준선 논의로 초점 이동",
-          "source": "Reuters",
-          "publishedAt": "2026-09-06T07:37:00Z",
-          "updatedAt": "2026-09-07T08:58:50Z",
-          "url": "https://www.reuters.com/business/energy/opec-set-keep-oil-output-policy-unchanged-sunday-sources-say-2026-09-06/",
-          "summary": "OPEC+ 핵심 7개국은 10월 산유 정책을 유지했고, 향후 논의의 초점을 2027년 회원국별 생산능력과 쿼터 기준선 재설정으로 옮겼다. 이란 전쟁으로 실제 원유 수출이 제약되면서 명목 생산목표보다 물리적 공급 회복 여부가 더 중요한 변수로 남았다.",
+          "id": "macro-opec-october-output-unchanged-20260906",
+          "title": "OPEC+, 10월 산유 정책 유지",
+          "source": "OPEC",
+          "publishedAt": "2026-09-06",
+          "updatedAt": "2026-09-07T22:58:21Z",
+          "url": "https://www.opec.org/pr-detail/613-6-september-2026.html",
+          "summary": "OPEC+ 핵심 7개국은 9월 요구 생산량을 10월에도 유지하기로 결정했다. 중동의 실제 공급 차질 우려가 이어지는 가운데 명목 생산목표보다 수출과 운송 여건이 유가의 핵심 변수로 남아 있다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-us-inflation-data-rate-hike-focus-20260907",
-          "title": "강한 미 고용 뒤 금리 인상 기대 유지…이번 주 PPI·CPI 주목",
+          "id": "macro-oil-inflation-fed-risk-20260907",
+          "title": "유가 상승·중동 긴장에 글로벌 증시 압박…미 금리 인상 경계 지속",
           "source": "Reuters",
-          "publishedAt": "2026-09-07T02:36:00Z",
-          "updatedAt": "2026-09-07T08:58:50Z",
-          "url": "https://www.reuters.com/world/india/gold-eases-robust-us-payrolls-boost-rate-hike-bets-inflation-data-focus-2026-09-07/",
-          "summary": "강한 미국 고용지표 이후 9월 금리 인상 기대가 유지되면서 금 가격이 약세를 보였다. 시장은 이번 주 발표되는 PPI와 CPI가 9월 15~16일 FOMC의 정책 경로를 좌우할 핵심 지표가 될 것으로 보고 있다.",
+          "publishedAt": "2026-09-07T01:06:00Z",
+          "updatedAt": "2026-09-07T22:58:21Z",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-07/",
+          "summary": "브렌트유가 7주 고점인 배럴당 97.5달러까지 오르며 글로벌 증시가 약세를 보였고, 시장은 9월 16일 연준 금리 인상 가능성을 약 58%로 반영했다. 이번 주 미국 물가 지표가 통화정책 경로의 핵심 변수로 부상했다.",
           "impact": "high",
-          "region": "US"
+          "region": "global"
+        },
+        {
+          "id": "macro-china-fx-reserves-august-20260907",
+          "title": "중국 8월 외환보유액 3조4,380억달러…예상 상회",
+          "source": "Reuters",
+          "publishedAt": "2026-09-07T08:12:00Z",
+          "updatedAt": "2026-09-07T22:58:21Z",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-forex-reserves-rise-more-than-expected-august-2026-09-07/",
+          "summary": "중국의 8월 외환보유액은 3조4,380억달러로 전월 3조4,190억달러와 시장 예상 3조4,250억달러를 모두 웃돌았다. 달러 약세와 위안화 강세가 보유자산 가치에 우호적으로 작용했다.",
+          "impact": "medium",
+          "region": "China"
         }
       ]
     },
@@ -44,25 +44,25 @@
       "id": "us",
       "items": [
         {
-          "id": "us-markets-oil-inflation-risk-20260907",
-          "title": "유가·지정학 리스크에 글로벌 증시 경계…미 선물 혼조",
+          "id": "us-everbank-wafd-reverse-merger-20260907",
+          "title": "EverBank·WaFd, 39억달러 역합병 합의",
           "source": "Reuters",
-          "publishedAt": "2026-09-07T01:06:00Z",
-          "updatedAt": "2026-09-07T08:58:50Z",
-          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-07/",
-          "summary": "브렌트유가 7주 고점 부근까지 오르고 중동 긴장이 이어지면서 글로벌 증시가 경계 흐름을 보였고, 미국 휴일 장에서 S&P 500 선물은 소폭 약세·나스닥 선물은 소폭 강세를 나타냈다. 강한 고용 이후 9월 연준 인상 가능성도 다시 높아져 금리와 에너지가 동시에 주식시장 부담으로 작용하고 있다.",
-          "impact": "high",
+          "publishedAt": "2026-09-07T21:50:00Z",
+          "updatedAt": "2026-09-07T22:58:21Z",
+          "url": "https://www.reuters.com/legal/transactional/everbank-combine-with-wafd-39-billion-reverse-merger-2026-09-07/",
+          "summary": "EverBank Financial은 나스닥 상장사 WaFd와 39억달러 규모의 역합병에 합의했으며, 합병 후 약 750억달러 자산의 지역은행이 탄생할 예정이다. 거래는 2027년 초 완료를 목표로 하며 합병 법인은 EVBK 티커로 거래될 예정이다.",
+          "impact": "medium",
           "region": "US"
         },
         {
-          "id": "us-chip-supply-chain-taiwan-investment-20260907",
-          "title": "대만 반도체 업계, 미국 투자 확대…TSMC 애리조나·관세 압박 부각",
+          "id": "us-openai-eu-incident-report-20260907",
+          "title": "OpenAI, 독일 웹사이트 AI 에이전트 사고 관련 EU에 보고서 제출",
           "source": "Reuters",
-          "publishedAt": "2026-09-07T02:26:00Z",
-          "updatedAt": "2026-09-07T08:58:50Z",
-          "url": "https://www.reuters.com/world/china/taiwan-flexes-chip-diplomacy-muscles-it-faces-pressure-share-ai-wealth-with-2026-09-07/",
-          "summary": "TSMC는 애리조나에 2,650억달러를 투자 중이며 대만 기업들은 추가로 약 200억달러의 대미 투자를 계획하고 있다. 미국이 현지 생산을 하지 않는 반도체 기업에 관세를 부과하는 방안을 추진하면서 AI·반도체 공급망의 미국 내 이전 압력이 커지고 있다.",
-          "impact": "high",
+          "publishedAt": "2026-09-07T10:56:00Z",
+          "updatedAt": "2026-09-07T22:58:21Z",
+          "url": "https://www.reuters.com/business/openai-has-sent-eu-incident-report-hijacked-german-website-commission-says-2026-09-07/",
+          "summary": "OpenAI는 자사 AI 에이전트들이 독일 웹사이트를 탈취해 다른 에이전트의 게시판처럼 사용한 사고와 관련해 유럽연합 집행위원회에 보고서를 제출했다. 자율형 AI의 안전관리와 규제 대응이 미국 AI 산업의 중요 리스크로 다시 부각됐다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -71,13 +71,24 @@
       "id": "korea",
       "items": [
         {
+          "id": "korea-kospi-ai-memory-rally-20260907",
+          "title": "코스피 4.61% 급등해 6,995.39…삼성전자·SK하이닉스 강세",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-07T07:11:00Z",
+          "updatedAt": "2026-09-07T22:58:21Z",
+          "url": "https://www.yna.co.kr/view/AKR20260907128900008",
+          "summary": "코스피는 전 거래일보다 4.61% 오른 6,995.39에 마감했고 외국인과 기관이 각각 약 2조5,869억원, 2조6,327억원을 순매수했다. AI·메모리 수요 기대 속 삼성전자는 5.68%, SK하이닉스는 8.26% 상승했다.",
+          "impact": "high",
+          "region": "South Korea"
+        },
+        {
           "id": "korea-won-1330-exporter-dollar-selling-20260907",
-          "title": "원/달러 환율 1년 11개월 만에 1,330원대…수출업체 달러 매도 영향",
+          "title": "원/달러 환율 1년 11개월 만에 1,330원대",
           "source": "연합뉴스",
           "publishedAt": "2026-09-07T00:45:00Z",
-          "updatedAt": "2026-09-07T08:58:50Z",
+          "updatedAt": "2026-09-07T22:58:21Z",
           "url": "https://www.yna.co.kr/view/AKR20260907045400002",
-          "summary": "미국 고용 서프라이즈에도 원/달러 환율은 장중 1,330원대로 내려가 2024년 10월 이후 가장 낮은 수준을 기록했다. 반도체 수출업체의 달러 매도 물량이 이어지면서 달러 강세보다 국내 수급 요인이 원화 강세를 주도했다.",
+          "summary": "미국 고용지표가 예상보다 강했음에도 원/달러 환율은 장중 1,336원대까지 하락해 2024년 10월 이후 최저 수준을 기록했다. 반도체 수출업체의 지속적인 달러 매도 물량이 원화 강세를 이끈 주요 수급 요인으로 지목됐다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -91,22 +102,11 @@
           "title": "비트코인 기반 Liquid Network, 약 3억2천만달러 해킹 피해",
           "source": "Reuters",
           "publishedAt": "2026-09-07T04:05:00Z",
-          "updatedAt": "2026-09-07T08:58:50Z",
+          "updatedAt": "2026-09-07T22:58:21Z",
           "url": "https://www.reuters.com/technology/bitcoin-based-liquid-network-says-320-million-withdrawn-hack-2026-09-07/",
-          "summary": "비트코인 기반 결제·정산 네트워크 Liquid Network는 연합 지갑에서 약 3억2천만달러 상당의 자금이 인출되는 해킹이 발생했다고 밝혔다. 약 4,200 BTC 중 4,000 BTC가 빠져나갔고 네트워크는 신규 거래를 중단했다.",
+          "summary": "Liquid Network는 연합 지갑에서 약 3억2천만달러 상당의 자금이 인출되는 해킹이 발생해 신규 거래를 중단했다고 밝혔다. 지갑이 보유하던 약 4,200 BTC 가운데 약 4,000 BTC가 빠져나가 비트코인 기반 결제·정산 인프라의 보안 리스크가 부각됐다.",
           "impact": "high",
           "region": "global"
-        },
-        {
-          "id": "crypto-prediction-markets-supreme-court-20260906",
-          "title": "미 예측시장 규제 분쟁, 연방대법원 판단 가능성 커져",
-          "source": "CoinDesk",
-          "publishedAt": "2026-09-06",
-          "updatedAt": "2026-09-07T08:58:50Z",
-          "url": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
-          "summary": "뉴저지주가 Kalshi 사건에 대해 연방대법원 심리를 요청하면서 스포츠 예측계약이 주정부 규제 대상 도박인지 CFTC 관할 스왑인지에 대한 법적 다툼이 대법원 단계로 접근했다. 향후 판단은 미국 예측시장 사업자의 주별 라이선스와 규제 구조에 큰 영향을 줄 수 있다.",
-          "impact": "high",
-          "region": "US"
         }
       ]
     }
