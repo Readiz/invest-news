@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-08T02:58:24Z",
-  "headline": "중동 충돌 장기화 우려로 유가가 다시 97달러대로 올라 인플레이션과 금리 부담이 이어지는 가운데, 중국의 8월 수출입은 두 자릿수 급증세를 유지했다. 미국 기술주 쪽에서는 OpenAI와 엔비디아 생태계의 데이터센터 확장이 이어졌고, 한국 증시는 반도체 강세가 지속되는 한편 크립토에서는 Liquid Network 보안 사고와 Harmony의 체인 종료 제안이 부각됐다.",
+  "updatedAt": "2026-09-08T08:58:10Z",
+  "headline": "중동발 공급 불안으로 브렌트유가 99달러 안팎까지 오르고 미국 국채금리도 4.8% 부근으로 상승해 인플레이션·금리 부담이 다시 커졌다. 한국 증시는 장중 7천선을 회복했다가 중동 리스크와 금리 상승에 0.58% 하락했고, 크립토에서는 스위스 프랑 스테이블코인 실증과 Liquid Network 해킹 자금의 대규모 반환이 주목됐다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-oil-middle-east-supply-20260908",
-          "title": "중동 장기전 우려에 유가 상승…브렌트 97달러대",
+          "id": "macro-oil-houthi-saudi-facilities-20260908",
+          "title": "후티의 사우디 에너지시설 공격에 유가 급등…브렌트 99달러",
           "source": "Reuters",
           "publishedAt": "2026-09-08T00:50:00Z",
-          "updatedAt": "2026-09-08T02:58:24Z",
+          "updatedAt": "2026-09-08T08:58:10Z",
           "url": "https://www.reuters.com/business/energy/oil-rises-risks-prolonged-mideast-conflict-heighten-supply-worries-2026-09-08/",
-          "summary": "이란이 추가 미국 공격 시 걸프 지역 에너지 인프라를 겨냥할 수 있다고 경고하면서 브렌트유는 배럴당 97.34달러, WTI는 92.63달러로 상승했다. 호르무즈 해협을 둘러싼 공급 차질 우려가 연말까지 이어질 수 있다는 전망도 제기됐다.",
+          "summary": "이란 지원을 받는 후티가 사우디 에너지시설을 공격하고 호르무즈 해협 통항 불안이 이어지면서 브렌트유가 배럴당 99달러, WTI가 94달러대까지 올랐다. 일부 사우디 에너지시설 가동도 중단돼 공급 차질과 물가 압력이 다시 커졌다.",
           "impact": "high",
           "region": "global"
         },
         {
           "id": "macro-china-trade-august-20260908",
-          "title": "중국 8월 수출 25%·수입 28.2% 증가",
+          "title": "중국 8월 수출 25%·수입 28.2% 증가…AI·첨단기술 수요 견인",
           "source": "Reuters",
           "publishedAt": "2026-09-08T02:45:00Z",
-          "updatedAt": "2026-09-08T02:58:24Z",
+          "updatedAt": "2026-09-08T08:58:10Z",
           "url": "https://www.reuters.com/world/asia-pacific/chinas-exports-up-25-yy-august-imports-surge-282-2026-09-08/",
-          "summary": "중국의 8월 달러 기준 수출은 전년 대비 25% 늘어 전월 23.9%보다 증가폭이 확대됐고, 수입도 28.2% 급증했다. 대외수요와 내수 관련 수입이 동시에 강한 흐름을 보이면서 아시아 교역과 원자재 수요의 주요 변수로 부상했다.",
+          "summary": "중국의 8월 달러 기준 수출은 전년 대비 25%, 수입은 28.2% 증가했다. 첨단기술·AI 관련 제품 수출이 강세를 보이며 부진한 내수를 일부 보완했지만 경제의 수출 의존도는 더 높아졌다.",
           "impact": "high",
           "region": "China"
         }
@@ -33,24 +33,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-openai-firmus-malaysia-data-centre-20260908",
-          "title": "OpenAI, 엔비디아 지원 Firmus와 말레이시아 데이터센터 계약",
+          "id": "us-markets-yields-oil-fed-20260908",
+          "title": "미 10년물 4.8% 부근…유가 급등 속 연준 인상 경계 지속",
           "source": "Reuters",
-          "publishedAt": "2026-09-08T01:40:00Z",
-          "updatedAt": "2026-09-08T02:58:24Z",
-          "url": "https://www.reuters.com/world/asia-pacific/nvidia-backed-firmus-signs-deal-with-openai-malaysia-data-centre-capacity-2026-09-08/",
-          "summary": "OpenAI는 엔비디아가 지원하는 Firmus와 말레이시아 데이터센터 두 곳의 컴퓨팅 용량을 공급받는 다년 계약을 체결했다. Firmus의 계약 용량은 900MW를 넘어섰고, 아시아 지역 AI 인프라 확장 과정에서 엔비디아 차세대 Vera Rubin 프로세서가 대규모로 배치될 예정이다.",
+          "publishedAt": "2026-09-08T01:48:00Z",
+          "updatedAt": "2026-09-08T08:58:10Z",
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-08/",
+          "summary": "미 10년물 국채금리는 4.804%로 올라섰고 S&P 500 선물은 0.3% 하락했다. 유가 급등으로 인플레이션 우려가 커진 가운데 시장은 다음 주 연준 금리 인상 가능성을 약 58% 반영했다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-treasury-yields-fed-hike-futures-20260908",
-          "title": "미 10년물 4.788%…S&P500 선물 약보합, 연준 인상 경계 지속",
+          "id": "us-openai-firmus-malaysia-data-centre-20260908",
+          "title": "OpenAI, 엔비디아 투자 Firmus와 말레이시아 데이터센터 계약",
           "source": "Reuters",
-          "publishedAt": "2026-09-08T01:48:00Z",
-          "updatedAt": "2026-09-08T02:58:24Z",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-08/",
-          "summary": "미 10년물 국채금리는 4.788%로 올라섰고 S&P 500 e-mini 선물은 노동절 휴장 뒤 0.1% 하락했다. 시장은 9월 16일 연준 회의에서 25bp 인상 가능성을 약 60%로 반영하며 이번 주 미국 물가 지표를 주시하고 있다.",
+          "publishedAt": "2026-09-08T01:40:00Z",
+          "updatedAt": "2026-09-08T08:58:10Z",
+          "url": "https://www.reuters.com/world/asia-pacific/nvidia-backed-firmus-signs-deal-with-openai-malaysia-data-centre-capacity-2026-09-08/",
+          "summary": "OpenAI는 엔비디아가 투자한 Firmus와 말레이시아 데이터센터 두 곳의 컴퓨팅 용량을 공급받는 다년 계약을 체결했다. 계약 후 Firmus의 고객 계약 용량은 900MW를 넘어섰고 차세대 Vera Rubin 프로세서의 아시아 배치도 확대될 예정이다.",
           "impact": "high",
           "region": "US"
         }
@@ -60,24 +60,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-ai-memory-rally-20260907",
-          "title": "코스피 4.61% 급등해 6,995.39…삼성전자·SK하이닉스 강세",
+          "id": "korea-kospi-reverses-middle-east-20260908",
+          "title": "코스피 장중 7천선 회복 뒤 0.58% 하락…중동 리스크에 반락",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-07T07:11:00Z",
-          "updatedAt": "2026-09-08T02:58:24Z",
-          "url": "https://www.yna.co.kr/view/AKR20260907128900008",
-          "summary": "코스피는 전 거래일보다 4.61% 오른 6,995.39에 마감했고 삼성전자와 SK하이닉스가 각각 5.68%, 8.26% 상승했다. OpenAI 관련 AI 생태계 확장 기대가 메모리 수요 기대를 자극하며 반도체주가 지수 상승을 주도했다.",
+          "publishedAt": "2026-09-08T07:17:00Z",
+          "updatedAt": "2026-09-08T08:58:10Z",
+          "url": "https://www.yna.co.kr/amp/view/AKR20260908125851008",
+          "summary": "코스피는 장중 7,171.52까지 올랐지만 오후 들어 중동 에너지시설 피격과 유가·미 국채금리 상승 부담이 커지며 6,954.52로 0.58% 하락 마감했다. 외국인과 기관은 4거래일 연속 순매수를 이어갔지만 개인은 3조원 넘게 순매도했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
           "id": "korea-won-1330-exporter-dollar-selling-20260907",
-          "title": "원/달러 환율 1년 11개월 만에 1,330원대",
+          "title": "원/달러 환율 1년 11개월 만에 1,330원대…수출업체 달러 매도 영향",
           "source": "연합뉴스",
           "publishedAt": "2026-09-07T00:45:00Z",
-          "updatedAt": "2026-09-08T02:58:24Z",
+          "updatedAt": "2026-09-08T08:58:10Z",
           "url": "https://www.yna.co.kr/view/AKR20260907045400002",
-          "summary": "미국 고용지표가 예상보다 강했음에도 원/달러 환율은 장중 1,336원대로 내려가 2024년 10월 이후 가장 낮은 수준을 기록했다. 반도체 수출업체의 지속적인 달러 매도 물량이 글로벌 달러 강세보다 강한 원화 수급 요인으로 작용했다.",
+          "summary": "미국 8월 고용이 예상보다 강했음에도 원/달러 환율은 장중 1,336원대로 내려가 2024년 10월 이후 가장 낮은 수준을 기록했다. 반도체 수출업체의 지속적인 달러 매도 물량이 글로벌 달러 강세를 상쇄하는 핵심 수급 요인으로 지목됐다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -87,25 +87,25 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-liquid-network-320m-exploit-20260907",
-          "title": "Liquid Network, 약 3억2천만달러 비트코인 유출 사고",
-          "source": "CoinDesk",
-          "publishedAt": "2026-09-07",
-          "updatedAt": "2026-09-08T02:58:24Z",
-          "url": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-          "summary": "Liquid Network의 연합 지갑에서 보유량 약 4,200 BTC 가운데 약 4,000 BTC가 인출돼 네트워크가 신규 거래를 중단했다. Blockstream은 키 탈취가 아니라 Elements 소프트웨어 버그가 원인이라고 설명해 비트코인 기반 정산 인프라의 보안 리스크가 부각됐다.",
-          "impact": "high",
+          "id": "crypto-swiss-franc-stablecoin-testing-20260908",
+          "title": "스위스 프랑 스테이블코인 CHFD 실증 돌입…SIX·TWINT 참여",
+          "source": "Reuters",
+          "publishedAt": "2026-09-08T06:29:00Z",
+          "updatedAt": "2026-09-08T08:58:10Z",
+          "url": "https://www.reuters.com/business/finance/swiss-stablecoin-project-enters-testing-phase-adds-six-twint-partners-2026-09-08/",
+          "summary": "UBS 등이 추진하는 스위스 프랑 연동 스테이블코인 CHFD가 실제 테스트 단계에 들어갔고 SIX와 결제앱 TWINT가 새 파트너로 합류했다. 전통 금융기관이 스테이블코인을 지급결제 인프라에 접목하려는 움직임이 본격화되는 사례다.",
+          "impact": "medium",
           "region": "global"
         },
         {
-          "id": "crypto-harmony-chain-sunset-proposal-20260907",
-          "title": "Harmony, 자체 블록체인 종료·ONE 이더리움 이전 제안",
+          "id": "crypto-liquid-network-3400-btc-returned-20260908",
+          "title": "Liquid Network 해커, 탈취 4,000 BTC 중 3,400 BTC 반환",
           "source": "CoinDesk",
-          "publishedAt": "2026-09-07",
-          "updatedAt": "2026-09-08T02:58:24Z",
-          "url": "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
-          "summary": "Harmony 개발진은 국가 단위 공격자와 AI 에이전트에 대한 방어 비용이 커졌다는 이유로 자체 블록체인을 종료하고 ONE 잔액을 이더리움 ERC-20 토큰으로 이전하는 비구속적 방안을 제안했다. 과거 대형 브리지 해킹과 최근 롤백 논란에 이어 체인 존속 자체가 핵심 이슈로 떠올랐다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-08",
+          "updatedAt": "2026-09-08T08:58:10Z",
+          "url": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
+          "summary": "Liquid Network 사고에서 빠져나간 4,000 BTC 중 3,400 BTC가 반환됐지만 약 598 BTC, 약 4,700만달러 상당은 아직 회수되지 않았다. 네트워크는 체인 분기와 보안 보완을 마칠 때까지 중단 상태를 유지하고 있다.",
+          "impact": "high",
           "region": "global"
         }
       ]
