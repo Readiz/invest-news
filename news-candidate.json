@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-08T08:58:10Z",
-  "headline": "중동발 공급 불안으로 브렌트유가 99달러 안팎까지 오르고 미국 국채금리도 4.8% 부근으로 상승해 인플레이션·금리 부담이 다시 커졌다. 한국 증시는 장중 7천선을 회복했다가 중동 리스크와 금리 상승에 0.58% 하락했고, 크립토에서는 스위스 프랑 스테이블코인 실증과 Liquid Network 해킹 자금의 대규모 반환이 주목됐다.",
+  "updatedAt": "2026-09-08T22:57:06Z",
+  "headline": "중동발 공급 불안으로 브렌트유가 6주 최고치로 올라 물가·금리 부담이 커졌고, 중국의 8월 수출은 AI·첨단기술 수요에 힘입어 25% 증가했다. 미국에서는 Qualcomm-Amazon AI 반도체 계약과 Meta의 자율형 AI 에이전트 출시, Cognition AI의 대규모 자금조달이 이어졌고, 한국은 호르무즈 에너지 안보와 첨단전략산업 성장펀드가 부각됐으며 크립토에서는 스위스 프랑 스테이블코인 CHFD가 실증 단계에 들어갔다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-oil-houthi-saudi-facilities-20260908",
-          "title": "후티의 사우디 에너지시설 공격에 유가 급등…브렌트 99달러",
+          "id": "macro-oil-houthi-saudi-20260908",
+          "title": "후티의 사우디 에너지시설 공격에 유가 6주 최고치",
           "source": "Reuters",
           "publishedAt": "2026-09-08T00:50:00Z",
-          "updatedAt": "2026-09-08T08:58:10Z",
+          "updatedAt": "2026-09-08T22:57:06Z",
           "url": "https://www.reuters.com/business/energy/oil-rises-risks-prolonged-mideast-conflict-heighten-supply-worries-2026-09-08/",
-          "summary": "이란 지원을 받는 후티가 사우디 에너지시설을 공격하고 호르무즈 해협 통항 불안이 이어지면서 브렌트유가 배럴당 99달러, WTI가 94달러대까지 올랐다. 일부 사우디 에너지시설 가동도 중단돼 공급 차질과 물가 압력이 다시 커졌다.",
+          "summary": "이란 지원 후티의 사우디 에너지시설 공격과 호르무즈 해협의 낮은 통항량으로 브렌트유가 배럴당 97.92달러, WTI가 93.03달러에 마감하며 6주 고점을 기록했다. 중동 공급 차질과 높은 연료비가 글로벌 물가와 통화정책 부담을 키우는 요인이다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-china-trade-august-20260908",
+          "id": "macro-china-trade-20260908",
           "title": "중국 8월 수출 25%·수입 28.2% 증가…AI·첨단기술 수요 견인",
           "source": "Reuters",
           "publishedAt": "2026-09-08T02:45:00Z",
-          "updatedAt": "2026-09-08T08:58:10Z",
+          "updatedAt": "2026-09-08T22:57:06Z",
           "url": "https://www.reuters.com/world/asia-pacific/chinas-exports-up-25-yy-august-imports-surge-282-2026-09-08/",
-          "summary": "중국의 8월 달러 기준 수출은 전년 대비 25%, 수입은 28.2% 증가했다. 첨단기술·AI 관련 제품 수출이 강세를 보이며 부진한 내수를 일부 보완했지만 경제의 수출 의존도는 더 높아졌다.",
+          "summary": "중국의 8월 달러 기준 수출은 전년 대비 25%, 수입은 28.2% 늘었고 1~8월 첨단기술 제품 수출은 42.9% 증가했다. 내수 부진 속 AI·반도체 등 기술 수요가 수출을 핵심 성장축으로 떠받치고 있다.",
           "impact": "high",
           "region": "China"
         }
@@ -33,25 +33,36 @@
       "id": "us",
       "items": [
         {
-          "id": "us-markets-yields-oil-fed-20260908",
-          "title": "미 10년물 4.8% 부근…유가 급등 속 연준 인상 경계 지속",
+          "id": "us-qualcomm-amazon-ai-chip-20260908",
+          "title": "Qualcomm·Amazon, 최대 600억달러 AI 데이터센터 칩 협력",
           "source": "Reuters",
-          "publishedAt": "2026-09-08T01:48:00Z",
-          "updatedAt": "2026-09-08T08:58:10Z",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-08/",
-          "summary": "미 10년물 국채금리는 4.804%로 올라섰고 S&P 500 선물은 0.3% 하락했다. 유가 급등으로 인플레이션 우려가 커진 가운데 시장은 다음 주 연준 금리 인상 가능성을 약 58% 반영했다.",
+          "publishedAt": "2026-09-08T13:15:00Z",
+          "updatedAt": "2026-09-08T22:57:06Z",
+          "url": "https://www.reuters.com/technology/qualcomm-amazon-develop-custom-chips-ai-data-centers-2026-09-08/",
+          "summary": "Amazon은 장기 협력에 따라 Qualcomm의 AI 데이터센터 칩과 관련 제품을 최대 600억달러어치 구매할 수 있고, 구매 실적에 연동해 약 40억달러 규모의 Qualcomm 주식 워런트를 받을 수 있다. Qualcomm의 스마트폰 의존도 축소와 AI 인프라 시장 진입이 본격화되는 계약이다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-openai-firmus-malaysia-data-centre-20260908",
-          "title": "OpenAI, 엔비디아 투자 Firmus와 말레이시아 데이터센터 계약",
+          "id": "us-meta-muse-agent-20260908",
+          "title": "Meta, 이메일·결제까지 수행하는 AI 에이전트 Muse 미국 출시",
           "source": "Reuters",
-          "publishedAt": "2026-09-08T01:40:00Z",
-          "updatedAt": "2026-09-08T08:58:10Z",
-          "url": "https://www.reuters.com/world/asia-pacific/nvidia-backed-firmus-signs-deal-with-openai-malaysia-data-centre-capacity-2026-09-08/",
-          "summary": "OpenAI는 엔비디아가 투자한 Firmus와 말레이시아 데이터센터 두 곳의 컴퓨팅 용량을 공급받는 다년 계약을 체결했다. 계약 후 Firmus의 고객 계약 용량은 900MW를 넘어섰고 차세대 Vera Rubin 프로세서의 아시아 배치도 확대될 예정이다.",
+          "publishedAt": "2026-09-08T19:04:00Z",
+          "updatedAt": "2026-09-08T22:57:06Z",
+          "url": "https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/",
+          "summary": "Meta는 이메일·캘린더·결제·건강·스마트홈 앱에 연결돼 작업을 자율 수행하는 AI 에이전트 Muse를 미국에서 출시했다. 광고 외 수익원 확대와 대규모 AI 투자 수익화가 핵심이지만 내부 테스트에서 민감정보 노출 등 안전성 문제도 보고됐다.",
           "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-cognition-ai-raise-20260908",
+          "title": "Cognition AI, 20억달러 조달…기업가치 480억달러",
+          "source": "Reuters",
+          "publishedAt": "2026-09-08T21:51:00Z",
+          "updatedAt": "2026-09-08T22:57:06Z",
+          "url": "https://www.reuters.com/technology/cognition-ai-raises-2-billion-48-billion-valuation-2026-09-08/",
+          "summary": "자율형 소프트웨어 엔지니어링 에이전트를 개발하는 Cognition AI가 20억달러 규모 시리즈 E를 유치해 기업가치 480억달러를 인정받았다. 5월 260억달러였던 평가가 빠르게 높아져 AI 에이전트 기업에 대한 자금 유입이 이어지고 있음을 보여준다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -60,24 +71,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-reverses-middle-east-20260908",
-          "title": "코스피 장중 7천선 회복 뒤 0.58% 하락…중동 리스크에 반락",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-08T07:17:00Z",
-          "updatedAt": "2026-09-08T08:58:10Z",
-          "url": "https://www.yna.co.kr/amp/view/AKR20260908125851008",
-          "summary": "코스피는 장중 7,171.52까지 올랐지만 오후 들어 중동 에너지시설 피격과 유가·미 국채금리 상승 부담이 커지며 6,954.52로 0.58% 하락 마감했다. 외국인과 기관은 4거래일 연속 순매수를 이어갔지만 개인은 3조원 넘게 순매도했다.",
-          "impact": "high",
+          "id": "korea-growth-fund-second-20260908",
+          "title": "금융위, 7,200억원 규모 2차 국민참여성장펀드 운용사 선정",
+          "source": "금융위원회",
+          "publishedAt": "2026-09-08",
+          "updatedAt": "2026-09-08T22:57:06Z",
+          "url": "https://www.fsc.go.kr/no010101/87667?curPage=&srchBeginDt=&srchCtgry=&srchEndDt=&srchKey=&srchText=",
+          "summary": "금융위원회는 국민 모집 6,000억원과 후순위 재정 1,200억원을 합친 7,200억원 규모의 2차 국민참여성장펀드 운용사 10곳을 선정했다. 자금은 반도체·AI·로봇·방산 등 12개 첨단전략산업을 중심으로 투자되며 9월 30일부터 일반 판매가 시작된다.",
+          "impact": "medium",
           "region": "South Korea"
         },
         {
-          "id": "korea-won-1330-exporter-dollar-selling-20260907",
-          "title": "원/달러 환율 1년 11개월 만에 1,330원대…수출업체 달러 매도 영향",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-07T00:45:00Z",
-          "updatedAt": "2026-09-08T08:58:10Z",
-          "url": "https://www.yna.co.kr/view/AKR20260907045400002",
-          "summary": "미국 8월 고용이 예상보다 강했음에도 원/달러 환율은 장중 1,336원대로 내려가 2024년 10월 이후 가장 낮은 수준을 기록했다. 반도체 수출업체의 지속적인 달러 매도 물량이 글로벌 달러 강세를 상쇄하는 핵심 수급 요인으로 지목됐다.",
+          "id": "korea-hormuz-france-talks-20260908",
+          "title": "한국·프랑스, 호르무즈 해협 안보 협력 논의…파병 결정은 없어",
+          "source": "Reuters",
+          "publishedAt": "2026-09-08T22:10:00Z",
+          "updatedAt": "2026-09-08T22:57:06Z",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korea-says-hormuz-talks-with-france-concern-contribution-options-not-troop-2026-09-08/",
+          "summary": "한·프 정상은 호르무즈 해협의 항행 자유와 글로벌 공급망 안정화를 위한 협력을 논의했지만 한국 정부는 파병 등 구체적 기여 방안은 아직 검토 단계라고 밝혔다. 한국은 지난해 원유 수입의 61%, 나프타 수입의 54%를 호르무즈 해협에 의존해 에너지 공급망 영향이 크다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -87,25 +98,14 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-swiss-franc-stablecoin-testing-20260908",
-          "title": "스위스 프랑 스테이블코인 CHFD 실증 돌입…SIX·TWINT 참여",
+          "id": "crypto-swiss-chfd-testing-20260908",
+          "title": "스위스 프랑 스테이블코인 CHFD 실증 단계 진입…SIX·TWINT 참여",
           "source": "Reuters",
           "publishedAt": "2026-09-08T06:29:00Z",
-          "updatedAt": "2026-09-08T08:58:10Z",
+          "updatedAt": "2026-09-08T22:57:06Z",
           "url": "https://www.reuters.com/business/finance/swiss-stablecoin-project-enters-testing-phase-adds-six-twint-partners-2026-09-08/",
-          "summary": "UBS 등이 추진하는 스위스 프랑 연동 스테이블코인 CHFD가 실제 테스트 단계에 들어갔고 SIX와 결제앱 TWINT가 새 파트너로 합류했다. 전통 금융기관이 스테이블코인을 지급결제 인프라에 접목하려는 움직임이 본격화되는 사례다.",
+          "summary": "스위스 금융권이 추진하는 프랑 연동 스테이블코인 CHFD가 라이브 테스트 단계에 들어갔고 SIX와 결제앱 TWINT가 파트너로 합류했다. UBS 등 주요 금융기관이 1대1 프랑 연동 디지털화폐의 결제·금융 활용 가능성을 검증하는 단계다.",
           "impact": "medium",
-          "region": "global"
-        },
-        {
-          "id": "crypto-liquid-network-3400-btc-returned-20260908",
-          "title": "Liquid Network 해커, 탈취 4,000 BTC 중 3,400 BTC 반환",
-          "source": "CoinDesk",
-          "publishedAt": "2026-09-08",
-          "updatedAt": "2026-09-08T08:58:10Z",
-          "url": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
-          "summary": "Liquid Network 사고에서 빠져나간 4,000 BTC 중 3,400 BTC가 반환됐지만 약 598 BTC, 약 4,700만달러 상당은 아직 회수되지 않았다. 네트워크는 체인 분기와 보안 보완을 마칠 때까지 중단 상태를 유지하고 있다.",
-          "impact": "high",
           "region": "global"
         }
       ]
