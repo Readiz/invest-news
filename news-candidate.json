@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-09-09T09:02:18Z",
-  "headline": "브렌트유가 중동 충돌 격화로 다시 배럴당 100달러를 넘어서고 중국의 생산자·소비자 물가도 에너지 비용 영향으로 상승해 글로벌 인플레이션과 금리 부담이 커졌다. 미국에서는 AI 인프라와 자율형 에이전트 투자가 이어졌고, 한국에서는 OpenAI-삼성의 차세대 칩 협력과 삼성 계열 지배구조 이슈가 부각됐으며 크립토에서는 스위스 프랑 스테이블코인 CHFD가 실증 단계에 들어갔다.",
+  "updatedAt": "2026-09-09T22:58:15Z",
+  "headline": "중동 충돌로 브렌트유가 배럴당 100달러를 넘고 미국 국채금리도 상승하면서 인플레이션과 통화긴축 부담이 글로벌 시장을 압박했다. 미국에서는 자율형 AI 서비스가 확대됐고, 한국은 AI 반도체 강세로 코스피가 7,000선을 회복했으며 크립토에서는 PayPal과 Tether의 스테이블코인 기반 금융 확장이 부각됐다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-brent-100-middle-east-20260909",
-          "title": "브렌트유 100달러 돌파…중동 충돌 격화로 공급 차질 우려 확대",
+          "id": "macro-brent-settle-over-100-20260909",
+          "title": "브렌트유 101.21달러 마감…미·이란 선박 공격에 공급 우려 확대",
           "source": "Reuters",
           "publishedAt": "2026-09-09T07:37:00Z",
-          "updatedAt": "2026-09-09T09:02:18Z",
+          "updatedAt": "2026-09-09T22:58:15Z",
           "url": "https://www.reuters.com/business/energy/brent-crude-rises-above-100-barrel-middle-east-conflict-escalates-2026-09-09/",
-          "summary": "브렌트유는 장중 배럴당 100.19달러까지 올라 7월 24일 이후 처음 100달러를 넘어섰다. 후티의 사우디 에너지시설 공격과 미·이란 충돌이 이어지며 호르무즈와 홍해를 통한 원유 운송 차질 우려가 커졌다.",
+          "summary": "브렌트유는 3.4% 오른 배럴당 101.21달러에 마감해 5월 22일 이후 최고 종가를 기록했다. 미국과 이란의 선박 공격이 격화되고 호르무즈 해협 통항량이 크게 줄면서 중동 원유 공급 차질 우려가 다시 커졌다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-china-inflation-energy-20260909",
-          "title": "중국 8월 PPI 3.8%·CPI 0.8% 상승…에너지 비용이 물가 압력 확대",
-          "source": "Reuters",
-          "publishedAt": "2026-09-09T01:43:00Z",
-          "updatedAt": "2026-09-09T09:02:18Z",
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-producer-inflation-regains-momentum-august-2026-09-09/",
-          "summary": "중국의 8월 생산자물가는 전년 대비 3.8%, 소비자물가는 0.8% 상승해 모두 전월보다 오름폭이 커졌다. 중동발 원유와 비철금속 가격 상승이 물가를 끌어올렸지만 내수 수요는 여전히 약한 흐름을 보였다.",
+          "id": "macro-eia-steo-september-20260909",
+          "title": "미 EIA, 중동 공급차질에 유가 전망 상향…2026년 글로벌 재고 4억배럴 감소",
+          "source": "U.S. Energy Information Administration (EIA)",
+          "publishedAt": "2026-09-09T16:00:00Z",
+          "updatedAt": "2026-09-09T22:58:15Z",
+          "url": "https://www.eia.gov/outlooks/steo/",
+          "summary": "EIA는 9월 단기 에너지전망에서 올해 글로벌 원유 재고가 약 4억배럴 줄었다며 2026년 브렌트유 평균 가격을 배럴당 91달러로 제시했다. 중동 원유 수출 제약이 연말까지 이어지고 생산이 전쟁 이전 수준으로 회복되는 시점은 2027년 2분기로 예상했다.",
           "impact": "high",
-          "region": "China"
+          "region": "global"
         }
       ]
     },
@@ -33,35 +33,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-qualcomm-amazon-ai-chip-20260908",
-          "title": "Qualcomm·Amazon, 최대 600억달러 AI 데이터센터 칩 장기 협력",
+          "id": "us-sp500-oil-yields-20260909",
+          "title": "S&P500 0.48% 하락…유가 100달러·미 10년물 금리 상승 부담",
           "source": "Reuters",
-          "publishedAt": "2026-09-08T13:15:00Z",
-          "updatedAt": "2026-09-09T09:02:18Z",
-          "url": "https://www.reuters.com/technology/qualcomm-amazon-develop-custom-chips-ai-data-centers-2026-09-08/",
-          "summary": "Amazon은 장기 협력에 따라 Qualcomm의 AI 데이터센터 칩과 관련 제품을 최대 600억달러어치 구매할 수 있으며, 구매 실적에 연동된 약 40억달러 규모의 주식 워런트도 받는다. Qualcomm의 스마트폰 의존도 축소와 AI 인프라 시장 진입을 가속하는 계약이다.",
+          "publishedAt": "2026-09-09T09:39:00Z",
+          "updatedAt": "2026-09-09T22:58:15Z",
+          "url": "https://www.reuters.com/business/wall-st-futures-muted-oil-tops-100-first-time-since-july-2026-09-09/",
+          "summary": "S&P500은 0.48%, 나스닥은 0.64%, 다우는 0.77% 하락했다. 브렌트유가 100달러를 넘고 미 10년물 국채금리가 2023년 11월 이후 최고 수준으로 오르면서 물가와 금리 부담이 주식시장 전반을 압박했다.",
           "impact": "high",
           "region": "US"
         },
         {
           "id": "us-meta-muse-agent-20260908",
-          "title": "Meta, 이메일·결제까지 수행하는 자율형 AI 에이전트 Muse 출시",
+          "title": "Meta, 이메일·결제까지 수행하는 AI 에이전트 Muse 미국 출시",
           "source": "Reuters",
           "publishedAt": "2026-09-08T19:04:00Z",
-          "updatedAt": "2026-09-09T09:02:18Z",
+          "updatedAt": "2026-09-09T22:58:15Z",
           "url": "https://www.reuters.com/business/meta-launches-ai-agent-that-can-access-other-apps-send-emails-make-payments-2026-09-08/",
-          "summary": "Meta는 이메일·캘린더·결제·건강·스마트홈 앱에 연결돼 사용자를 대신해 작업을 수행하는 AI 에이전트 Muse를 미국에 출시했다. 회사는 AI 수익화 확대를 추진하고 있지만 내부 테스트에서는 민감정보 노출과 신뢰성 문제도 확인됐다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "us-google-finland-ai-infra-20260909",
-          "title": "Google, 핀란드 AI 인프라에 150억달러 투자…해외 첫 원전 전력계약",
-          "source": "Reuters",
-          "publishedAt": "2026-09-09T07:01:00Z",
-          "updatedAt": "2026-09-09T09:02:18Z",
-          "url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
-          "summary": "Google은 향후 2년간 핀란드 AI 인프라에 최소 130억유로를 투자하고 현지 원전 전력의 최대 50%를 22년간 구매하는 계약을 체결했다. 유럽 내 최대 규모의 AI 인프라 투자로 데이터센터 전력 확보 경쟁이 계속되고 있음을 보여준다.",
+          "summary": "Meta는 이메일·캘린더·결제·건강·스마트홈 앱에 연결돼 사용자를 대신해 작업을 수행하는 AI 에이전트 Muse를 미국에 출시했다. AI 인프라 투자 수익화의 핵심 제품이지만 내부 테스트에서는 민감정보 노출과 안정성 문제도 확인됐다.",
           "impact": "high",
           "region": "US"
         }
@@ -71,24 +60,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-openai-samsung-nextgen-chips-20260909",
-          "title": "OpenAI·삼성전자, 차세대 AI 칩 공동 연구·생산 협력 확대",
-          "source": "Reuters",
-          "publishedAt": "2026-09-09T05:58:00Z",
-          "updatedAt": "2026-09-09T09:02:18Z",
-          "url": "https://www.reuters.com/world/asia-pacific/openai-says-working-with-samsung-next-generation-chips-deepening-cooperation-2026-09-09/",
-          "summary": "OpenAI는 삼성전자와 차세대 칩 개발을 위한 공동 연구·생산 협력을 심화하고 있다고 밝혔다. 삼성전자와 SK하이닉스의 메모리 공급 협력까지 이어지며 한국 반도체 업체와 OpenAI의 연결이 AI 칩과 데이터센터 전반으로 확대되고 있다.",
+          "id": "korea-kospi-reclaims-7000-20260909",
+          "title": "코스피 1.40% 상승해 7,051.64…33거래일 만에 7천선 회복",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-09T07:12:00Z",
+          "updatedAt": "2026-09-09T22:58:15Z",
+          "url": "https://www.yna.co.kr/view/AKR20260909137051008",
+          "summary": "코스피는 1.40% 오른 7,051.64로 마감해 33거래일 만에 종가 기준 7,000선을 회복했고 코스닥도 2.28% 상승했다. 기관이 코스피에서 9,417억원을 순매수했고 AI 수요 기대 속 SK하이닉스가 3.51% 올랐다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-samsung-s1-activist-20260909",
-          "title": "행동주의 펀드, 삼성 계열 5곳에 에스원 주주명부 요구…지배구조 압박 확대",
+          "id": "korea-samsung-lee-share-purchase-20260909",
+          "title": "이재용 삼성전자 회장, 모친 보유 삼성전자 주식 1.9조원어치 매입",
           "source": "Reuters",
-          "publishedAt": "2026-09-09T00:46:00Z",
-          "updatedAt": "2026-09-09T09:02:18Z",
-          "url": "https://www.reuters.com/world/asia-pacific/activist-seeks-samsung-shareholder-list-fight-over-s-1-corp-2026-09-09/",
-          "summary": "Flashlight Capital Partners는 에스원 지분 20.6%를 보유한 삼성 계열 5개사의 주주명부를 요구하며 주주환원 캠페인을 강화했다. 앞서 해당 지분 전량을 9,066억원에 인수하겠다고 제안한 데 이어 삼성 계열의 비핵심 지분 보유와 에스원의 자사주 정책을 문제 삼고 있다.",
+          "publishedAt": "2026-09-09T08:50:00Z",
+          "updatedAt": "2026-09-09T22:58:15Z",
+          "url": "https://www.reuters.com/world/asia-pacific/samsung-electronics-chairman-lee-buy-19-trillion-won-worth-shares-his-mother-2026-09-09/",
+          "summary": "이재용 삼성전자 회장은 모친 홍라희 여사가 보유한 삼성전자 주식 1조9천억원어치를 10월 12일 매입할 예정이라고 공시했다. 삼성전자 지배주주 일가 내부의 대규모 지분 이동이라는 점에서 지배구조와 수급 측면의 시장 관심이 커졌다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -98,14 +87,25 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-swiss-chfd-testing-20260908",
-          "title": "스위스 프랑 스테이블코인 CHFD 실증 단계 진입…SIX·TWINT 참여",
-          "source": "Reuters",
-          "publishedAt": "2026-09-08T06:29:00Z",
-          "updatedAt": "2026-09-09T09:02:18Z",
-          "url": "https://www.reuters.com/business/finance/swiss-stablecoin-project-enters-testing-phase-adds-six-twint-partners-2026-09-08/",
-          "summary": "스위스 금융권이 추진하는 프랑 연동 스테이블코인 CHFD가 라이브 테스트 단계에 들어갔고 금융시장 운영사 SIX와 결제앱 TWINT가 새 파트너로 합류했다. UBS·PostFinance·Sygnum 등은 1대1 프랑 연동 디지털화폐의 실제 결제·금융 활용 가능성을 검증하고 있다.",
-          "impact": "medium",
+          "id": "crypto-paypal-pyusdx-platform-20260909",
+          "title": "PayPal, PYUSD 기반 맞춤형 스테이블코인 발행 플랫폼 PYUSDx 가동",
+          "source": "CoinDesk",
+          "publishedAt": "2026-09-09T14:58:00Z",
+          "updatedAt": "2026-09-09T22:58:15Z",
+          "url": "https://www.coindesk.com/business/2026/09/09/paypal-expands-stablecoin-rails-with-launch-of-custom-token-issuance-platform",
+          "summary": "PayPal은 M0·MoonPay와 함께 기업이 PYUSD를 기반으로 자체 스테이블코인을 발행할 수 있는 PYUSDx 플랫폼을 가동했다. 초기 참여사 세 곳의 누적 처리규모가 1억달러를 넘으면서 기존 결제기업의 온체인 금융 인프라 확장이 본격화되고 있다.",
+          "impact": "high",
+          "region": "global"
+        },
+        {
+          "id": "crypto-tether-private-credit-fasanara-20260909",
+          "title": "Tether·Fasanara, 4억달러 출자해 USDT 기반 사모대출 펀드 출범",
+          "source": "Tether",
+          "publishedAt": "2026-09-09T16:58:00Z",
+          "updatedAt": "2026-09-09T22:58:15Z",
+          "url": "https://tether.io/news/tether-and-fasanara-capital-launch-400-million-private-credit-fund-to-expand-stablecoin-enabled-real-economy-lending/",
+          "summary": "Tether와 Fasanara Capital은 4억달러를 공동 출자해 사모대출 펀드 StableFund를 출범시키고 외부 기관자금까지 최대 30억달러 규모로 확대할 계획이다. USDT를 국경간 결제·정산 인프라로 활용해 스테이블코인의 전통 금융시장 적용 범위를 넓힌다.",
+          "impact": "high",
           "region": "global"
         }
       ]
