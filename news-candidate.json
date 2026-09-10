@@ -1,40 +1,29 @@
 {
-  "updatedAt": "2026-09-10T08:51:40Z",
-  "headline": "중동발 공급 차질로 브렌트유가 100달러 선을 지키고 미 국채 장기금리가 2023년 이후 최고권에 머물면서 인플레이션·금리 부담이 시장의 핵심 변수로 남았다. 동시에 AI 인프라 투자는 이어지고 있지만 BIS는 높은 밸류에이션·시장집중·불투명한 부채조달을 금융안정 리스크로 경고했고, 한국에서는 대미 에너지 투자 논의와 반도체 대규모 주주환원이 부각됐다.",
+  "updatedAt": "2026-09-10T22:49:21Z",
+  "headline": "미국 8월 생산자물가가 전월 대비 0.4%, 전년 대비 5.4% 올라 에너지발 인플레이션 압력을 재확인했고, 브렌트유는 107.63달러로 6% 넘게 급등했다. 높은 유가와 국채금리 부담으로 미국·한국 증시가 약세를 보인 반면 Oracle의 AI 클라우드 수주와 OpenAI의 금융 특화 ChatGPT 출시는 AI 투자 사이클의 지속을 보여줬다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-brent-above-100-shipping-attacks-20260910",
-          "title": "브렌트유 100달러 상회 지속…미·이란 선박 공격에 공급 차질 우려 확대",
-          "source": "Reuters",
-          "publishedAt": "2026-09-10T01:24:00Z",
-          "updatedAt": "2026-09-10T08:51:40Z",
-          "url": "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/",
-          "summary": "브렌트유는 10일 장중 배럴당 100.50달러 안팎을 유지했다. 미·이란의 대규모 선박 공격과 호르무즈 해협 통항 감소, 후티의 사우디 공격이 겹치며 중동 에너지 공급 차질 우려가 계속되고 있다.",
-          "impact": "high",
-          "region": "global"
-        },
-        {
-          "id": "macro-us-treasury-buyback-20260909",
-          "title": "미 재무부, 10~20년물 국채 최대 60억달러 바이백…장기금리 2023년 이후 최고권",
-          "source": "Reuters",
-          "publishedAt": "2026-09-09T15:24:00Z",
-          "updatedAt": "2026-09-10T08:51:40Z",
-          "url": "https://www.reuters.com/world/us-treasury-buy-up-6-billion-sept-10-buyback-operation-2026-09-09/",
-          "summary": "미 재무부는 10일 10~20년 만기 국채를 최대 60억달러 매입하는 바이백을 실시한다고 밝혔다. 발표 뒤 10년물 금리는 4.8528%까지 올라 2023년 11월 이후 최고 수준을 기록해 장기 조달금리 부담이 부각됐다.",
+          "id": "macro-us-ppi-august-20260910",
+          "title": "미 8월 PPI 0.4% 상승…전년비 5.4%, 에너지 가격이 물가 압력 확대",
+          "source": "U.S. Bureau of Labor Statistics",
+          "publishedAt": "2026-09-10T12:30:00Z",
+          "updatedAt": "2026-09-10T22:49:21Z",
+          "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+          "summary": "미국 8월 최종수요 생산자물가지수(PPI)는 전월 대비 0.4%, 전년 대비 5.4% 상승했다. 최종수요 에너지 가격이 4.2% 올랐고 디젤 가격은 24.1% 급등해 에너지발 비용 압력이 두드러졌다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "macro-bis-ai-financial-stability-risks-20260910",
-          "title": "BIS 총재, AI 투자 붐의 금융안정 리스크 경고…부채·사모신용 의존 확대",
+          "id": "macro-oil-surge-tanker-attacks-20260910",
+          "title": "브렌트·WTI 6% 넘게 급등…선박 공격 확대에 두 유종 모두 100달러 돌파",
           "source": "Reuters",
-          "publishedAt": "2026-09-10T05:53:00Z",
-          "updatedAt": "2026-09-10T08:51:40Z",
-          "url": "https://www.reuters.com/business/finance/ai-boom-poses-new-financial-stability-risks-bis-head-says-2026-09-10/",
-          "summary": "BIS의 파블로 에르난데스 데 코스 총재는 AI 인프라 투자가 이미 글로벌 경제에 영향을 줄 규모로 커졌으며 높은 밸류에이션과 시장집중, 불투명한 부채·사모신용 조달을 면밀히 봐야 한다고 경고했다. BIS는 세계 5대 기술기업의 2025~2026년 AI 투자가 1조달러를 넘을 것으로 추산했다.",
+          "publishedAt": "2026-09-10T01:24:00Z",
+          "updatedAt": "2026-09-10T22:49:21Z",
+          "url": "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/",
+          "summary": "브렌트유는 6.34% 오른 배럴당 107.63달러, WTI는 6.69% 오른 102.48달러에 마감했다. 호르무즈 해협과 홍해의 운송 차질 및 중동 선박 공격 확대가 이미 빠듯한 공급에 추가 부담을 주고 있다.",
           "impact": "high",
           "region": "global"
         }
@@ -44,24 +33,35 @@
       "id": "us",
       "items": [
         {
-          "id": "us-sp500-oil-yields-20260909",
-          "title": "S&P500 0.48% 하락…유가 100달러·장기금리 상승이 위험자산 압박",
+          "id": "us-sp500-yields-inflation-20260910",
+          "title": "S&P500 0.58% 하락…유가 급등·국채금리 상승에 인플레이션 경계 강화",
           "source": "Reuters",
-          "publishedAt": "2026-09-09T09:39:00Z",
-          "updatedAt": "2026-09-10T08:51:40Z",
-          "url": "https://www.reuters.com/business/wall-st-futures-muted-oil-tops-100-first-time-since-july-2026-09-09/",
-          "summary": "S&P500은 0.48%, 나스닥은 0.64%, 다우는 0.77% 하락했다. 브렌트유의 100달러 돌파와 미 10년물 국채금리 상승이 인플레이션·할인율 부담을 키웠고 에너지 업종만 강세를 보였다.",
+          "publishedAt": "2026-09-10T09:48:00Z",
+          "updatedAt": "2026-09-10T22:49:21Z",
+          "url": "https://www.reuters.com/business/sp-500-dow-futures-attempt-recovery-ahead-inflation-report-2026-09-10/",
+          "summary": "S&P500은 0.58%, 나스닥은 0.65%, 다우는 0.60% 하락했다. 유가 급등과 10년·30년물 국채금리 상승이 할인율과 기업 조달비용 부담을 키웠고 Nvidia와 Micron 등 반도체주가 약세를 보였다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-google-finland-ai-nuclear-20260909",
-          "title": "Google, 핀란드 AI 인프라에 151억달러 투자…원전 전력 장기계약 포함",
+          "id": "us-oracle-ai-cloud-results-20260910",
+          "title": "Oracle 실적 예상 상회…AI 클라우드 신규계약 300억달러·수주잔고 6,640억달러",
           "source": "Reuters",
-          "publishedAt": "2026-09-09T07:01:00Z",
-          "updatedAt": "2026-09-10T08:51:40Z",
-          "url": "https://www.reuters.com/business/media-telecom/google-invest-15-billion-ai-infrastructure-finland-2026-09-09/",
-          "summary": "Google은 향후 2년간 핀란드 AI 인프라에 최소 130억유로(약 151억달러)를 투자하고 원전 전력을 장기간 공급받기로 했다. Alphabet이 올해 글로벌 설비투자 계획을 1,950억~2,050억달러로 높인 가운데 AI 데이터센터의 전력 확보 경쟁이 계속 확대되고 있다.",
+          "publishedAt": "2026-09-10T20:14:00Z",
+          "updatedAt": "2026-09-10T22:49:21Z",
+          "url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/",
+          "summary": "Oracle은 1분기 매출 193억달러로 시장 예상을 웃돌았고 AI 클라우드 신규계약이 300억달러를 넘으며 수주잔고가 6,640억달러로 늘었다. 예상보다 작은 현금 유출과 고객 선지급 구조가 대규모 AI 인프라 투자의 재무 부담 우려를 일부 완화했다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-openai-financial-services-chatgpt-20260910",
+          "title": "OpenAI, 금융서비스용 ChatGPT 출시…Morgan Stanley·Evercore와 공동 설계",
+          "source": "Reuters",
+          "publishedAt": "2026-09-10T17:29:00Z",
+          "updatedAt": "2026-09-10T22:49:21Z",
+          "url": "https://www.reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10/",
+          "summary": "OpenAI는 LSEG·PitchBook·Daloopa 등 금융 데이터를 내장한 ChatGPT for Financial Services를 출시했다. 투자은행·주식리서치 업무를 겨냥해 금융모델 작성과 리서치, 고객자료 생성을 지원하며 규제산업용 AI 시장 확대를 보여준다.",
           "impact": "high",
           "region": "US"
         }
@@ -71,24 +71,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-us-energy-investment-talks-20260910",
-          "title": "한국, 1천억달러 이상 미국 에너지 투자안 논의 보도…정부는 세부안 미확정",
-          "source": "Reuters",
-          "publishedAt": "2026-09-10T08:35:00Z",
-          "updatedAt": "2026-09-10T08:51:40Z",
-          "url": "https://www.reuters.com/world/asia-pacific/south-korea-nears-agreement-worth-over-100-billion-us-investments-wsj-reports-2026-09-10/",
-          "summary": "월스트리트저널 보도를 인용한 Reuters에 따르면 한국 정부는 미국 AI 인프라를 뒷받침할 원전·가스발전 투자 패키지를 1천억달러 이상 규모로 준비 중이다. 한국 산업통상자원부는 투자 세부 내용이 아직 확정되지 않았다고 밝혔다.",
+          "id": "korea-kospi-inflation-fears-20260910",
+          "title": "코스피 0.25% 하락…유가 급등·미 인플레이션 경계에 외국인 2.49조원 순매도",
+          "source": "Yonhap News Agency",
+          "publishedAt": "2026-09-10T07:31:00Z",
+          "updatedAt": "2026-09-10T22:49:21Z",
+          "url": "https://en.yna.co.kr/view/AEN20260910005952320",
+          "summary": "코스피는 0.25% 내린 7,033.92에 마감했고 외국인은 2조4,900억원을 순매도했다. 중동발 유가 상승과 미국 물가·금리 우려가 부담으로 작용했으며 삼성전자와 SK하이닉스 등 기술주도 약세를 보였다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-samsung-hynix-shareholder-returns-20260909",
-          "title": "삼성전자·SK하이닉스 2026년 주주환원 130조원 넘어…코리아 디스카운트 해소 시험대",
+          "id": "korea-us-energy-investment-20260910",
+          "title": "한국, 1천억달러 넘는 미국 에너지 투자안 협의 보도…정부는 세부 내용 미확정",
           "source": "Reuters",
-          "publishedAt": "2026-09-09T23:40:00Z",
-          "updatedAt": "2026-09-10T08:51:40Z",
-          "url": "https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-payouts-test-south-koreas-reform-drive-investors-seek-more-2026-09-09/",
-          "summary": "AI 메모리 호황에 힘입어 삼성전자와 SK하이닉스의 올해 주주환원 계획이 합산 130조원을 넘지만 투자자들은 지배구조와 자본배분 개선이 더 필요하다고 평가했다. 한국거래소 기준 올해 국내 기업의 자사주 매입 발표액도 39조원으로 2024~2025년 합계를 넘어섰다.",
+          "publishedAt": "2026-09-10T08:35:00Z",
+          "updatedAt": "2026-09-10T22:49:21Z",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korea-nears-agreement-worth-over-100-billion-us-investments-wsj-reports-2026-09-10/",
+          "summary": "한국 정부가 미국 AI 인프라를 지원하기 위해 최대 8기의 원전과 약 200억달러 규모 가스발전 프로젝트를 포함한 1천억달러 이상 투자안을 준비 중이라는 보도가 나왔다. 산업통상자원부는 구체적인 투자 내용은 아직 확정되지 않았다고 밝혔다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -98,15 +98,15 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-clarity-act-lobbying-20260909",
-          "title": "미 가상자산 시장구조법 표결 앞두고 업계·은행권 로비전 격화",
+          "id": "crypto-esma-systemic-risk-warning-20260910",
+          "title": "ESMA, 크립토 충격의 금융시스템 전이 위험 재경고…예측시장 조작 우려도 부각",
           "source": "Reuters",
-          "publishedAt": "2026-09-09T10:01:00Z",
-          "updatedAt": "2026-09-10T08:51:40Z",
-          "url": "https://www.reuters.com/legal/government/crypto-banks-take-lobbying-war-us-senators-home-states-ahead-key-vote-2026-09-09/",
-          "summary": "미 상원은 9월 15일 Clarity Act 절차 표결을 앞두고 있으며 가상자산 업계와 지역은행권이 법안의 통과·수정을 놓고 로비를 강화하고 있다. 법안은 디지털 토큰의 규제 틀과 감독 권한을 정하는 핵심 시장구조 법안으로 미국 가상자산 산업의 제도적 불확실성과 직결된다.",
+          "publishedAt": "2026-09-10T12:51:00Z",
+          "updatedAt": "2026-09-10T22:49:21Z",
+          "url": "https://www.reuters.com/legal/government/eu-watchdog-flags-risk-abrupt-market-correction-2026-09-10/",
+          "summary": "유럽증권시장감독청(ESMA)은 전통 금융과의 연결이 커지면서 크립토 시장 충격이 더 넓은 금융시스템으로 전이될 수 있다고 재차 경고했다. 토큰화 주식과 크립토 기반 예측시장의 확대로 내부자거래·시장조작 탐지가 더 어려워질 수 있다는 점도 지적했다.",
           "impact": "high",
-          "region": "US"
+          "region": "EU"
         }
       ]
     }
