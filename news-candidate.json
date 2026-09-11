@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T22:49:21Z",
-  "headline": "미국 8월 생산자물가가 전월 대비 0.4%, 전년 대비 5.4% 올라 에너지발 인플레이션 압력을 재확인했고, 브렌트유는 107.63달러로 6% 넘게 급등했다. 높은 유가와 국채금리 부담으로 미국·한국 증시가 약세를 보인 반면 Oracle의 AI 클라우드 수주와 OpenAI의 금융 특화 ChatGPT 출시는 AI 투자 사이클의 지속을 보여줬다.",
+  "updatedAt": "2026-09-11T02:51:41Z",
+  "headline": "중동발 에너지 충격이 더 커지며 브렌트유가 110달러에 근접하고 미 국채 10년물이 5% 문턱까지 올라 글로벌 금리·주식시장을 압박했다. 미국에서는 AI 클라우드 실적이 견조했지만 인플레이션 부담이 커졌고, 한국 증시는 급락 출발한 가운데 방산 수출 계약이 이어졌으며 크립토 시장은 전통 거래소의 토큰화 진출과 규제 리스크가 동시에 부각됐다.",
   "sections": [
     {
       "id": "macro",
@@ -10,20 +10,20 @@
           "title": "미 8월 PPI 0.4% 상승…전년비 5.4%, 에너지 가격이 물가 압력 확대",
           "source": "U.S. Bureau of Labor Statistics",
           "publishedAt": "2026-09-10T12:30:00Z",
-          "updatedAt": "2026-09-10T22:49:21Z",
+          "updatedAt": "2026-09-11T02:51:41Z",
           "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
-          "summary": "미국 8월 최종수요 생산자물가지수(PPI)는 전월 대비 0.4%, 전년 대비 5.4% 상승했다. 최종수요 에너지 가격이 4.2% 올랐고 디젤 가격은 24.1% 급등해 에너지발 비용 압력이 두드러졌다.",
+          "summary": "미국 8월 최종수요 생산자물가지수(PPI)는 전월 대비 0.4%, 전년 대비 5.4% 상승했다. 최종수요 에너지가 4.2%, 디젤이 24.1% 올라 에너지발 비용 압력이 생산단계 물가에 빠르게 반영됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "macro-oil-surge-tanker-attacks-20260910",
-          "title": "브렌트·WTI 6% 넘게 급등…선박 공격 확대에 두 유종 모두 100달러 돌파",
+          "id": "macro-global-bonds-oil-20260911",
+          "title": "브렌트유 109.97달러·미 10년물 4.97%…에너지 쇼크에 글로벌 채권 급락",
           "source": "Reuters",
-          "publishedAt": "2026-09-10T01:24:00Z",
-          "updatedAt": "2026-09-10T22:49:21Z",
-          "url": "https://www.reuters.com/business/energy/brent-holds-above-100-tanker-attacks-deepen-supply-fear-2026-09-10/",
-          "summary": "브렌트유는 6.34% 오른 배럴당 107.63달러, WTI는 6.69% 오른 102.48달러에 마감했다. 호르무즈 해협과 홍해의 운송 차질 및 중동 선박 공격 확대가 이미 빠듯한 공급에 추가 부담을 주고 있다.",
+          "publishedAt": "2026-09-11T00:56:12Z",
+          "updatedAt": "2026-09-11T02:51:41Z",
+          "url": "https://www.reuters.com/world/china/global-markets-corrected-2026-09-11/",
+          "summary": "브렌트유가 4개월 최고치인 배럴당 109.97달러까지 오르고 미 10년물 국채금리는 4.9708%로 3년 최고치를 기록했다. 중동 공급 차질이 인플레이션과 주요국 추가 긴축 우려를 키우며 아시아 주식과 채권 전반에 매도세가 확산됐다.",
           "impact": "high",
           "region": "global"
         }
@@ -33,36 +33,25 @@
       "id": "us",
       "items": [
         {
-          "id": "us-sp500-yields-inflation-20260910",
-          "title": "S&P500 0.58% 하락…유가 급등·국채금리 상승에 인플레이션 경계 강화",
-          "source": "Reuters",
-          "publishedAt": "2026-09-10T09:48:00Z",
-          "updatedAt": "2026-09-10T22:49:21Z",
-          "url": "https://www.reuters.com/business/sp-500-dow-futures-attempt-recovery-ahead-inflation-report-2026-09-10/",
-          "summary": "S&P500은 0.58%, 나스닥은 0.65%, 다우는 0.60% 하락했다. 유가 급등과 10년·30년물 국채금리 상승이 할인율과 기업 조달비용 부담을 키웠고 Nvidia와 Micron 등 반도체주가 약세를 보였다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
           "id": "us-oracle-ai-cloud-results-20260910",
           "title": "Oracle 실적 예상 상회…AI 클라우드 신규계약 300억달러·수주잔고 6,640억달러",
           "source": "Reuters",
           "publishedAt": "2026-09-10T20:14:00Z",
-          "updatedAt": "2026-09-10T22:49:21Z",
+          "updatedAt": "2026-09-11T02:51:41Z",
           "url": "https://www.reuters.com/technology/oracles-quarterly-revenue-beats-estimates-ai-boom-drives-cloud-demand-2026-09-10/",
-          "summary": "Oracle은 1분기 매출 193억달러로 시장 예상을 웃돌았고 AI 클라우드 신규계약이 300억달러를 넘으며 수주잔고가 6,640억달러로 늘었다. 예상보다 작은 현금 유출과 고객 선지급 구조가 대규모 AI 인프라 투자의 재무 부담 우려를 일부 완화했다.",
+          "summary": "Oracle은 1분기 매출 193억달러로 시장 예상을 웃돌고 신규 AI 클라우드 계약을 300억달러 넘게 확보해 수주잔고가 6,640억달러로 늘었다. 고객 선지급과 자체 하드웨어 구조 덕분에 대규모 AI 인프라 투자에 따른 현금흐름 우려도 예상보다 완화됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-openai-financial-services-chatgpt-20260910",
-          "title": "OpenAI, 금융서비스용 ChatGPT 출시…Morgan Stanley·Evercore와 공동 설계",
+          "id": "us-adobe-ai-demand-results-20260910",
+          "title": "Adobe 3분기 매출 예상 상회…AI 제품 반복매출 두 배 이상 증가",
           "source": "Reuters",
-          "publishedAt": "2026-09-10T17:29:00Z",
-          "updatedAt": "2026-09-10T22:49:21Z",
-          "url": "https://www.reuters.com/business/openai-launches-chatgpt-financial-services-industry-2026-09-10/",
-          "summary": "OpenAI는 LSEG·PitchBook·Daloopa 등 금융 데이터를 내장한 ChatGPT for Financial Services를 출시했다. 투자은행·주식리서치 업무를 겨냥해 금융모델 작성과 리서치, 고객자료 생성을 지원하며 규제산업용 AI 시장 확대를 보여준다.",
-          "impact": "high",
+          "publishedAt": "2026-09-10T20:13:00Z",
+          "updatedAt": "2026-09-11T02:51:41Z",
+          "url": "https://www.reuters.com/business/adobe-beats-third-quarter-revenue-estimates-2026-09-10/",
+          "summary": "Adobe의 3분기 매출은 67억6천만달러로 시장 예상치를 웃돌았고 AI 중심 제품의 연간 반복매출은 전년 대비 두 배 이상 늘었다. 다만 4분기 매출 가이던스 중간값이 기대에 소폭 못 미치며 AI 경쟁 심화에 대한 경계도 남았다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -71,25 +60,25 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-inflation-fears-20260910",
-          "title": "코스피 0.25% 하락…유가 급등·미 인플레이션 경계에 외국인 2.49조원 순매도",
+          "id": "korea-kospi-open-inflation-20260911",
+          "title": "코스피 3.29% 급락 출발…유가·미 물가 부담에 반도체주 약세",
           "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-10T07:31:00Z",
-          "updatedAt": "2026-09-10T22:49:21Z",
-          "url": "https://en.yna.co.kr/view/AEN20260910005952320",
-          "summary": "코스피는 0.25% 내린 7,033.92에 마감했고 외국인은 2조4,900억원을 순매도했다. 중동발 유가 상승과 미국 물가·금리 우려가 부담으로 작용했으며 삼성전자와 SK하이닉스 등 기술주도 약세를 보였다.",
+          "publishedAt": "2026-09-11T00:28:00Z",
+          "updatedAt": "2026-09-11T02:51:41Z",
+          "url": "https://en.yna.co.kr/view/AEN20260911000951320",
+          "summary": "코스피는 3.29% 하락 출발한 뒤 오전 9시15분 기준 2.6% 내린 6,850.80을 기록했다. 미국 생산자물가와 유가 급등으로 연준의 추가 긴축 우려가 커지며 삼성전자와 SK하이닉스가 각각 3.5%, 4.48% 하락했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-us-energy-investment-20260910",
-          "title": "한국, 1천억달러 넘는 미국 에너지 투자안 협의 보도…정부는 세부 내용 미확정",
-          "source": "Reuters",
-          "publishedAt": "2026-09-10T08:35:00Z",
-          "updatedAt": "2026-09-10T22:49:21Z",
-          "url": "https://www.reuters.com/world/asia-pacific/south-korea-nears-agreement-worth-over-100-billion-us-investments-wsj-reports-2026-09-10/",
-          "summary": "한국 정부가 미국 AI 인프라를 지원하기 위해 최대 8기의 원전과 약 200억달러 규모 가스발전 프로젝트를 포함한 1천억달러 이상 투자안을 준비 중이라는 보도가 나왔다. 산업통상자원부는 구체적인 투자 내용은 아직 확정되지 않았다고 밝혔다.",
-          "impact": "high",
+          "id": "korea-hanwha-croatia-chunmoo-20260910",
+          "title": "한화에어로스페이스, 크로아티아에 천무 18대 수출…6,400억원 규모",
+          "source": "Yonhap News Agency",
+          "publishedAt": "2026-09-10T12:45:00Z",
+          "updatedAt": "2026-09-11T02:51:41Z",
+          "url": "https://en.yna.co.kr/view/AEN20260910005651315",
+          "summary": "한화에어로스페이스는 크로아티아에 천무 다연장로켓 18대를 수출하는 약 6,400억원 규모 계약을 체결했다. 크로아티아는 폴란드·에스토니아·노르웨이에 이어 유럽에서 네 번째 천무 도입국이 됐다.",
+          "impact": "medium",
           "region": "South Korea"
         }
       ]
@@ -98,13 +87,24 @@
       "id": "crypto",
       "items": [
         {
+          "id": "crypto-nasdaq-kraken-tokenization-20260910",
+          "title": "Nasdaq, Kraken 모회사에 1억달러 투자…토큰화 주식 인프라 협력 확대",
+          "source": "Reuters",
+          "publishedAt": "2026-09-10T11:48:30Z",
+          "updatedAt": "2026-09-11T02:51:41Z",
+          "url": "https://www.reuters.com/legal/government/nasdaq-invest-100-million-kraken-parent-deepen-tokenization-push-2026-09-10/",
+          "summary": "Nasdaq 벤처 부문은 Kraken 모회사 Payward에 1억달러를 투자하고 토큰화 주식의 거래·결제 인프라 개발 협력을 확대하기로 했다. 양사는 2027년 2분기 Nasdaq Equity Tokens 출시를 목표로 전통 거래소의 블록체인 기반 시장 진입을 본격화하고 있다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
           "id": "crypto-esma-systemic-risk-warning-20260910",
-          "title": "ESMA, 크립토 충격의 금융시스템 전이 위험 재경고…예측시장 조작 우려도 부각",
+          "title": "ESMA, 크립토 충격의 금융시스템 전이 위험 경고…예측시장 조작 우려도 제기",
           "source": "Reuters",
           "publishedAt": "2026-09-10T12:51:00Z",
-          "updatedAt": "2026-09-10T22:49:21Z",
+          "updatedAt": "2026-09-11T02:51:41Z",
           "url": "https://www.reuters.com/legal/government/eu-watchdog-flags-risk-abrupt-market-correction-2026-09-10/",
-          "summary": "유럽증권시장감독청(ESMA)은 전통 금융과의 연결이 커지면서 크립토 시장 충격이 더 넓은 금융시스템으로 전이될 수 있다고 재차 경고했다. 토큰화 주식과 크립토 기반 예측시장의 확대로 내부자거래·시장조작 탐지가 더 어려워질 수 있다는 점도 지적했다.",
+          "summary": "유럽증권시장감독청(ESMA)은 전통 금융과 크립토 시장의 연결이 깊어지면서 가상자산 충격이 금융시스템으로 확산될 수 있다고 재차 경고했다. 토큰화 주식과 크립토 기반 예측시장의 성장으로 내부자거래와 시장조작 탐지가 어려워질 수 있다는 점도 지적했다.",
           "impact": "high",
           "region": "EU"
         }
