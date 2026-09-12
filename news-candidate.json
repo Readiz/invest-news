@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-09-12T02:51:07Z",
-  "headline": "미국 8월 CPI가 전월 대비 0.4% 오르고 중동발 원유 공급 차질 우려가 이어지면서 인플레이션과 금리 부담이 시장의 핵심 변수로 남았다. 미국에서는 AI 투자 확대의 명암이 엇갈렸고, 한국 증시는 유가 부담에 약세를 보였으며 크립토에서는 Clarity Act의 새 초안과 규제 방향이 주목됐다.",
+  "updatedAt": "2026-09-12T08:50:00Z",
+  "headline": "사우디 동서횡단 송유관이 드론 공격 뒤 폐쇄되며 중동발 에너지 공급 충격이 다시 커졌고, 미국 8월 CPI는 전월 대비 0.4% 올라 Fed의 긴축 경계를 유지시켰다. 다만 미국 증시는 유가 후퇴와 AI 하드웨어 강세로 반등했고, 한국은 유가·금리 부담 속 코스피가 약세를 보인 가운데 암호화폐 시장은 금리 경로와 주식 토큰화 규제 논쟁에 민감하게 반응했다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
+          "id": "macro-saudi-east-west-pipeline-20260912",
+          "title": "사우디 동서횡단 송유관 폐쇄…홍해·호르무즈 동시 공급 차질 우려 확대",
+          "source": "Reuters",
+          "publishedAt": "2026-09-12T00:55:00Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
+          "url": "https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/",
+          "summary": "사우디아라비아는 드론 공격 뒤 동서횡단 송유관을 예방적으로 폐쇄했으며, 이 송유관은 최근 하루 400만~500만배럴을 운송해 세계 공급의 약 4~5%를 담당해 왔다. 후티가 바브엘만데브 해협의 전략 거점을 장악한 가운데 호르무즈 통항 차질까지 겹쳐 중동 에너지 공급 위험이 다시 확대됐다.",
+          "impact": "high",
+          "region": "global"
+        },
+        {
           "id": "macro-us-cpi-20260911",
           "title": "미국 8월 CPI 전월비 0.4% 상승…에너지·휘발유가 상승 주도",
           "source": "U.S. Bureau of Labor Statistics",
           "publishedAt": "2026-09-11T12:30:00Z",
-          "updatedAt": "2026-09-12T02:51:07Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
           "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-          "summary": "미국 8월 소비자물가지수는 전월 대비 0.4%, 전년 대비 3.4% 상승했고 근원 CPI는 전월 대비 0.3% 올랐다. 에너지는 한 달 새 2.1%, 휘발유는 3.9% 상승해 최근 에너지 가격 반등이 소비자물가에 다시 반영됐다.",
+          "summary": "미국 8월 소비자물가지수는 전월 대비 0.4%, 전년 대비 3.4% 상승했고 근원 CPI는 전월 대비 0.3% 올랐다. 에너지는 한 달 새 2.1%, 휘발유는 3.9% 상승해 에너지 가격 반등이 소비자물가에 다시 반영됐다.",
           "impact": "high",
           "region": "US"
-        },
-        {
-          "id": "macro-iea-oil-supply-gap-20260911",
-          "title": "IEA, 중동 정상화 지연에 2026년 원유 공급 감소폭 확대 전망",
-          "source": "Reuters",
-          "publishedAt": "2026-09-11T08:09:00Z",
-          "updatedAt": "2026-09-12T02:51:07Z",
-          "url": "https://www.reuters.com/business/energy/global-2026-oil-supply-gap-deepen-delayed-return-normal-gulf-flows-iea-says-2026-09-11/",
-          "summary": "IEA는 중동 분쟁 장기화로 정상적인 걸프 원유 흐름 복귀가 2027년까지 늦어지며 2026년 세계 원유 공급이 하루 570만배럴 감소할 것으로 전망했다. 8월 글로벌 원유 재고도 하루 310만배럴 속도로 줄어 공급 완충력이 약해지고 있다고 지적했다.",
-          "impact": "high",
-          "region": "global"
         }
       ]
     },
@@ -33,25 +33,14 @@
       "id": "us",
       "items": [
         {
-          "id": "us-oracle-restructuring-ai-20260911",
-          "title": "Oracle, AI 투자 확대 속 구조조정 비용 28억달러로 상향",
+          "id": "us-sp500-cpi-rate-hike-20260911",
+          "title": "S&P500 0.86% 상승…강한 CPI에도 유가 후퇴·AI 하드웨어주 강세",
           "source": "Reuters",
-          "publishedAt": "2026-09-11T09:01:00Z",
-          "updatedAt": "2026-09-12T02:51:07Z",
-          "url": "https://www.reuters.com/business/retail-consumer/oracle-shares-rise-ai-cloud-backlog-beats-estimates-2026-09-11/",
-          "summary": "Oracle은 AI 서비스 확대와 비용 절감을 병행하며 2026회계연도 구조조정 예상 비용을 약 28억달러로 높였다. AI 클라우드 수주잔고 증가가 성장 기대를 지지했지만 대규모 투자와 부채, 현금흐름 부담은 계속 시장의 핵심 평가 요소로 남았다.",
+          "publishedAt": "2026-09-11T09:56:00Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
+          "url": "https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/",
+          "summary": "S&P500은 0.86%, 나스닥은 0.96%, 다우는 0.98% 상승했다. 강한 CPI로 금리 인상 기대가 높아졌지만 유가가 고점에서 후퇴했고 Oracle 실적 영향으로 Dell·HPE·HP 등 AI 서버·하드웨어주가 크게 올랐다.",
           "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "us-jpmorgan-ai-hedge-fund-20260911",
-          "title": "JPMorgan, AI 집중 헤지펀드 Situational Awareness 대출 중단",
-          "source": "Reuters",
-          "publishedAt": "2026-09-11T21:05:00Z",
-          "updatedAt": "2026-09-12T02:51:07Z",
-          "url": "https://www.reuters.com/legal/transactional/jpmorgan-cut-off-situational-awareness-lending-after-ai-losses-ft-reports-2026-09-11/",
-          "summary": "JPMorgan은 AI 관련 주식에 집중 투자한 Situational Awareness가 7월 칩주 급락과 레버리지 손실을 겪은 뒤 대출 관계를 종료했다. SEC도 거래와 레버리지 사용을 들여다보고 있어 AI 테마의 과도한 레버리지와 금융권 익스포저가 부각됐다.",
-          "impact": "medium",
           "region": "US"
         },
         {
@@ -59,9 +48,20 @@
           "title": "Nvidia, Anthropic 초대형 IPO 앵커 투자 논의",
           "source": "Reuters",
           "publishedAt": "2026-09-11T23:01:00Z",
-          "updatedAt": "2026-09-12T02:51:07Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
           "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/",
-          "summary": "Anthropic은 기업가치 약 2조달러를 목표로 최대 1천억달러를 조달하는 IPO를 논의 중이며 Nvidia가 최대 100억달러 규모의 앵커 투자자로 참여하는 방안이 검토되고 있다. 성사 여부는 미정이지만 프런티어 AI 기업의 막대한 자본수요와 반도체 공급사와의 전략적 결합을 보여주는 사례다.",
+          "summary": "Anthropic은 최대 1천억달러를 조달해 약 2조달러 기업가치를 목표로 하는 IPO를 논의 중이며 Nvidia가 최대 100억달러 규모의 앵커 투자자로 참여하는 방안을 검토하고 있다. 계획은 아직 확정되지 않았지만 프런티어 AI 기업의 막대한 자본수요와 반도체 공급업체와의 전략적 결합을 보여준다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-oracle-restructuring-ai-20260911",
+          "title": "Oracle, AI 투자 확대 속 구조조정 비용 28억달러로 상향",
+          "source": "Reuters",
+          "publishedAt": "2026-09-11T09:01:00Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
+          "url": "https://www.reuters.com/business/retail-consumer/oracle-shares-rise-ai-cloud-backlog-beats-estimates-2026-09-11/",
+          "summary": "Oracle은 AI 서비스 확대와 비용 절감을 병행하며 2026회계연도 구조조정 예상 비용을 약 28억달러로 높였다. AI 클라우드 수주잔고는 6,640억달러로 늘었지만 대규모 데이터센터 투자와 부채·현금흐름 부담은 계속 핵심 평가 요소로 남았다.",
           "impact": "high",
           "region": "US"
         }
@@ -75,20 +75,20 @@
           "title": "코스피 1.76% 하락…유가 상승과 인플레이션 우려에 반도체 약세",
           "source": "Yonhap News Agency",
           "publishedAt": "2026-09-11T07:36:00Z",
-          "updatedAt": "2026-09-12T02:51:07Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
           "url": "https://en.yna.co.kr/view/AEN20260911006752320",
           "summary": "코스피는 1.76% 내린 6,909.91에 마감했고 외국인과 기관이 각각 약 2조2,900억원, 1조2,200억원을 순매도했다. 국제유가 상승과 미국 물가·금리 경계가 부담으로 작용하며 삼성전자와 SK하이닉스 등 대형 반도체주가 하락했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-central-asia-summit-20260911",
-          "title": "한국, 첫 중앙아시아 5개국 정상회의 개최…에너지·핵심광물 협력 확대 추진",
-          "source": "Reuters",
-          "publishedAt": "2026-09-11T05:07:00Z",
-          "updatedAt": "2026-09-12T02:51:07Z",
-          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-host-central-asia-summit-seoul-next-week-media-reports-2026-09-11/",
-          "summary": "한국은 다음 주 서울에서 카자흐스탄 등 중앙아시아 5개국과 첫 정상급 다자회의를 열고 무역·투자·에너지·핵심광물·공급망 협력을 논의한다. 자원 부국과의 협력 확대는 한국 제조업의 원자재 및 공급망 다변화와 직접 연결되는 정책 이슈다.",
+          "id": "korea-hormuz-iran-talks-20260911",
+          "title": "한·이란 외교장관, 호르무즈 파병 논의…한국은 아직 결정 없다고 확인",
+          "source": "Yonhap News Agency",
+          "publishedAt": "2026-09-11T07:10:00Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
+          "url": "https://en.yna.co.kr/view/AEN20260911005952315?section=national/diplomacy",
+          "summary": "조현 외교부 장관은 이란 외교장관과의 통화에서 호르무즈 해협 군사자산 파견 여부에 대해 아직 결정된 바가 없다고 밝혔다. 한국은 해협의 자유롭고 안전한 항행 원칙을 재확인했으며 UAE 현지 조사단의 결과를 바탕으로 대응 방안을 검토하고 있다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -98,14 +98,25 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-clarity-act-new-draft-20260910",
-          "title": "미 상원 공화당, Clarity Act 새 초안 공개…DeFi·신협 조항 수정",
+          "id": "crypto-bitcoin-fed-hike-cpi-20260911",
+          "title": "비트코인, CPI 직후 반등했지만 추가 금리인상 경계에 7만7천달러대로 되돌림",
           "source": "CoinDesk",
-          "publishedAt": "2026-09-10T18:50:00Z",
-          "updatedAt": "2026-09-12T02:51:07Z",
-          "url": "https://www.coindesk.com/policy/2026/09/10/new-clarity-act-text-tweaks-defi-credit-union-provisions-but-road-ahead-for-bill-remains-murky",
-          "summary": "미 상원 공화당은 디지털자산 시장구조법인 Clarity Act의 새 초안을 공개해 DeFi 등록·자금세탁방지 의무와 신협 관련 조항을 조정했다. 9월 15일 첫 절차 표결을 앞두고 공직자 윤리 조항과 초당적 지지 확보 여부가 핵심 쟁점으로 남아 있다.",
+          "publishedAt": "2026-09-11T15:04:00Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
+          "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
+          "summary": "비트코인은 미국 CPI 발표 뒤 한때 8만달러 부근까지 반등했지만 이후 7만7천달러대로 되돌아오며 상승분을 반납했다. 시장이 9월뿐 아니라 10월 추가 금리인상 가능성까지 반영하기 시작하면서 국채금리와 통화정책 경로가 암호화폐 변동성의 핵심 요인으로 부각됐다.",
           "impact": "high",
+          "region": "global"
+        },
+        {
+          "id": "crypto-robinhood-stock-token-amc-20260911",
+          "title": "Robinhood CEO, AMC와 주식 토큰 권리 논쟁…발행사 거부권에 반대",
+          "source": "CoinDesk",
+          "publishedAt": "2026-09-12T00:50:00Z",
+          "updatedAt": "2026-09-12T08:50:00Z",
+          "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+          "summary": "Robinhood의 블라드 테네브 CEO는 기존 주주권을 바꾸지 않는 1대1 담보형 주식 토큰에 대해 상장사가 발행 자체를 막을 권한은 없어야 한다고 주장했다. AMC가 SEC 문제 제기를 예고하면서 토큰화 주식이 실제 주식인지 별도 금융상품인지, 투자자 권리를 어떻게 정의할지가 핵심 규제 쟁점으로 떠올랐다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
