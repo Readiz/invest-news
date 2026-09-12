@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-12T08:50:00Z",
-  "headline": "사우디 동서횡단 송유관이 드론 공격 뒤 폐쇄되며 중동발 에너지 공급 충격이 다시 커졌고, 미국 8월 CPI는 전월 대비 0.4% 올라 Fed의 긴축 경계를 유지시켰다. 다만 미국 증시는 유가 후퇴와 AI 하드웨어 강세로 반등했고, 한국은 유가·금리 부담 속 코스피가 약세를 보인 가운데 암호화폐 시장은 금리 경로와 주식 토큰화 규제 논쟁에 민감하게 반응했다.",
+  "updatedAt": "2026-09-12T22:48:22Z",
+  "headline": "사우디 동서횡단 송유관 폐쇄로 중동 원유 공급망 위험이 다시 커졌고 미국 8월 CPI의 강한 에너지 상승은 다음 주 Fed 긴축 경계를 유지시켰다. 미국 증시는 금요일 반등했지만 AI 인프라 자금조달과 상장 계획의 불확실성이 이어졌고, 한국은 주말 휴장 속 북한 미사일 발사가 새로운 지정학적 변수로 부각됐다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
           "id": "macro-saudi-east-west-pipeline-20260912",
-          "title": "사우디 동서횡단 송유관 폐쇄…홍해·호르무즈 동시 공급 차질 우려 확대",
+          "title": "사우디 동서횡단 송유관 폐쇄…중동 원유 우회로까지 공급 차질 위험",
           "source": "Reuters",
           "publishedAt": "2026-09-12T00:55:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
+          "updatedAt": "2026-09-12T22:48:22Z",
           "url": "https://www.reuters.com/business/energy/saudis-shut-down-oil-pipeline-houthis-tighten-grip-red-sea-shipping-2026-09-12/",
-          "summary": "사우디아라비아는 드론 공격 뒤 동서횡단 송유관을 예방적으로 폐쇄했으며, 이 송유관은 최근 하루 400만~500만배럴을 운송해 세계 공급의 약 4~5%를 담당해 왔다. 후티가 바브엘만데브 해협의 전략 거점을 장악한 가운데 호르무즈 통항 차질까지 겹쳐 중동 에너지 공급 위험이 다시 확대됐다.",
+          "summary": "사우디아라비아는 드론 공격 뒤 동서횡단 송유관을 예방적으로 폐쇄했다. 이 송유관은 호르무즈 해협 차질 이후 하루 400만~500만배럴, 세계 공급의 약 4~5%를 운송해온 핵심 우회로여서 공급 리스크가 한층 커졌다.",
           "impact": "high",
           "region": "global"
         },
         {
           "id": "macro-us-cpi-20260911",
-          "title": "미국 8월 CPI 전월비 0.4% 상승…에너지·휘발유가 상승 주도",
+          "title": "미국 8월 CPI 전월비 0.4% 상승…에너지·휘발유 가격 반등",
           "source": "U.S. Bureau of Labor Statistics",
           "publishedAt": "2026-09-11T12:30:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
+          "updatedAt": "2026-09-12T22:48:22Z",
           "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-          "summary": "미국 8월 소비자물가지수는 전월 대비 0.4%, 전년 대비 3.4% 상승했고 근원 CPI는 전월 대비 0.3% 올랐다. 에너지는 한 달 새 2.1%, 휘발유는 3.9% 상승해 에너지 가격 반등이 소비자물가에 다시 반영됐다.",
+          "summary": "미국 8월 CPI는 전월 대비 0.4%, 전년 대비 3.4% 상승했고 근원 CPI는 전월 대비 0.3% 올랐다. 에너지는 2.1%, 휘발유는 3.9% 상승해 중동발 에너지 충격이 소비자물가에 반영되는 흐름을 보였다.",
           "impact": "high",
           "region": "US"
         }
@@ -37,31 +37,31 @@
           "title": "S&P500 0.86% 상승…강한 CPI에도 유가 후퇴·AI 하드웨어주 강세",
           "source": "Reuters",
           "publishedAt": "2026-09-11T09:56:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
+          "updatedAt": "2026-09-12T22:48:22Z",
           "url": "https://www.reuters.com/business/wall-st-futures-recover-oil-slides-ahead-inflation-test-2026-09-11/",
-          "summary": "S&P500은 0.86%, 나스닥은 0.96%, 다우는 0.98% 상승했다. 강한 CPI로 금리 인상 기대가 높아졌지만 유가가 고점에서 후퇴했고 Oracle 실적 영향으로 Dell·HPE·HP 등 AI 서버·하드웨어주가 크게 올랐다.",
+          "summary": "S&P500은 0.86%, 나스닥은 0.96%, 다우는 0.98% 상승했다. 강한 CPI에도 유가가 고점에서 후퇴했고 Oracle 실적 영향으로 Dell과 HPE 등 AI 서버·하드웨어주가 크게 올랐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-nvidia-anthropic-ipo-20260911",
-          "title": "Nvidia, Anthropic 초대형 IPO 앵커 투자 논의",
+          "id": "us-oracle-ellison-sale-cancel-20260912",
+          "title": "래리 엘리슨, Oracle 주식 5천만주 매도 계획 취소",
           "source": "Reuters",
-          "publishedAt": "2026-09-11T23:01:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
-          "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/",
-          "summary": "Anthropic은 최대 1천억달러를 조달해 약 2조달러 기업가치를 목표로 하는 IPO를 논의 중이며 Nvidia가 최대 100억달러 규모의 앵커 투자자로 참여하는 방안을 검토하고 있다. 계획은 아직 확정되지 않았지만 프런티어 AI 기업의 막대한 자본수요와 반도체 공급업체와의 전략적 결합을 보여준다.",
-          "impact": "high",
+          "publishedAt": "2026-09-12T18:38:00Z",
+          "updatedAt": "2026-09-12T22:48:22Z",
+          "url": "https://www.reuters.com/business/larry-ellison-cancels-plan-sell-oracle-stock-2026-09-12/",
+          "summary": "Oracle은 래리 엘리슨 회장이 최대 5천만주를 팔 수 있도록 했던 거래 계획을 취소했으며 실제 매도된 주식은 없다고 밝혔다. AI 클라우드 투자 확대를 위해 회사가 대규모 부채·주식 조달을 추진하는 가운데 지배주주의 추가 매도 부담은 일단 사라졌다.",
+          "impact": "medium",
           "region": "US"
         },
         {
-          "id": "us-oracle-restructuring-ai-20260911",
-          "title": "Oracle, AI 투자 확대 속 구조조정 비용 28억달러로 상향",
+          "id": "us-openai-ipo-delay-20260912",
+          "title": "OpenAI, AI 안전 우려로 2026년 IPO 추진하지 않기로",
           "source": "Reuters",
-          "publishedAt": "2026-09-11T09:01:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
-          "url": "https://www.reuters.com/business/retail-consumer/oracle-shares-rise-ai-cloud-backlog-beats-estimates-2026-09-11/",
-          "summary": "Oracle은 AI 서비스 확대와 비용 절감을 병행하며 2026회계연도 구조조정 예상 비용을 약 28억달러로 높였다. AI 클라우드 수주잔고는 6,640억달러로 늘었지만 대규모 데이터센터 투자와 부채·현금흐름 부담은 계속 핵심 평가 요소로 남았다.",
+          "publishedAt": "2026-09-12T20:38:00Z",
+          "updatedAt": "2026-09-12T22:48:22Z",
+          "url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
+          "summary": "샘 올트먼 OpenAI CEO는 AI 안전과 정렬 문제를 이유로 2026년에는 상장하지 않겠다고 밝혔다. 초대형 AI 기업의 자본시장 진입 일정이 늦춰지면서 프런티어 AI의 안전 규제와 막대한 자본수요가 동시에 시장 변수로 남게 됐다.",
           "impact": "high",
           "region": "US"
         }
@@ -71,24 +71,13 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-oil-inflation-20260911",
-          "title": "코스피 1.76% 하락…유가 상승과 인플레이션 우려에 반도체 약세",
-          "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-11T07:36:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
-          "url": "https://en.yna.co.kr/view/AEN20260911006752320",
-          "summary": "코스피는 1.76% 내린 6,909.91에 마감했고 외국인과 기관이 각각 약 2조2,900억원, 1조2,200억원을 순매도했다. 국제유가 상승과 미국 물가·금리 경계가 부담으로 작용하며 삼성전자와 SK하이닉스 등 대형 반도체주가 하락했다.",
-          "impact": "high",
-          "region": "South Korea"
-        },
-        {
-          "id": "korea-hormuz-iran-talks-20260911",
-          "title": "한·이란 외교장관, 호르무즈 파병 논의…한국은 아직 결정 없다고 확인",
-          "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-11T07:10:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
-          "url": "https://en.yna.co.kr/view/AEN20260911005952315?section=national/diplomacy",
-          "summary": "조현 외교부 장관은 이란 외교장관과의 통화에서 호르무즈 해협 군사자산 파견 여부에 대해 아직 결정된 바가 없다고 밝혔다. 한국은 해협의 자유롭고 안전한 항행 원칙을 재확인했으며 UAE 현지 조사단의 결과를 바탕으로 대응 방안을 검토하고 있다.",
+          "id": "korea-north-korea-missiles-20260911",
+          "title": "북한, 동해상으로 단거리 탄도미사일 여러 발 발사",
+          "source": "Reuters",
+          "publishedAt": "2026-09-11T20:49:00Z",
+          "updatedAt": "2026-09-12T22:48:22Z",
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-launches-unidentified-projectile-toward-east-sea-yonhap-reports-2026-09-11/",
+          "summary": "북한은 원산 일대에서 동해상으로 단거리 탄도미사일 여러 발을 발사했고 한국 국가안보실은 긴급 회의를 열었다. 한국 증시는 주말 휴장이지만 다음 거래일 원화·주식시장에 반영될 수 있는 한반도 지정학적 위험 요인이다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -98,26 +87,26 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-bitcoin-fed-hike-cpi-20260911",
-          "title": "비트코인, CPI 직후 반등했지만 추가 금리인상 경계에 7만7천달러대로 되돌림",
-          "source": "CoinDesk",
-          "publishedAt": "2026-09-11T15:04:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
-          "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-          "summary": "비트코인은 미국 CPI 발표 뒤 한때 8만달러 부근까지 반등했지만 이후 7만7천달러대로 되돌아오며 상승분을 반납했다. 시장이 9월뿐 아니라 10월 추가 금리인상 가능성까지 반영하기 시작하면서 국채금리와 통화정책 경로가 암호화폐 변동성의 핵심 요인으로 부각됐다.",
-          "impact": "high",
-          "region": "global"
-        },
-        {
           "id": "crypto-robinhood-stock-token-amc-20260911",
           "title": "Robinhood CEO, AMC와 주식 토큰 권리 논쟁…발행사 거부권에 반대",
           "source": "CoinDesk",
           "publishedAt": "2026-09-12T00:50:00Z",
-          "updatedAt": "2026-09-12T08:50:00Z",
+          "updatedAt": "2026-09-12T22:48:22Z",
           "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-          "summary": "Robinhood의 블라드 테네브 CEO는 기존 주주권을 바꾸지 않는 1대1 담보형 주식 토큰에 대해 상장사가 발행 자체를 막을 권한은 없어야 한다고 주장했다. AMC가 SEC 문제 제기를 예고하면서 토큰화 주식이 실제 주식인지 별도 금융상품인지, 투자자 권리를 어떻게 정의할지가 핵심 규제 쟁점으로 떠올랐다.",
+          "summary": "Robinhood의 블라드 테네브 CEO는 기존 주주권을 바꾸지 않는 1대1 담보형 주식 토큰이라면 상장사가 발행을 막아서는 안 된다고 주장했다. AMC와의 충돌은 토큰화 주식이 실제 주식인지 별도 금융상품인지와 투자자 권리를 어떻게 정의할지에 대한 규제 논쟁을 키우고 있다.",
           "impact": "medium",
           "region": "US"
+        },
+        {
+          "id": "crypto-bitcoin-fed-hike-cpi-20260911",
+          "title": "비트코인, CPI 발표 뒤 반등분 반납…추가 금리인상 경계 지속",
+          "source": "CoinDesk",
+          "publishedAt": "2026-09-11T15:04:00Z",
+          "updatedAt": "2026-09-12T22:48:22Z",
+          "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
+          "summary": "비트코인은 미국 CPI 발표 뒤 한때 8만달러 부근까지 올랐지만 이후 약 7만7천달러로 상승분을 반납했다. 시장이 9월 이후 추가 긴축 가능성까지 반영하면서 미 국채금리와 Fed 정책 경로가 암호화폐 변동성의 핵심 요인으로 남았다.",
+          "impact": "high",
+          "region": "global"
         }
       ]
     }
