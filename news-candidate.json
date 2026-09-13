@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-13T02:47:35Z",
-  "headline": "호르무즈 해협에서 선박 공격이 새로 보고되며 중동 에너지 공급 위험이 다시 커졌고, 미국 8월 CPI의 에너지 반등은 Fed의 긴축 경계를 유지시켰다. 미국에서는 프런티어 AI 기업의 IPO·자금조달 이슈가 부각됐고, 한국은 반도체 기술보호 강화와 현대차의 자율주행 소프트웨어 전략 변화가 주목됐다.",
+  "updatedAt": "2026-09-13T08:49:39Z",
+  "headline": "호르무즈 해협 선박 공격과 사우디 동서횡단 송유관 폐쇄가 겹치며 중동 에너지 공급 위험이 다시 커졌고, 미국의 8월 CPI 반등은 Fed 긴축 경계를 유지시켰다. 미국에서는 OpenAI의 IPO 연기, Anthropic 초대형 IPO 논의와 Tesla Roadster 일정이 부각됐고, 한국에서는 전략기술 보호 강화와 현대차의 Nvidia 협력 확대가 주목됐다.",
   "sections": [
     {
       "id": "macro",
@@ -10,9 +10,9 @@
           "title": "호르무즈 해협 선박 공격 새 보고…사우디 송유관 폐쇄와 겹쳐 공급 우려 확대",
           "source": "Reuters",
           "publishedAt": "2026-09-13T02:22:00Z",
-          "updatedAt": "2026-09-13T02:47:35Z",
+          "updatedAt": "2026-09-13T08:49:39Z",
           "url": "https://www.reuters.com/business/energy/new-report-attack-strait-hormuz-shipping-fans-fears-threats-oil-supplies-2026-09-13/",
-          "summary": "호르무즈 해협을 통과하던 선박에 발사체가 명중했다는 새 보고가 나오며 중동 원유 수송 위험이 다시 부각됐다. 사우디 동서횡단 송유관도 드론 공격 뒤 폐쇄된 상태여서 세계 공급의 핵심 우회로와 해상 수송로가 동시에 압박받고 있다.",
+          "summary": "UKMTO는 호르무즈 해협을 통과하던 선박에 발사체가 명중해 화재가 발생했고 승조원이 대피했다고 밝혔다. 사우디 동서횡단 송유관도 드론 공격 뒤 폐쇄돼 중동 원유의 해상·육상 우회 수송로가 동시에 압박받고 있다.",
           "impact": "high",
           "region": "global"
         },
@@ -21,9 +21,9 @@
           "title": "미국 8월 CPI 전월비 0.4% 상승…에너지·휘발유 가격 반등",
           "source": "U.S. Bureau of Labor Statistics",
           "publishedAt": "2026-09-11T12:30:00Z",
-          "updatedAt": "2026-09-13T02:47:35Z",
+          "updatedAt": "2026-09-13T08:49:39Z",
           "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-          "summary": "미국 8월 CPI는 전월 대비 0.4%, 전년 대비 3.4% 상승했고 근원 CPI는 전월 대비 0.3% 올랐다. 에너지는 2.1%, 휘발유는 3.9% 상승해 최근 에너지 가격 반등이 소비자물가에 반영됐다.",
+          "summary": "미국 8월 CPI는 전월 대비 0.4%, 전년 대비 3.4% 올랐고 근원 CPI는 전월 대비 0.3% 상승했다. 에너지가 2.1%, 휘발유가 3.9% 올라 최근 에너지 가격 반등이 소비자물가에 다시 반영됐다.",
           "impact": "high",
           "region": "US"
         }
@@ -37,10 +37,21 @@
           "title": "OpenAI, AI 안전 우려로 2026년 IPO 추진하지 않기로",
           "source": "Reuters",
           "publishedAt": "2026-09-12T20:38:00Z",
-          "updatedAt": "2026-09-13T02:47:35Z",
+          "updatedAt": "2026-09-13T08:49:39Z",
           "url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
-          "summary": "샘 올트먼 OpenAI CEO는 AI 안전과 정렬 문제를 이유로 2026년에는 상장하지 않겠다고 밝혔다. 초대형 AI 기업의 자본시장 진입 일정이 늦춰지면서 안전 규제와 프런티어 AI의 막대한 자본수요가 동시에 시장 변수로 남게 됐다.",
+          "summary": "샘 올트먼 CEO는 AI 안전과 정렬 문제를 이유로 OpenAI가 2026년에는 상장하지 않을 것이라고 밝혔다. 프런티어 AI 기업의 상장 일정이 늦춰지는 동시에 안전 규제와 막대한 자본수요가 함께 시장 변수로 남았다.",
           "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-tesla-roadster-unveil-20260912",
+          "title": "Tesla, 장기 지연된 Roadster를 10월 1일 공개 예정",
+          "source": "Reuters",
+          "publishedAt": "2026-09-12T20:17:00Z",
+          "updatedAt": "2026-09-13T08:49:39Z",
+          "url": "https://www.reuters.com/business/autos-transportation/tesla-signals-oct-1-launch-long-delayed-roadster-2026-09-12/",
+          "summary": "일론 머스크는 Tesla가 차세대 Roadster를 10월 1일 공개한다고 밝혔다. 2017년 처음 공개한 뒤 출시가 반복 지연된 모델로, 회사가 로보택시·Cybercab 중심 전략과 함께 고성능 EV 제품군을 다시 부각하는 계기가 될 수 있다.",
+          "impact": "medium",
           "region": "US"
         },
         {
@@ -48,9 +59,9 @@
           "title": "Nvidia, Anthropic 초대형 IPO에 최대 100억달러 투자 논의",
           "source": "Reuters",
           "publishedAt": "2026-09-11T23:01:00Z",
-          "updatedAt": "2026-09-13T02:47:35Z",
+          "updatedAt": "2026-09-13T08:49:39Z",
           "url": "https://www.reuters.com/legal/transactional/nvidia-talks-invest-anthropics-mega-ipo-sources-say-2026-09-11/",
-          "summary": "Anthropic은 최대 1천억달러를 조달해 약 2조달러 기업가치를 목표로 하는 IPO를 논의 중이며 Nvidia는 최대 100억달러 규모의 앵커 투자를 검토하고 있다. 거래는 아직 확정되지 않았지만 AI 모델 기업과 핵심 GPU 공급업체의 자본·인프라 결합이 더 깊어질 가능성을 보여준다.",
+          "summary": "Anthropic은 최대 1천억달러 조달과 약 2조달러 기업가치를 목표로 IPO를 논의하고 있으며 Nvidia는 최대 100억달러의 앵커 투자를 검토하고 있다. 확정된 거래는 아니지만 프런티어 AI 기업과 GPU 공급업체의 자본·인프라 결합이 더 깊어질 가능성을 보여준다.",
           "impact": "high",
           "region": "US"
         }
@@ -64,9 +75,9 @@
           "title": "한국 간첩죄 확대법 시행…반도체·배터리·AI 기술유출 처벌 강화",
           "source": "Reuters",
           "publishedAt": "2026-09-13T00:05:00Z",
-          "updatedAt": "2026-09-13T02:47:35Z",
+          "updatedAt": "2026-09-13T08:49:39Z",
           "url": "https://www.reuters.com/world/china/south-koreas-expanded-espionage-law-takes-effect-amid-push-protect-chip-2026-09-13/",
-          "summary": "한국의 개정 형법이 시행되며 간첩죄 적용 범위가 북한뿐 아니라 모든 외국과 이에 준하는 조직으로 확대됐다. 정부는 반도체·디스플레이·배터리·AI 등 전략기술 유출 억제 효과를 기대하고 있다.",
+          "summary": "개정 형법 시행으로 간첩죄 적용 범위가 북한뿐 아니라 모든 외국과 이에 준하는 조직으로 확대됐다. 정부는 반도체·디스플레이·배터리·AI 등 전략기술 유출에 대한 억지력이 강화될 것으로 보고 있다.",
           "impact": "medium",
           "region": "South Korea"
         },
@@ -75,9 +86,9 @@
           "title": "현대차, 자체 운전자보조 소프트웨어 2029년 출시…Nvidia와 중간 단계 협력",
           "source": "Reuters",
           "publishedAt": "2026-09-13T00:02:00Z",
-          "updatedAt": "2026-09-13T02:47:35Z",
+          "updatedAt": "2026-09-13T08:49:39Z",
           "url": "https://www.reuters.com/business/autos-transportation/hyundai-motor-roll-out-in-house-driver-assist-system-2029-2026-09-13/",
-          "summary": "현대차그룹은 자체 운전자보조 소프트웨어 출시 시점을 2029년으로 늦추고 2028년까지 Nvidia와 Level 2+·2++ 시스템을 공동 개발하기로 했다. 자체 소프트웨어 상용화 지연과 Nvidia 의존 확대가 동시에 드러난 전략 변화다.",
+          "summary": "현대차그룹은 자체 운전자보조 소프트웨어 출시를 2029년으로 늦추고 2028년까지 Nvidia와 Level 2+·2++ 시스템을 공동 개발하기로 했다. 자체 소프트웨어 상용화 지연과 Nvidia 의존 확대가 동시에 드러난 전략 변화다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -87,26 +98,15 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-robinhood-stock-token-amc-20260911",
+          "id": "crypto-robinhood-stock-token-amc-20260912",
           "title": "Robinhood CEO, AMC와 주식 토큰 권리 논쟁…발행사 거부권에 반대",
           "source": "CoinDesk",
           "publishedAt": "2026-09-12T00:50:00Z",
-          "updatedAt": "2026-09-13T02:47:35Z",
+          "updatedAt": "2026-09-13T08:49:39Z",
           "url": "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
-          "summary": "Robinhood의 블라드 테네브 CEO는 기존 주주권을 바꾸지 않는 1대1 담보형 주식 토큰이라면 상장사가 발행을 막아서는 안 된다고 주장했다. AMC와의 충돌은 토큰화 주식의 법적 성격과 투자자 권리를 어떻게 정의할지를 둘러싼 규제 논쟁을 키우고 있다.",
+          "summary": "Robinhood의 블라드 테네브 CEO는 주주권을 바꾸지 않는 1대1 담보형 주식 토큰이라면 상장사가 발행을 막아서는 안 된다고 주장했다. AMC와의 충돌은 토큰화 주식의 법적 성격과 투자자 권리를 둘러싼 규제 논쟁을 키우고 있다.",
           "impact": "medium",
           "region": "US"
-        },
-        {
-          "id": "crypto-bitcoin-fed-hike-cpi-20260911",
-          "title": "비트코인, CPI 발표 뒤 상승분 반납…추가 금리인상 경계 지속",
-          "source": "CoinDesk",
-          "publishedAt": "2026-09-11T15:04:00Z",
-          "updatedAt": "2026-09-13T02:47:35Z",
-          "url": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
-          "summary": "비트코인은 CPI 발표 뒤 8만달러 부근까지 반등했지만 이후 약 7만7천달러로 상승분을 반납했다. 시장이 9월 이후 추가 긴축 가능성까지 반영하면서 미 국채금리와 Fed 정책 경로가 암호화폐 변동성의 핵심 요인으로 남았다.",
-          "impact": "high",
-          "region": "global"
         }
       ]
     }
