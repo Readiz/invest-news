@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-09-14T02:51:21Z",
-  "headline": "사우디 동서횡단 송유관 중단과 호르무즈 불안으로 국제유가가 다시 뛰고 미국·일본의 금리 인상 경계가 커지면서 아시아 증시가 약세를 보였다. 한국 코스피도 장초반 3% 넘게 밀린 가운데 AI 업계에서는 Anthropic의 수익성 개선이 부각됐고, 암호화폐 시장은 Clarity Act 표결과 스테이블코인 결제망 확장에 주목하고 있다.",
+  "updatedAt": "2026-09-14T08:50:39Z",
+  "headline": "중동 공급 차질로 브렌트유가 107달러대까지 다시 뛰고 미국 8월 CPI의 에너지 반등이 확인되면서 Fed·BOJ 금리 인상 경계가 강화됐다. 미국과 한국 기술주는 AI 개발 속도 조절론에 압박을 받았고, 암호화폐 시장은 Clarity Act 표결과 Circle의 신흥시장 결제망 확대에 주목하고 있다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-saudi-pipeline-supply-risk-20260913",
-          "title": "사우디 동서횡단 송유관 중단…글로벌 원유 공급 최대 4% 차질 위험",
+          "id": "macro-oil-supply-strikes-20260914",
+          "title": "중동 추가 공격에 국제유가 약 3% 상승…브렌트 107달러대",
           "source": "Reuters",
-          "publishedAt": "2026-09-13T12:04:00Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
-          "url": "https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/",
-          "summary": "드론 공격으로 사우디 동서횡단 송유관이 멈추면서 홍해 방향으로 우회하던 하루 약 400만배럴의 수출이 차질을 빚을 위험이 커졌다. Reuters가 인용한 업계 소식통들은 복구가 지연되면 세계 공급의 최대 4%가 영향을 받을 수 있다고 전했다.",
+          "publishedAt": "2026-09-13T22:23:00Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
+          "url": "https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/",
+          "summary": "사우디 에너지 인프라와 걸프 해역 선박에 대한 추가 공격으로 브렌트유는 배럴당 107.54달러, WTI는 102.93달러까지 약 3% 올랐다. 사우디 동서횡단 송유관 폐쇄가 이어지며 최대 세계 공급의 4%가 영향을 받을 수 있다는 우려가 커졌다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-fed-boj-rate-hike-risk-20260914",
-          "title": "유가 재급등 속 Fed·BOJ 금리 인상 경계…아시아 증시 동반 약세",
+          "id": "macro-us-cpi-august-20260911",
+          "title": "미국 8월 CPI 전월비 0.4% 상승…에너지 2.1%·휘발유 3.9%↑",
+          "source": "U.S. Bureau of Labor Statistics",
+          "publishedAt": "2026-09-11T12:30:00Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
+          "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+          "summary": "미국 8월 CPI는 전월 대비 0.4%, 전년 대비 3.4% 상승했고 근원 CPI는 전월 대비 0.3% 올랐다. 에너지와 휘발유 가격 반등이 전체 물가 상승을 크게 끌어올렸다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "macro-fed-boj-fx-20260914",
+          "title": "달러 강세·엔 7개월 고점 부근…Fed·BOJ 동반 인상 경계",
           "source": "Reuters",
-          "publishedAt": "2026-09-13T23:11:00Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
-          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-13/",
-          "summary": "브렌트유가 배럴당 107달러대로 다시 오르면서 시장은 이번 주 미국 연준과 일본은행의 금리 인상 가능성을 높게 반영했다. 미 10년물 금리는 5%에 근접했고 한국·일본 등 아시아 증시는 약세를 보였다.",
+          "publishedAt": "2026-09-14T00:29:00Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-steady-yen-near-7-month-high-ahead-fed-boj-meetings-2026-09-14/",
+          "summary": "유가 상승과 미국 물가 반등으로 시장은 이번 주 Fed와 BOJ의 금리 인상 가능성을 높게 반영했고 달러는 강세를 보였다. Reuters는 CME FedWatch 기준 Fed 25bp 인상 가능성이 86%까지 올라갔다고 전했다.",
           "impact": "high",
           "region": "global"
         }
@@ -33,24 +44,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-anthropic-profitable-quarter-20260913",
-          "title": "Anthropic, 2개 분기 연속 조정 영업이익 흑자 전망 보도",
+          "id": "us-ai-stocks-safety-slowdown-20260914",
+          "title": "AI 개발 속도 조절론에 나스닥 선물 1.3%↓…기술주 전반 압박",
           "source": "Reuters",
-          "publishedAt": "2026-09-13T22:54:00Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
-          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
-          "summary": "Anthropic이 주주들에게 조정 영업이익이 2개 분기 연속 흑자를 기록할 것이라고 알렸다고 Financial Times를 인용해 Reuters가 보도했다. 배포 파트너 수익배분과 모델 훈련비를 제외한 총마진은 80%를 웃도는 것으로 전해졌다.",
+          "publishedAt": "2026-09-14T04:00:00Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
+          "url": "https://www.reuters.com/world/china/ai-linked-asian-stocks-slump-after-top-lab-ceos-call-slowing-down-technologys-2026-09-14/",
+          "summary": "Anthropic·OpenAI 등 미국 프런티어 AI 기업 경영진이 안전을 이유로 개발 속도 조절 필요성을 제기하면서 나스닥 e-mini 선물이 아시아 거래에서 1.3% 하락했다. AI·반도체주의 높은 밸류에이션이 개발 지연 가능성에 민감하게 반응하는 모습이 나타났다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-oracle-ellison-sale-plan-cancelled-20260912",
-          "title": "래리 엘리슨, 최대 75억달러 규모 Oracle 주식 매도 계획 취소",
+          "id": "us-anthropic-profitability-20260913",
+          "title": "Anthropic, 2개 분기 연속 조정 영업이익 흑자 전망 보도",
           "source": "Reuters",
-          "publishedAt": "2026-09-12T18:38:00Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
-          "url": "https://www.reuters.com/business/larry-ellison-cancels-plan-sell-oracle-stock-2026-09-12/",
-          "summary": "Oracle은 공동창업자 래리 엘리슨이 최대 5천만주를 매도할 수 있었던 거래 계획을 취소했고 실제 매도된 주식은 없다고 밝혔다. AI 데이터센터 투자로 자본지출과 현금흐름 우려가 큰 상황에서 최대주주의 잠재적 매도 부담이 사라졌다.",
+          "publishedAt": "2026-09-13T22:54:00Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
+          "summary": "Anthropic이 주주들에게 조정 영업이익이 2개 분기 연속 흑자를 기록할 것이라고 알렸다고 Financial Times를 인용해 Reuters가 보도했다. 배포 파트너 수익배분과 모델 훈련비를 제외한 총마진은 80%를 웃도는 것으로 전해졌다.",
           "impact": "medium",
           "region": "US"
         }
@@ -60,24 +71,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-mideast-open-20260914",
-          "title": "코스피 장초반 3.12% 하락…중동 불안·유가 급등 부담",
+          "id": "korea-kospi-close-20260914",
+          "title": "코스피 3.26% 급락 마감…중동 불안·AI 경고에 대형 기술주 약세",
           "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-14T00:25:00Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
-          "url": "https://en.yna.co.kr/view/AEN20260914001251320",
-          "summary": "코스피는 14일 오전 9시16분 기준 3.12% 내린 6,694.56을 기록했다. 삼성전자와 SK하이닉스가 각각 3.37%, 5.02% 하락하는 등 유가 급등과 호르무즈 불확실성이 대형주 전반에 부담을 줬다.",
+          "publishedAt": "2026-09-14T07:01:00Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
+          "url": "https://en.yna.co.kr/view/AEN20260914006451320",
+          "summary": "코스피는 225.54포인트 내린 6,684.37로 마감했고 외국인과 기관이 합산 4.46조원을 순매도했다. 삼성전자는 4.05%, SK하이닉스는 6.35% 하락하며 중동 불안과 AI 개발 속도 논쟁의 영향을 크게 받았다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-chipmakers-kepco-prepayment-reject-20260914",
-          "title": "삼성전자·SK하이닉스, KEPCO의 5년치 전기요금 선납 제안 거절",
-          "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-14T00:37:00Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
-          "url": "https://en.yna.co.kr/view/AEN20260914001700320",
-          "summary": "삼성전자와 SK하이닉스는 한국전력이 제안한 약 20조원·5조원 규모의 5년치 전기요금 선납 방안을 거절한 것으로 전해졌다. 반도체 클러스터 전력 인프라 확충 재원과 대규모 현금 선투입 부담이 동시에 부각됐다.",
+          "id": "korea-chipmakers-kepco-prepayment-20260914",
+          "title": "삼성전자·SK하이닉스, 한전 25조원 전기요금 선납 제안 거절",
+          "source": "Reuters",
+          "publishedAt": "2026-09-14T02:45:00Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
+          "url": "https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14/",
+          "summary": "삼성전자와 SK하이닉스는 반도체 메가클러스터 전력망 구축을 위해 한전이 제안한 총 25조원 규모의 전기요금 선납 방안을 받아들이지 않았다. 대규모 전력 인프라 투자 재원과 반도체 수요의 장기 지속성에 대한 부담이 동시에 드러났다.",
           "impact": "medium",
           "region": "South Korea"
         },
@@ -86,9 +97,9 @@
           "title": "재무장관 후보자, 법인세 추가 인하 검토 안 해…금투세는 시장 안정 뒤 검토",
           "source": "Yonhap News Agency",
           "publishedAt": "2026-09-13T12:17:00Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
           "url": "https://en.yna.co.kr/view/AEN20260913002451315",
-          "summary": "이형일 재무장관 후보자는 올해 복원된 법인세율을 다시 낮추는 방안을 검토하지 않고 있다고 밝혔다. 금융투자소득세 도입은 시장 여건이 충분히 안정된 뒤 검토해야 한다는 입장도 제시했다.",
+          "summary": "이형일 재무장관 후보자는 올해 복원된 법인세율을 다시 낮추는 방안은 검토하지 않고 있다고 밝혔다. 금융투자소득세 도입 여부는 시장 여건이 충분히 안정된 뒤 검토해야 한다는 입장도 제시했다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -99,23 +110,23 @@
       "items": [
         {
           "id": "crypto-clarity-act-vote-20260913",
-          "title": "미 상원 Clarity Act 첫 절차표결 임박…60표 확보 불확실",
+          "title": "미 상원 Clarity Act 첫 표결 9월 15일 예정…60표 확보 불투명",
           "source": "CoinDesk",
           "publishedAt": "2026-09-13T18:51:18Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
           "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
-          "summary": "미 상원은 디지털자산 시장구조법인 Clarity Act의 첫 절차표결을 앞두고 있지만 60표 확보 여부가 불투명한 상황이다. 이번 회기에서 법안이 지연될 경우 SEC와 CFTC의 규칙 제정이 규제 공백을 일부 메울 가능성이 거론된다.",
+          "summary": "미 상원은 디지털자산 시장구조법인 Clarity Act의 첫 클로처 표결을 9월 15일로 잡았지만 현재 60표 확보 여부는 불확실하다. 이번 회기에서 법안이 지연되면 SEC와 CFTC의 개별 규칙 제정이 규제 공백을 일부 메울 가능성이 거론된다.",
           "impact": "high",
           "region": "US"
         },
         {
           "id": "crypto-circle-tazapay-20260913",
-          "title": "Circle, 4억달러 Tazapay 인수로 USDC 신흥시장 결제망 확대",
+          "title": "Circle, 4억달러 Tazapay 거래로 USDC 신흥시장 결제망 확대",
           "source": "CoinDesk",
           "publishedAt": "2026-09-13T13:51:18Z",
-          "updatedAt": "2026-09-14T02:51:21Z",
+          "updatedAt": "2026-09-14T08:50:39Z",
           "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-          "summary": "Circle의 약 4억달러 Tazapay 인수는 100개 이상 시장의 현지 결제망과 은행 관계를 USDC 생태계에 연결하려는 전략으로 분석됐다. 스테이블코인 경쟁의 중심이 신흥시장 결제와 현지 통화 연결로 확대되는 흐름이 부각됐다.",
+          "summary": "Circle의 약 4억달러 규모 Tazapay 거래는 100개 이상 시장의 현지 지급망·은행 관계를 USDC 생태계와 연결하는 전략으로 평가됐다. 스테이블코인 경쟁이 발행량을 넘어 현지 통화 전환과 국경간 결제 인프라로 확대되고 있다.",
           "impact": "medium",
           "region": "global"
         }
