@@ -1,20 +1,31 @@
 {
-  "updatedAt": "2026-09-13T22:51:18Z",
-  "headline": "미국 8월 CPI가 전월 대비 0.4% 올라 에너지발 물가 압력이 이어지는 가운데 OpenAI는 AI 안전 우려를 이유로 2026년 IPO를 추진하지 않겠다고 밝혔다. 한국에서는 차기 재무장관 후보자의 법인세 인하 불검토 방침과 중앙아시아 핵심광물·공급망 협력이 부각됐고, 크립토는 Clarity Act 표결과 Circle의 4억달러 Tazapay 인수가 핵심 이슈로 떠올랐다.",
+  "updatedAt": "2026-09-14T02:51:21Z",
+  "headline": "사우디 동서횡단 송유관 중단과 호르무즈 불안으로 국제유가가 다시 뛰고 미국·일본의 금리 인상 경계가 커지면서 아시아 증시가 약세를 보였다. 한국 코스피도 장초반 3% 넘게 밀린 가운데 AI 업계에서는 Anthropic의 수익성 개선이 부각됐고, 암호화폐 시장은 Clarity Act 표결과 스테이블코인 결제망 확장에 주목하고 있다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-us-cpi-20260911",
-          "title": "미국 8월 CPI 전월비 0.4% 상승…에너지·휘발유 가격 반등",
-          "source": "U.S. Bureau of Labor Statistics",
-          "publishedAt": "2026-09-11T12:30:00Z",
-          "updatedAt": "2026-09-13T22:51:18Z",
-          "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
-          "summary": "미국 8월 CPI는 전월 대비 0.4%, 전년 대비 3.4% 올랐고 근원 CPI는 전월 대비 0.3% 상승했다. 에너지는 2.1%, 휘발유는 3.9% 올라 에너지 가격 반등이 소비자물가에 다시 반영됐다.",
+          "id": "macro-saudi-pipeline-supply-risk-20260913",
+          "title": "사우디 동서횡단 송유관 중단…글로벌 원유 공급 최대 4% 차질 위험",
+          "source": "Reuters",
+          "publishedAt": "2026-09-13T12:04:00Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
+          "url": "https://www.reuters.com/business/energy/saudi-pipeline-outage-threatens-loss-4-global-oil-supply-2026-09-13/",
+          "summary": "드론 공격으로 사우디 동서횡단 송유관이 멈추면서 홍해 방향으로 우회하던 하루 약 400만배럴의 수출이 차질을 빚을 위험이 커졌다. Reuters가 인용한 업계 소식통들은 복구가 지연되면 세계 공급의 최대 4%가 영향을 받을 수 있다고 전했다.",
           "impact": "high",
-          "region": "US"
+          "region": "global"
+        },
+        {
+          "id": "macro-fed-boj-rate-hike-risk-20260914",
+          "title": "유가 재급등 속 Fed·BOJ 금리 인상 경계…아시아 증시 동반 약세",
+          "source": "Reuters",
+          "publishedAt": "2026-09-13T23:11:00Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-13/",
+          "summary": "브렌트유가 배럴당 107달러대로 다시 오르면서 시장은 이번 주 미국 연준과 일본은행의 금리 인상 가능성을 높게 반영했다. 미 10년물 금리는 5%에 근접했고 한국·일본 등 아시아 증시는 약세를 보였다.",
+          "impact": "high",
+          "region": "global"
         }
       ]
     },
@@ -22,14 +33,25 @@
       "id": "us",
       "items": [
         {
-          "id": "us-openai-ipo-delay-20260912",
-          "title": "OpenAI, AI 안전 우려로 2026년 IPO 추진하지 않기로",
+          "id": "us-anthropic-profitable-quarter-20260913",
+          "title": "Anthropic, 2개 분기 연속 조정 영업이익 흑자 전망 보도",
           "source": "Reuters",
-          "publishedAt": "2026-09-12T20:38:00Z",
-          "updatedAt": "2026-09-13T22:51:18Z",
-          "url": "https://www.reuters.com/legal/litigation/openai-ipo-will-not-happen-2026-amid-ai-safety-fears-altman-says-2026-09-12/",
-          "summary": "샘 올트먼 CEO는 AI 안전과 정렬 문제를 이유로 OpenAI가 2026년에는 상장하지 않을 것이라고 밝혔다. 프런티어 AI 기업의 상장 일정이 늦춰지면서 AI 안전 규제와 대규모 자본조달 계획이 함께 시장 변수로 남았다.",
+          "publishedAt": "2026-09-13T22:54:00Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13/",
+          "summary": "Anthropic이 주주들에게 조정 영업이익이 2개 분기 연속 흑자를 기록할 것이라고 알렸다고 Financial Times를 인용해 Reuters가 보도했다. 배포 파트너 수익배분과 모델 훈련비를 제외한 총마진은 80%를 웃도는 것으로 전해졌다.",
           "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-oracle-ellison-sale-plan-cancelled-20260912",
+          "title": "래리 엘리슨, 최대 75억달러 규모 Oracle 주식 매도 계획 취소",
+          "source": "Reuters",
+          "publishedAt": "2026-09-12T18:38:00Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
+          "url": "https://www.reuters.com/business/larry-ellison-cancels-plan-sell-oracle-stock-2026-09-12/",
+          "summary": "Oracle은 공동창업자 래리 엘리슨이 최대 5천만주를 매도할 수 있었던 거래 계획을 취소했고 실제 매도된 주식은 없다고 밝혔다. AI 데이터센터 투자로 자본지출과 현금흐름 우려가 큰 상황에서 최대주주의 잠재적 매도 부담이 사라졌다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -38,35 +60,35 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-finance-minister-corporate-tax-20260913",
-          "title": "재무장관 후보자, 법인세 인하 검토하지 않아…금융투자소득세는 시장 안정 뒤 검토",
+          "id": "korea-kospi-mideast-open-20260914",
+          "title": "코스피 장초반 3.12% 하락…중동 불안·유가 급등 부담",
           "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-13T12:17:00Z",
-          "updatedAt": "2026-09-13T22:51:18Z",
-          "url": "https://en.yna.co.kr/view/AEN20260913002451315",
-          "summary": "이형일 재무장관 후보자는 올해 복원된 법인세율을 다시 낮추는 방안을 검토하지 않고 있다고 밝혔다. 금융투자소득세 도입 문제는 시장 여건이 충분히 안정된 뒤 검토해야 한다는 입장도 제시했다.",
+          "publishedAt": "2026-09-14T00:25:00Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
+          "url": "https://en.yna.co.kr/view/AEN20260914001251320",
+          "summary": "코스피는 14일 오전 9시16분 기준 3.12% 내린 6,694.56을 기록했다. 삼성전자와 SK하이닉스가 각각 3.37%, 5.02% 하락하는 등 유가 급등과 호르무즈 불확실성이 대형주 전반에 부담을 줬다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-central-asia-critical-minerals-20260914",
-          "title": "한·중앙아시아 정상회의 앞두고 핵심광물·에너지·공급망 협력 확대 논의",
+          "id": "korea-chipmakers-kepco-prepayment-reject-20260914",
+          "title": "삼성전자·SK하이닉스, KEPCO의 5년치 전기요금 선납 제안 거절",
           "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-13T22:00:00Z",
-          "updatedAt": "2026-09-13T22:51:18Z",
-          "url": "https://en.yna.co.kr/view/AEN20260913001500315",
-          "summary": "카자흐스탄은 첫 한·중앙아시아 정상회의를 앞두고 한국과 자동차를 넘어 AI·핵심광물·에너지·공급망 분야 협력을 확대하겠다고 밝혔다. 양국은 약 40억달러 규모의 46개 산업협력 프로젝트를 추진 중이다.",
+          "publishedAt": "2026-09-14T00:37:00Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
+          "url": "https://en.yna.co.kr/view/AEN20260914001700320",
+          "summary": "삼성전자와 SK하이닉스는 한국전력이 제안한 약 20조원·5조원 규모의 5년치 전기요금 선납 방안을 거절한 것으로 전해졌다. 반도체 클러스터 전력 인프라 확충 재원과 대규모 현금 선투입 부담이 동시에 부각됐다.",
           "impact": "medium",
           "region": "South Korea"
         },
         {
-          "id": "korea-kia-pv5-sales-20260913",
-          "title": "기아 PV5 글로벌 판매 5만대 돌파…출시 13개월 만",
+          "id": "korea-finance-minister-tax-policy-20260913",
+          "title": "재무장관 후보자, 법인세 추가 인하 검토 안 해…금투세는 시장 안정 뒤 검토",
           "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-13T01:14:00Z",
-          "updatedAt": "2026-09-13T22:51:18Z",
-          "url": "https://en.yna.co.kr/view/AEN20260913000700320",
-          "summary": "기아의 전용 PBV인 PV5 누적 글로벌 판매가 출시 13개월 만에 5만3530대를 기록했고 해외 비중은 약 60%였다. 회사는 후속 모델 PV7을 공개하고 다음 달 출시해 상용·맞춤형 전기차 사업을 확대할 계획이다.",
+          "publishedAt": "2026-09-13T12:17:00Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
+          "url": "https://en.yna.co.kr/view/AEN20260913002451315",
+          "summary": "이형일 재무장관 후보자는 올해 복원된 법인세율을 다시 낮추는 방안을 검토하지 않고 있다고 밝혔다. 금융투자소득세 도입은 시장 여건이 충분히 안정된 뒤 검토해야 한다는 입장도 제시했다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -77,12 +99,12 @@
       "items": [
         {
           "id": "crypto-clarity-act-vote-20260913",
-          "title": "미 상원 Clarity Act 첫 절차표결 임박…60표 확보 여부 불투명",
+          "title": "미 상원 Clarity Act 첫 절차표결 임박…60표 확보 불확실",
           "source": "CoinDesk",
           "publishedAt": "2026-09-13T18:51:18Z",
-          "updatedAt": "2026-09-13T22:51:18Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
           "url": "https://www.coindesk.com/policy/2026/09/13/is-clarity-dead-a-vibes-based-analysis-state-of-crypto",
-          "summary": "미 상원은 9월 15일 디지털자산 시장구조법인 Clarity Act의 첫 절차표결을 진행할 예정이지만 현재 60표 확보 여부가 불투명하다는 관측이 나온다. 법안이 이번 회기에서 지연될 경우 SEC·CFTC 규칙 제정이 규제 공백을 일부 메울 가능성이 거론된다.",
+          "summary": "미 상원은 디지털자산 시장구조법인 Clarity Act의 첫 절차표결을 앞두고 있지만 60표 확보 여부가 불투명한 상황이다. 이번 회기에서 법안이 지연될 경우 SEC와 CFTC의 규칙 제정이 규제 공백을 일부 메울 가능성이 거론된다.",
           "impact": "high",
           "region": "US"
         },
@@ -91,9 +113,9 @@
           "title": "Circle, 4억달러 Tazapay 인수로 USDC 신흥시장 결제망 확대",
           "source": "CoinDesk",
           "publishedAt": "2026-09-13T13:51:18Z",
-          "updatedAt": "2026-09-13T22:51:18Z",
+          "updatedAt": "2026-09-14T02:51:21Z",
           "url": "https://www.coindesk.com/business/2026/09/13/circle-s-usd400m-tazapay-deal-buys-emerging-market-links-that-take-years-to-build",
-          "summary": "Circle은 약 4억달러 규모의 Tazapay 인수를 통해 100개 이상 시장의 현지 결제망과 은행 관계를 확보하려 하고 있다. USDC를 신흥시장 결제와 Circle Payments Network에 더 깊게 연결하려는 전략으로 평가된다.",
+          "summary": "Circle의 약 4억달러 Tazapay 인수는 100개 이상 시장의 현지 결제망과 은행 관계를 USDC 생태계에 연결하려는 전략으로 분석됐다. 스테이블코인 경쟁의 중심이 신흥시장 결제와 현지 통화 연결로 확대되는 흐름이 부각됐다.",
           "impact": "medium",
           "region": "global"
         }
