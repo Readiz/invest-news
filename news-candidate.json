@@ -1,30 +1,41 @@
 {
-  "updatedAt": "2026-09-15T08:50:22Z",
-  "headline": "미 10년물 국채금리가 5%를 넘어 거의 20년 만의 고점까지 오르고 중동 원유 공급 차질 우려가 겹치면서 글로벌 위험자산의 할인율 부담이 커졌다. 미국과 한국 증시는 AI 개발 속도 조절론과 고금리 경계에 약세를 보였고, 암호화폐 시장은 Clarity Act 표결과 토큰화 주식의 권리 구조가 핵심 변수로 부각됐다.",
+  "updatedAt": "2026-09-15T22:51:40Z",
+  "headline": "사우디 Yanbu 원유 수출 차질로 국제유가가 급등하고 미 10년물 국채금리가 5%를 웃돌면서 Fed의 추가 긴축 경계가 한층 강해졌다. 미국 증시는 위험회피로 하락했고 한국에서는 원화와 코스피가 약세를 보였으며, 암호화폐 시장은 미 상원의 Clarity Act 처리 실패로 규제 불확실성이 다시 커졌다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-bond-selloff-us10y-20260915",
-          "title": "미 10년물 국채금리 5.03%까지 상승…글로벌 채권 매도 확산",
+          "id": "macro-yanbu-oil-disruption-20260915",
+          "title": "사우디 Yanbu 원유 선적 중단·유럽향 화물 취소…브렌트 108.75달러",
           "source": "Reuters",
-          "publishedAt": "2026-09-15T07:40:00Z",
-          "updatedAt": "2026-09-15T08:50:22Z",
-          "url": "https://www.reuters.com/world/asia-pacific/bond-selloff-drives-us-benchmark-beyond-5-stocks-rattled-2026-09-15/",
-          "summary": "미 10년물 국채금리는 장중 5.0328%까지 올라 거의 20년 만의 고점 수준을 기록했고, 일본·호주·유럽 장기금리도 동반 상승했다. 인플레이션과 정부부채 우려, Fed 추가 인상 기대가 글로벌 차입비용과 주식 밸류에이션에 부담을 주고 있다.",
+          "publishedAt": "2026-09-15T00:36:00Z",
+          "updatedAt": "2026-09-15T22:51:40Z",
+          "url": "https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/",
+          "summary": "사우디 Yanbu 수출 터미널의 원유 선적이 중단되고 일부 유럽향 9월 화물이 취소되면서 브렌트유는 108.75달러, WTI는 105.83달러에 마감했다. 동서횡단 송유관 복구 지연 시 세계 원유 공급의 최대 약 4%가 영향을 받을 수 있다는 우려가 커졌다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-houthis-saudi-oil-20260914",
-          "title": "후티, 사우디 공격 재개…호르무즈 협상 연기·원유 공급 우려 확대",
+          "id": "macro-us10y-dollar-fed-20260915",
+          "title": "미 10년물 5.041%까지 상승…달러 강세·Fed 인상 기대 95%",
           "source": "Reuters",
-          "publishedAt": "2026-09-13T23:02:00Z",
-          "updatedAt": "2026-09-15T08:50:22Z",
-          "url": "https://www.reuters.com/business/energy/diplomacy-stumbles-with-postponement-meeting-strait-hormuz-proposal-2026-09-13/",
-          "summary": "후티가 사우디 남부 공군기지를 공격했고, 호르무즈 해협 재개방을 논의할 걸프 국가와 이란의 회의도 연기됐다. 사우디 동서횡단 송유관이 이미 중단된 상황에서 추가 충돌은 최대 세계 원유 공급의 약 4%에 영향을 줄 수 있다는 우려를 키웠다.",
+          "publishedAt": "2026-09-15T01:58:00Z",
+          "updatedAt": "2026-09-15T22:51:40Z",
+          "url": "https://www.reuters.com/world/africa/dollar-near-two-week-high-oil-surge-lifts-yields-fed-hike-bets-2026-09-15/",
+          "summary": "미 10년물 국채금리는 장중 5.041%까지 올라 2007년 이후 최고 수준을 기록했고 달러도 주요 통화 대비 강세를 보였다. 유가 급등과 끈질긴 물가 압력으로 CME FedWatch의 9월 금리 인상 가능성은 95%까지 높아졌다.",
           "impact": "high",
+          "region": "global"
+        },
+        {
+          "id": "macro-morganstanley-two-fed-hikes-20260915",
+          "title": "Morgan Stanley, 올해 Fed 두 차례 인상 전망으로 선회",
+          "source": "Reuters",
+          "publishedAt": "2026-09-15T07:37:00Z",
+          "updatedAt": "2026-09-15T22:51:40Z",
+          "url": "https://www.reuters.com/business/morgan-stanley-turns-more-hawkish-forecasts-two-fed-hikes-ecb-move-2026-09-15/",
+          "summary": "Morgan Stanley는 인플레이션 둔화가 충분하지 않다며 9월과 12월 각각 25bp의 Fed 금리 인상을 예상하는 쪽으로 전망을 바꿨다. 에너지 가격의 2차 효과와 AI 투자에 따른 강한 수요가 추가 긴축 논리로 제시됐다.",
+          "impact": "medium",
           "region": "global"
         }
       ]
@@ -33,24 +44,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-wallstreet-ai-yields-20260914",
-          "title": "미 증시 하락…AI 속도조절론에 반도체 급락·10년물 5% 돌파",
+          "id": "us-wallstreet-close-20260915",
+          "title": "미 증시 이틀째 하락…S&P500 0.45%·나스닥 0.78%↓",
           "source": "Reuters",
-          "publishedAt": "2026-09-14T09:16:00Z",
-          "updatedAt": "2026-09-15T08:50:22Z",
-          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14/",
-          "summary": "S&P500은 0.48%, 나스닥은 0.56% 하락했고 필라델피아 반도체지수는 5.9% 급락했다. Anthropic·OpenAI·xAI 경영진의 AI 개발 속도 경고와 미 10년물 금리 5% 돌파가 기술주 투자심리를 압박했다.",
+          "publishedAt": "2026-09-15T08:55:00Z",
+          "updatedAt": "2026-09-15T22:51:40Z",
+          "url": "https://www.reuters.com/business/wall-st-futures-slip-rising-oil-treasury-yields-compound-ai-anxiety-2026-09-15/",
+          "summary": "유가 급등과 미 10년물 금리 5% 돌파, Fed 인상 경계가 겹치며 S&P500은 0.45%, 나스닥은 0.78%, 다우는 0.63% 하락했다. 에너지 업종만 2.3% 올라 중동 공급 충격의 수혜를 받았다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-bofa-fees-20260914",
-          "title": "BofA, 3분기 투자은행 수수료 최소 10% 감소 전망…주가 5% 넘게 하락",
+          "id": "us-altera-ipo-20260915",
+          "title": "Altera, 미국 IPO 비공개 신청…AI 수요 시험대",
           "source": "Reuters",
-          "publishedAt": "2026-09-14T18:58:00Z",
-          "updatedAt": "2026-09-15T08:50:22Z",
-          "url": "https://www.reuters.com/business/finance/bank-america-ceo-sees-least-10-drop-q3-investment-banking-fees-2026-09-14/",
-          "summary": "Brian Moynihan CEO는 3분기 투자은행 수수료가 전년 대비 최소 10% 줄고 세일즈·트레이딩 매출은 대체로 보합일 것으로 예상했다. 발언 뒤 BofA 주가는 5% 넘게 하락했고, 금리 상승이 향후 기업 자금조달 수요를 둔화시킬 수 있다는 경고도 나왔다.",
+          "publishedAt": "2026-09-15T13:09:00Z",
+          "updatedAt": "2026-09-15T22:51:40Z",
+          "url": "https://www.reuters.com/business/chipmaker-altera-confidentially-files-us-ipo-2026-09-15/",
+          "summary": "Silver Lake와 Intel이 지분을 보유한 FPGA 업체 Altera가 미국 IPO를 비공개 신청했다. 20억달러 이상 조달 가능성이 거론되는 가운데 투자자들은 데이터센터·AI 인프라 관련 매출과 하이퍼스케일러 수요를 핵심 지표로 볼 전망이다.",
           "impact": "medium",
           "region": "US"
         }
@@ -60,24 +71,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-close-20260915",
-          "title": "코스피 0.85% 하락 마감…외국인 5거래일 연속 순매도",
+          "id": "korea-won-kospi-20260915",
+          "title": "원화 1,359.4원으로 약세…코스피 0.85% 하락",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-15T07:12:00Z",
-          "updatedAt": "2026-09-15T08:50:22Z",
-          "url": "https://www.yna.co.kr/view/AKR20260915142000008",
-          "summary": "코스피는 6,627.26으로 0.85% 하락해 4거래일 연속 내렸고, 외국인과 기관은 각각 1조5천735억원과 9천38억원을 순매도했다. 미국 국채금리와 유가 상승, AI 속도조절론이 반도체주와 원화에 부담으로 작용했다.",
+          "publishedAt": "2026-09-15T07:28:00Z",
+          "updatedAt": "2026-09-15T22:51:40Z",
+          "url": "https://en.yna.co.kr/view/AEN20260915008000320",
+          "summary": "원·달러 환율은 1,359.4원으로 전 거래일 대비 12.1원 상승했고 코스피는 0.85% 내린 6,627.26에 마감했다. 유가와 미 국채금리 상승, Fed 인상 기대가 원화와 국내 위험자산을 동시에 압박했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
           "id": "korea-bok-minutes-20260915",
-          "title": "한국은행 의사록, 연속 금리인상 내부 이견 확인…향후 긴축 속도 변수",
+          "title": "한국은행 의사록, 연속 금리인상 두고 내부 이견 확인",
           "source": "Reuters",
           "publishedAt": "2026-09-15T07:16:00Z",
-          "updatedAt": "2026-09-15T08:50:22Z",
+          "updatedAt": "2026-09-15T22:51:40Z",
           "url": "https://www.reuters.com/world/asia-pacific/bank-korea-minutes-show-possible-policy-rift-back-to-back-rate-hikes-2026-09-15/",
-          "summary": "8월 기준금리 인상은 6대1로 결정됐지만 의사록에서 연속 인상을 둘러싼 내부 이견이 뚜렷하게 확인됐다. 물가 압력과 금융안정 리스크 사이의 균형을 두고 의견이 갈리면서 향후 추가 인상의 속도와 시점에 대한 불확실성이 커졌다.",
+          "summary": "8월 기준금리 25bp 인상은 6대1로 결정됐지만 의사록에서는 연속 인상에 대한 반대 논리가 뚜렷하게 확인됐다. 연체 증가와 취약계층 부담을 고려해 이전 긴축의 시차 효과를 지켜봐야 한다는 의견이 제시돼 향후 인상 속도에 대한 불확실성이 커졌다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -87,25 +98,14 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-clarity-draft-20260914",
-          "title": "미 상원 공화당, Clarity Act 수정안 공개…126건 변경 반영 주장",
+          "id": "crypto-clarity-act-fails-20260915",
+          "title": "미 상원, Clarity Act 절차표결 실패…비트코인·크립토주 급락",
           "source": "Reuters",
-          "publishedAt": "2026-09-14T12:51:00Z",
-          "updatedAt": "2026-09-15T08:50:22Z",
-          "url": "https://www.reuters.com/legal/government/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-2026-09-14/",
-          "summary": "미 상원 공화당은 민주당 요구를 반영해 Clarity Act에 126건의 실질적 변경을 넣었다고 밝혔지만, 60표가 필요한 절차표결 통과 여부는 여전히 불확실하다. 은행권은 스테이블코인 보상 조항이 예금 이탈과 대출 축소를 부를 수 있다며 반대하고 있다.",
+          "publishedAt": "2026-09-15T10:02:00Z",
+          "updatedAt": "2026-09-15T22:51:40Z",
+          "url": "https://www.reuters.com/legal/government/us-senate-vote-advancing-landmark-crypto-bill-2026-09-15/",
+          "summary": "미 상원에서 Clarity Act는 50대49 찬성에도 진전 요건인 60표에 10표 부족해 절차표결을 통과하지 못했다. 표결 실패 과정에서 비트코인은 5% 넘게 하락했고 Coinbase와 Circle 주가도 장중 최대 10% 가까이 밀렸다.",
           "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "crypto-robinhood-stock-tokens-20260914",
-          "title": "Robinhood, 주식 토큰에 1대1 상환·의결권 도입 추진",
-          "source": "CoinDesk",
-          "publishedAt": "2026-09-14T21:50:00Z",
-          "updatedAt": "2026-09-15T08:50:22Z",
-          "url": "https://www.coindesk.com/business/2026/09/14/robinhood-plans-share-redemptions-voting-rights-for-stock-tokens-after-criticism",
-          "summary": "Robinhood는 해외에서 제공하는 주식 토큰에 실제 주식으로의 1대1 상환과 의결권 기능을 추가할 계획이라고 밝혔다. 현재 토큰 보유자가 기초주식의 법적 주주권을 직접 갖지 않는 구조를 보완하려는 조치로, 토큰화 주식의 투자자 권리 기준이 핵심 쟁점으로 떠올랐다.",
-          "impact": "medium",
           "region": "US"
         }
       ]
