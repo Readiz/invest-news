@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-14T22:52:12Z",
-  "headline": "중동 원유 공급 우려와 미국 국채금리 상승으로 Fed의 추가 긴축 경계가 강화되며 위험자산 부담이 이어졌다. 한국은 코스피가 3% 넘게 하락한 가운데 원화 강세로 8월 수입물가는 내려갔고, 암호화폐 시장은 Clarity Act의 수정안과 제도권 데이터 인프라 투자가 핵심 이슈로 부각됐다.",
+  "updatedAt": "2026-09-15T02:49:56Z",
+  "headline": "사우디 동서횡단 송유관이 계속 멈추고 호르무즈 통항량도 줄면서 국제유가가 다시 100달러대 중반으로 올라 글로벌 공급 충격 우려가 이어졌다. 동시에 Fed의 9월 금리 인상 가능성이 급격히 높아져 미 국채금리와 위험자산에 부담이 커졌고, 한국 증시도 AI 개발 속도 조절론과 고금리 경계 속 약세를 이어갔다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-oil-saudi-supply-20260914",
-          "title": "사우디 에너지 인프라 공격에 유가 상승…브렌트 105.68달러 마감",
+          "id": "macro-saudi-pipeline-oil-20260915",
+          "title": "사우디 동서횡단 송유관 중단 지속…브렌트 106.93달러로 상승",
           "source": "Reuters",
-          "publishedAt": "2026-09-13T22:23:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
-          "url": "https://www.reuters.com/business/energy/oil-prices-jump-more-than-3-after-new-strikes-saudi-strait-hormuz-2026-09-13/",
-          "summary": "사우디 에너지 인프라와 중동 선박에 대한 추가 공격으로 브렌트유는 장중 약 5% 급등한 뒤 배럴당 105.68달러에 마감했다. 호르무즈 우회로인 사우디 동서횡단 송유관이 중단된 가운데 해협 통항량도 크게 줄어 공급 차질 우려가 이어졌다.",
+          "publishedAt": "2026-09-15T00:36:00Z",
+          "updatedAt": "2026-09-15T02:49:56Z",
+          "url": "https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/",
+          "summary": "사우디 동서횡단 송유관이 공격 이후 계속 멈춘 가운데 브렌트유는 배럴당 106.93달러, WTI는 102.65달러로 상승했다. 해당 송유관은 최근 하루 약 400만배럴을 우회 수송해왔고, 호르무즈 통항량까지 줄면서 공급 차질 위험이 확대되고 있다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-fed-rate-hike-warsh-20260914",
-          "title": "Fed, 워시 의장 취임 후 첫 금리 인상 가능성 부각…10년물 5% 터치",
+          "id": "macro-fed-hike-poll-20260914",
+          "title": "Reuters 설문, Fed 9월 25bp 인상 전망 85%로 급증",
           "source": "Reuters",
-          "publishedAt": "2026-09-14T10:02:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
-          "url": "https://www.reuters.com/business/feds-table-is-set-rate-hike-first-under-warsh-2026-09-14/",
-          "summary": "높은 인플레이션과 배럴당 100달러를 넘는 유가 속에서 시장은 Fed가 9월 회의에서 기준금리를 25bp 올릴 가능성을 높게 반영했다. 미 10년물 국채금리는 장중 5%를 기록하며 통화긴축과 장기금리 상승 부담을 동시에 보여줬다.",
+          "publishedAt": "2026-09-14T09:53:00Z",
+          "updatedAt": "2026-09-15T02:49:56Z",
+          "url": "https://www.reuters.com/business/fed-rate-hike-wednesday-now-likely-say-economists-least-one-more-follow-2026-09-14/",
+          "summary": "Reuters 설문에서 101명 중 86명의 이코노미스트가 9월 FOMC에서 기준금리를 25bp 올려 3.75~4.00%로 만들 것으로 전망했다. 강한 물가와 100달러를 넘는 유가, 5% 부근의 미 10년물 금리가 추가 긴축 기대를 높이고 있다.",
           "impact": "high",
           "region": "US"
         }
@@ -33,24 +33,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-bofa-ib-fees-20260914",
-          "title": "BofA, 3분기 투자은행 수수료 최소 10% 감소 전망…주가 5% 넘게 하락",
+          "id": "us-wallstreet-ai-yields-20260914",
+          "title": "미 증시 하락…AI 속도조절론에 반도체주 급락·10년물 5% 돌파",
           "source": "Reuters",
-          "publishedAt": "2026-09-14T18:58:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
-          "url": "https://www.reuters.com/business/finance/bank-america-ceo-sees-least-10-drop-q3-investment-banking-fees-2026-09-14/",
-          "summary": "Brian Moynihan CEO는 3분기 투자은행 수수료가 전년 대비 최소 10% 줄고 주식·채권 거래 매출은 대체로 보합일 것으로 예상했다. 발언 뒤 BofA 주가는 5% 넘게 하락했고 S&P 500 은행지수도 약세를 보였다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-14T09:16:00Z",
+          "updatedAt": "2026-09-15T02:49:56Z",
+          "url": "https://www.reuters.com/business/ai-warnings-knock-nasdaq-futures-pressure-tech-stocks-2026-09-14/",
+          "summary": "S&P500은 0.48%, 나스닥은 0.56% 하락했고 필라델피아 반도체지수는 5.9% 급락했다. Anthropic·OpenAI·xAI 경영진의 AI 개발 속도 경고와 미 10년물 금리의 5% 돌파가 기술주 투자심리를 압박했다.",
+          "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-ai-restrictions-bipartisan-20260914",
-          "title": "미국서 AI 규제 압박 확대…샌더스·배넌 공동으로 개발 제한 촉구 예정",
+          "id": "us-bofa-fees-20260914",
+          "title": "BofA, 3분기 투자은행 수수료 최소 10% 감소 전망…주가 5% 넘게 하락",
           "source": "Reuters",
-          "publishedAt": "2026-09-14T21:31:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
-          "url": "https://www.reuters.com/legal/legalindustry/us-senator-sanders-podcaster-bannon-longtime-foes-urge-ai-restrictions-2026-09-14/",
-          "summary": "버니 샌더스 상원의원과 스티브 배넌이 AI 시스템에 대한 추가 제한을 함께 촉구할 예정으로, 진영을 넘은 규제 압박이 커지고 있다. AI 기업 경영진의 안전 우려와 기술주 약세가 겹치면서 미국 AI 산업의 규제 불확실성이 다시 시장 변수로 떠올랐다.",
+          "publishedAt": "2026-09-14T18:58:00Z",
+          "updatedAt": "2026-09-15T02:49:56Z",
+          "url": "https://www.reuters.com/business/finance/bank-america-ceo-sees-least-10-drop-q3-investment-banking-fees-2026-09-14/",
+          "summary": "Brian Moynihan CEO는 3분기 투자은행 수수료가 전년 대비 최소 10% 줄고 주식·채권 거래 매출은 대체로 보합일 것으로 예상했다. 발언 뒤 BofA 주가는 5% 넘게 하락했으며, 금리 상승이 향후 자금조달 수요를 둔화시킬 수 있다고 경고했다.",
           "impact": "medium",
           "region": "US"
         }
@@ -60,13 +60,13 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-close-20260914",
-          "title": "코스피 3.26% 급락…중동 불안·AI 경고에 외국인·기관 4.46조원 순매도",
+          "id": "korea-kospi-open-20260915",
+          "title": "코스피 0.52% 하락 출발…AI 경고와 미 국채금리 5% 부담",
           "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-14T07:01:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
-          "url": "https://en.yna.co.kr/view/AEN20260914006451320",
-          "summary": "코스피는 225.54포인트 내린 6,684.37로 마감했고 외국인과 기관이 합산 4.46조원을 순매도했다. 삼성전자는 4.05%, SK하이닉스는 6.35% 하락하며 중동 리스크와 AI 개발 속도 논쟁의 충격이 대형 기술주에 집중됐다.",
+          "publishedAt": "2026-09-15T00:30:00Z",
+          "updatedAt": "2026-09-15T02:49:56Z",
+          "url": "https://en.yna.co.kr/view/AEN20260915001051320",
+          "summary": "코스피는 오전 9시16분 기준 0.52% 내린 6,649.68을 기록했다. 미국 기술주 약세와 5%에 도달한 미 10년물 금리, 이번 주 Fed 정책회의 경계가 국내 위험자산에도 부담으로 작용했다.",
           "impact": "high",
           "region": "South Korea"
         },
@@ -75,20 +75,9 @@
           "title": "한국 8월 수입물가 2.4% 하락…원화 강세가 유가 상승분 상쇄",
           "source": "Yonhap News Agency",
           "publishedAt": "2026-09-14T21:00:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
+          "updatedAt": "2026-09-15T02:49:56Z",
           "url": "https://en.yna.co.kr/view/AEN20260914010100320?section=economy-finance/economy",
-          "summary": "한국은행 잠정치에 따르면 8월 수입물가지수는 전월 대비 2.4% 하락해 3개월 연속 내렸다. 원화가 달러 대비 6.1% 강세를 보이면서 두바이유의 월간 15.6% 상승 영향을 일부 상쇄했다.",
-          "impact": "medium",
-          "region": "South Korea"
-        },
-        {
-          "id": "korea-chipmakers-kepco-prepayment-20260914",
-          "title": "삼성전자·SK하이닉스, 한전 25조원 전기요금 선납 제안 거절",
-          "source": "Reuters",
-          "publishedAt": "2026-09-14T02:45:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
-          "url": "https://www.reuters.com/world/asia-pacific/samsung-sk-hynix-reject-kepcos-19-billion-power-prepayment-proposal-document-2026-09-14/",
-          "summary": "삼성전자와 SK하이닉스는 반도체 메가클러스터 전력 인프라를 지원하기 위해 한전이 제안한 25조원 규모 전기요금 선납안을 받아들이지 않았다. 장기 반도체 수요의 불확실성과 대규모 선지급 부담이 제안 거절의 배경으로 제시됐다.",
+          "summary": "한국은행 잠정치에서 8월 수입물가지수는 전월 대비 2.4% 내려 3개월 연속 하락했다. 원화가 달러 대비 6.1% 강세를 보이면서 두바이유의 월간 15.6% 상승 영향을 상당 부분 상쇄했다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -98,24 +87,24 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-clarity-revised-draft-20260914",
+          "id": "crypto-clarity-draft-20260914",
           "title": "미 상원 공화당, Clarity Act 수정안 공개…민주당 요구 126건 반영 주장",
           "source": "Reuters",
           "publishedAt": "2026-09-14T12:51:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
+          "updatedAt": "2026-09-15T02:49:56Z",
           "url": "https://www.reuters.com/legal/government/senate-republicans-new-crypto-bill-text-adds-new-ethics-language-2026-09-14/",
-          "summary": "미 상원 공화당은 윤리·불법금융·은행권 우려를 반영한 Clarity Act 수정안을 공개하며 민주당 요청에 따른 126건의 실질적 변경을 포함했다고 밝혔다. 다만 핵심 절차표결에 필요한 60표 확보 여부와 스테이블코인 보상 조항을 둘러싼 은행권 반대는 여전히 남아 있다.",
+          "summary": "미 상원 공화당은 윤리·불법금융·은행권 우려를 반영한 Clarity Act 수정안이 민주당 요구에 따른 126건의 실질적 변경을 포함했다고 밝혔다. 다만 60표가 필요한 절차표결을 통과할 지지는 아직 확실하지 않고, 은행권은 스테이블코인 보상 조항에 계속 반대하고 있다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "crypto-kaiko-spglobal-funding-20260914",
-          "title": "S&P Global 주도 Kaiko 1.1억달러 투자…제도권의 디지털자산 데이터 수요 확대",
+          "id": "crypto-kaiko-funding-20260914",
+          "title": "S&P Global 주도 Kaiko 1.1억달러 투자…제도권 디지털자산 데이터 투자 확대",
           "source": "Reuters",
           "publishedAt": "2026-09-14T12:03:00Z",
-          "updatedAt": "2026-09-14T22:52:12Z",
+          "updatedAt": "2026-09-15T02:49:56Z",
           "url": "https://www.reuters.com/legal/government/crypto-data-firm-kaiko-secures-110-million-funding-round-led-by-sp-global-2026-09-14/",
-          "summary": "암호화폐 데이터업체 Kaiko가 S&P Global 주도로 1억1천만달러를 조달했으며 BNP Paribas, Nasdaq, RBC 등도 참여했다. 전통 금융기관의 토큰화·디지털자산 시장 데이터 인프라 투자 확대 흐름을 보여주는 거래다.",
+          "summary": "암호화폐 데이터업체 Kaiko가 S&P Global 주도로 1억1천만달러를 조달했고 BNP Paribas, Nasdaq, RBC 등도 참여했다. 전통 금융기관이 토큰화와 디지털자산 시장의 데이터·가격 인프라에 직접 투자하는 흐름이 강화되고 있다.",
           "impact": "medium",
           "region": "global"
         }
