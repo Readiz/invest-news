@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-09-16T08:52:06Z",
-  "headline": "Fed의 금리 결정을 앞두고 미 10년물 국채금리가 5% 부근에 머물고 브렌트유가 108달러 안팎을 유지해 글로벌 위험자산의 긴장감이 이어졌다. 한국 증시는 반도체 중심으로 반등했지만 거래대금이 연중 최저 수준으로 위축됐고, 암호화폐 시장은 미 상원의 Clarity Act 처리 실패로 규제 불확실성이 다시 커졌다.",
+  "updatedAt": "2026-09-16T22:51:41Z",
+  "headline": "연준이 기준금리를 25bp 인상해 3.75~4.00%로 올리고 연내 추가 인상 가능성까지 시사하면서 미국의 높은 금리 부담이 다시 핵심 시장 변수로 떠올랐다. 다만 사우디가 오만을 통한 원유 공급을 늘리며 국제유가는 일부 되돌림을 보였고, 한국은 SK하이닉스의 미국 생산 협의와 대한항공의 대규모 항공기 계약이, 암호화폐는 세제 입법과 미국 내 온체인 파생상품 확대가 주목받았다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-saudi-yanbu-oil-20260915",
-          "title": "사우디 Yanbu 선적 중단·유럽향 화물 취소…브렌트 108.75달러",
-          "source": "Reuters",
-          "publishedAt": "2026-09-15T00:36:00Z",
-          "updatedAt": "2026-09-16T08:52:06Z",
-          "url": "https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/",
-          "summary": "사우디 Yanbu 수출 터미널의 원유 선적이 중단되고 일부 유럽향 9월 화물이 취소되면서 브렌트유는 108.75달러, WTI는 105.83달러에 마감했다. 동서횡단 송유관 차질이 장기화되면 세계 원유 공급의 최대 약 4%가 영향을 받을 수 있다는 우려가 이어졌다.",
+          "id": "macro-fed-hike-20260916",
+          "title": "Fed, 기준금리 25bp 인상…3.75~4.00%로 상향",
+          "source": "Federal Reserve",
+          "publishedAt": "2026-09-16T18:00:00Z",
+          "updatedAt": "2026-09-16T22:51:41Z",
+          "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20260916a1.pdf",
+          "summary": "연방공개시장위원회(FOMC)는 만장일치로 기준금리 목표범위를 3.75~4.00%로 25bp 인상했다. 연준은 경제활동이 견조하지만 인플레이션이 여전히 높다며 이번 조치가 물가를 2% 목표로 더 신속히 되돌리는 데 필요하다고 밝혔다.",
           "impact": "high",
-          "region": "global"
+          "region": "US"
         },
         {
-          "id": "macro-asia-fed-wait-20260916",
-          "title": "아시아 증시 반등 시도…Fed 결정 앞두고 미 10년물 5% 부근",
+          "id": "macro-us-retail-sales-20260916",
+          "title": "미국 8월 소매판매 1.2% 증가…소비 견조함 재확인",
           "source": "Reuters",
-          "publishedAt": "2026-09-16T01:23:00Z",
-          "updatedAt": "2026-09-16T08:52:06Z",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-16/",
-          "summary": "MSCI 아시아태평양 지수는 한국·대만 증시 강세에 0.5% 올랐지만 미 10년물 금리는 4.99%대로 5% 부근을 유지했다. 시장은 Fed의 25bp 인상 가능성을 약 93%로 반영했고 브렌트유는 전날 급등 뒤 108달러 안팎에서 거래됐다.",
+          "publishedAt": "2026-09-16T12:37:00Z",
+          "updatedAt": "2026-09-16T22:51:41Z",
+          "url": "https://www.reuters.com/business/retail-consumer/us-retail-sales-rebound-sharply-august-2026-09-16/",
+          "summary": "미국 8월 소매판매는 전월 대비 1.2% 늘어 시장 예상치 0.8%를 웃돌았고 핵심 소매판매도 1.4% 증가했다. 소비 회복력은 성장에는 긍정적이지만 높은 물가와 함께 연준의 긴축 필요성을 뒷받침하는 신호로 해석됐다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "macro-saudi-oman-oil-20260916",
+          "title": "사우디, 오만 경유 원유 공급 확대…브렌트 105.83달러로 하락",
+          "source": "Reuters",
+          "publishedAt": "2026-09-16T00:41:00Z",
+          "updatedAt": "2026-09-16T22:51:41Z",
+          "url": "https://www.reuters.com/business/energy/oil-falls-us-crude-inventories-rise-despite-saudi-supply-concerns-2026-09-16/",
+          "summary": "사우디가 동서횡단 송유관 차질을 보완하기 위해 오만 소하르 앞바다에서 아시아 정유사 대상 원유 선적을 늘리면서 브렌트유는 2.7% 내린 105.83달러에 마감했다. 호르무즈 통항은 여전히 크게 줄어 있어 중동 공급 위험 자체는 해소되지 않았다.",
           "impact": "high",
           "region": "global"
         }
@@ -33,35 +44,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-wallstreet-selloff-20260915",
-          "title": "미 증시 이틀째 하락…S&P500 0.45%·나스닥 0.78%↓",
+          "id": "us-boeing-output-20260916",
+          "title": "Boeing, 737 MAX·787 증산 지연…주가 4% 하락",
           "source": "Reuters",
-          "publishedAt": "2026-09-15T08:55:00Z",
-          "updatedAt": "2026-09-16T08:52:06Z",
-          "url": "https://www.reuters.com/business/wall-st-futures-slip-rising-oil-treasury-yields-compound-ai-anxiety-2026-09-15/",
-          "summary": "유가 급등과 미 10년물 금리 5% 돌파, Fed 인상 경계가 겹치며 S&P500은 0.45%, 나스닥은 0.78%, 다우는 0.63% 하락했다. S&P500 11개 업종 중 에너지만 뚜렷한 강세를 보였고 위험회피 심리가 시장 전반에 확산됐다.",
+          "publishedAt": "2026-09-16T19:12:00Z",
+          "updatedAt": "2026-09-16T22:51:41Z",
+          "url": "https://www.reuters.com/legal/litigation/boeing-ceo-says-it-is-taking-longer-stabilize-737-max-output-shares-slide-2026-09-16/",
+          "summary": "Boeing은 737 MAX 생산을 월 47대로 안정화하고 787 생산을 월 10대로 늘리는 작업이 예상보다 오래 걸리고 있다고 밝혔다. 생산 지연으로 올해 잉여현금흐름이 기존 가이던스 상단보다 낮은 약 20억달러 수준에 그칠 가능성이 제시되며 주가는 4% 하락했다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-waystar-sale-20260915",
-          "title": "Waystar, 매각 포함 전략적 대안 검토…보도 후 주가 8%대 상승",
+          "id": "us-lennar-profit-20260916",
+          "title": "Lennar 3분기 순이익 반토막…높은 모기지 금리가 주택수요 압박",
           "source": "Reuters",
-          "publishedAt": "2026-09-15T10:05:00Z",
-          "updatedAt": "2026-09-16T08:52:06Z",
-          "url": "https://www.reuters.com/world/healthcare-software-firm-waystar-explores-options-including-sale-sources-say-2026-09-15/",
-          "summary": "미국 헬스케어 소프트웨어 업체 Waystar가 Evercore 등을 통해 매각을 포함한 전략적 대안을 검토 중인 것으로 전해졌으며 논의는 초기 단계다. Reuters 보도 뒤 주가는 8% 넘게 올랐고, AI 충격으로 약세였던 소프트웨어 업종의 인수합병 수요가 시험대에 올랐다.",
-          "impact": "medium",
-          "region": "US"
-        },
-        {
-          "id": "us-nvidia-xi-dinner-20260915",
-          "title": "Nvidia CEO, 트럼프의 시진핑 국빈 만찬 참석 예정",
-          "source": "Reuters",
-          "publishedAt": "2026-09-15T21:43:00Z",
-          "updatedAt": "2026-09-16T08:52:06Z",
-          "url": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-attend-trump-dinner-xi-source-says-2026-09-15/",
-          "summary": "Jensen Huang Nvidia CEO가 9월 24일 워싱턴에서 열릴 트럼프 대통령의 시진핑 중국 국가주석 국빈 만찬에 참석할 예정이라고 Reuters가 보도했다. 미국·중국 간 AI·반도체 기술 경쟁이 지속되는 가운데 Nvidia가 양국 고위급 외교 일정에 다시 등장했다.",
+          "publishedAt": "2026-09-16T22:09:00Z",
+          "updatedAt": "2026-09-16T22:51:41Z",
+          "url": "https://www.reuters.com/business/lennar-profit-halves-higher-mortgage-rates-pressure-homebuyers-2026-09-16/",
+          "summary": "미국 주택건설업체 Lennar의 3분기 순이익은 2억8,390만달러로 전년 동기 5억9,100만달러에서 절반 이상 감소했다. 분기 중 모기지 금리가 7%에 근접하면서 주택 구매 여력이 악화됐고 매출도 전년 대비 8% 넘게 줄었다.",
           "impact": "medium",
           "region": "US"
         }
@@ -71,25 +71,25 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-skhynix-intel-us-fab-20260916",
-          "title": "SK하이닉스, Intel과 미국 내 메모리 생산 방안 협의",
+          "id": "korea-skhynix-intel-us-memory-20260916",
+          "title": "SK하이닉스, Intel과 미국 내 첫 메모리 생산 방안 협의",
           "source": "Reuters",
           "publishedAt": "2026-09-16T05:32:00Z",
-          "updatedAt": "2026-09-16T08:52:06Z",
+          "updatedAt": "2026-09-16T22:51:41Z",
           "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/",
-          "summary": "SK하이닉스가 Intel의 오하이오 공장 일부 임대 또는 Intel·클라우드 기업과의 합작을 통해 미국에서 처음 메모리 칩을 생산하는 방안을 협의 중인 것으로 전해졌다. 아직 결정된 사안은 없으며 HBM·DRAM 등 국가핵심기술이 포함될 경우 한국 정부의 심사를 받을 수 있다.",
+          "summary": "SK하이닉스가 Intel의 오하이오 공장 일부를 임차하거나 Intel·클라우드 기업과 합작해 미국에서 메모리를 생산하는 방안을 협의 중인 것으로 전해졌다. 회사는 특정 협력이나 미국 생산이 확정된 것은 아니라고 밝혔으며, HBM·DRAM 등 국가핵심기술이 포함되면 한국 정부 심사 대상이 될 수 있다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-kospi-turnover-low-20260916",
-          "title": "코스피 일평균 거래대금 21.4조원…6월 대비 절반 이하로 감소",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-16T01:35:00Z",
-          "updatedAt": "2026-09-16T08:52:06Z",
-          "url": "https://www.yna.co.kr/amp/view/AKR20260916070800008",
-          "summary": "한국거래소와 연합인포맥스 집계에서 9월 1~15일 코스피 일평균 거래대금은 21조4천320억원으로 올해 월 기준 최저 수준을 기록했다. 6월 50조3천470억원에서 절반 이하로 줄었고 거래량도 연중 최저로 내려가 유가·금리 급등과 AI주 경계에 따른 투자심리 위축이 확인됐다.",
-          "impact": "medium",
+          "id": "korea-koreanair-boeing-order-20260916",
+          "title": "대한항공, Boeing 항공기 103대 계약 확정…역대 최대 규모",
+          "source": "Reuters",
+          "publishedAt": "2026-09-16T02:20:00Z",
+          "updatedAt": "2026-09-16T22:51:41Z",
+          "url": "https://www.reuters.com/business/aerospace-defense/boeing-korean-air-finalize-order-103-aircraft-2026-09-16/",
+          "summary": "대한항공은 777-9, 787-10, 737-10 등을 포함한 Boeing 항공기 103대 주문을 확정했으며 정가 기준 규모는 362억달러다. 엔진 구매·정비까지 포함한 전체 패키지는 448억달러로, 아시아나항공 통합 이후 장기 기단 확장과 연료효율 개선을 위한 투자다.",
+          "impact": "high",
           "region": "South Korea"
         }
       ]
@@ -98,14 +98,25 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-clarity-act-fails-20260915",
-          "title": "미 상원, Clarity Act 절차표결 실패…암호화폐 규제 불확실성 확대",
-          "source": "Reuters",
-          "publishedAt": "2026-09-15T10:02:00Z",
-          "updatedAt": "2026-09-16T08:52:06Z",
-          "url": "https://www.reuters.com/legal/government/us-senate-vote-advancing-landmark-crypto-bill-2026-09-15/",
-          "summary": "Clarity Act는 미 상원에서 50대49 찬성에도 의사진행에 필요한 60표에 미달해 진전되지 못했다. 표결 실패 과정에서 비트코인은 5% 넘게 하락했고 Coinbase와 Circle도 장중 최대 약 10% 밀려 입법 불확실성이 시장 변동성으로 이어졌다.",
+          "id": "crypto-digital-asset-tax-bill-20260916",
+          "title": "미 하원 세입위, 디지털자산 세제 명확화 법안 진전",
+          "source": "CoinDesk",
+          "publishedAt": "2026-09-16",
+          "updatedAt": "2026-09-16T22:51:41Z",
+          "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
+          "summary": "미 하원 세입위원회는 Digital Asset Tax Certainty Act를 38대5로 승인해 하원 전체회의로 넘겼다. 법안은 소액 암호화폐 거래의 세금 부담을 완화하고 일부 디지털자산 과세 규칙을 전통 금융상품과 유사하게 정비하는 내용을 담고 있다.",
           "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "crypto-payward-hyperliquid-perps-20260916",
+          "title": "Payward, 미국 고객 대상 Hyperliquid 온체인 무기한선물 추진",
+          "source": "Payward",
+          "publishedAt": "2026-09-16",
+          "updatedAt": "2026-09-16T22:51:41Z",
+          "url": "https://www.payward.com/press-release/payward-hyperliquid-onchain-perpetual-futures",
+          "summary": "Kraken 모회사 Payward는 규제 승인을 전제로 미국 고객에게 Hyperliquid 기반 온체인 무기한선물을 제공할 계획이라고 발표했다. CFTC 규제 거래소·청산소인 Bitnomial과 등록 선물중개사 NinjaTrader Clearing을 활용해 온체인 파생상품을 미국 규제 체계 안으로 가져오는 구조다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
