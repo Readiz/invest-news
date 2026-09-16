@@ -1,41 +1,30 @@
 {
-  "updatedAt": "2026-09-16T02:47:46Z",
-  "headline": "중동 원유 공급 차질과 미 10년물 국채금리 5% 돌파가 겹치며 Fed의 추가 긴축 기대가 강화됐고, 미국 증시는 에너지를 제외한 대부분 업종이 약세를 보였다. 한국 증시는 전일 약세 뒤 기술주 반등으로 장중 소폭 상승 전환했지만 원화 약세가 이어졌고, 암호화폐 시장은 미 상원의 Clarity Act 처리 실패로 규제 불확실성이 다시 커졌다.",
+  "updatedAt": "2026-09-16T08:52:06Z",
+  "headline": "Fed의 금리 결정을 앞두고 미 10년물 국채금리가 5% 부근에 머물고 브렌트유가 108달러 안팎을 유지해 글로벌 위험자산의 긴장감이 이어졌다. 한국 증시는 반도체 중심으로 반등했지만 거래대금이 연중 최저 수준으로 위축됐고, 암호화폐 시장은 미 상원의 Clarity Act 처리 실패로 규제 불확실성이 다시 커졌다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-yanbu-oil-disruption-20260915",
-          "title": "사우디 Yanbu 원유 선적 중단·유럽향 화물 취소…브렌트 108.75달러",
+          "id": "macro-saudi-yanbu-oil-20260915",
+          "title": "사우디 Yanbu 선적 중단·유럽향 화물 취소…브렌트 108.75달러",
           "source": "Reuters",
           "publishedAt": "2026-09-15T00:36:00Z",
-          "updatedAt": "2026-09-16T02:47:46Z",
+          "updatedAt": "2026-09-16T08:52:06Z",
           "url": "https://www.reuters.com/business/energy/oil-prices-rise-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns-2026-09-15/",
-          "summary": "사우디 Yanbu 수출 터미널의 원유 선적이 중단되고 일부 유럽향 9월 화물이 취소되면서 브렌트유는 108.75달러, WTI는 105.83달러에 마감했다. 동서횡단 송유관 복구가 지연되면 세계 원유 공급의 최대 약 4%가 영향을 받을 수 있다는 우려가 이어졌다.",
+          "summary": "사우디 Yanbu 수출 터미널의 원유 선적이 중단되고 일부 유럽향 9월 화물이 취소되면서 브렌트유는 108.75달러, WTI는 105.83달러에 마감했다. 동서횡단 송유관 차질이 장기화되면 세계 원유 공급의 최대 약 4%가 영향을 받을 수 있다는 우려가 이어졌다.",
           "impact": "high",
           "region": "global"
         },
         {
-          "id": "macro-global-yields-oil-20260915",
-          "title": "미 10년물 5%·브렌트 108달러대…글로벌 채권금리 동반 상승",
+          "id": "macro-asia-fed-wait-20260916",
+          "title": "아시아 증시 반등 시도…Fed 결정 앞두고 미 10년물 5% 부근",
           "source": "Reuters",
-          "publishedAt": "2026-09-15T01:44:00Z",
-          "updatedAt": "2026-09-16T02:47:46Z",
-          "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-09-15/",
-          "summary": "미 10년물 국채금리는 2007년 이후 최고 수준인 5%에 도달했고 독일 국채금리도 2009년 이후 최고치를 기록했다. 중동 공급 불안으로 유가가 108달러를 웃돈 가운데 시장은 Fed와 BOJ의 추가 긴축 가능성을 높게 반영했다.",
+          "publishedAt": "2026-09-16T01:23:00Z",
+          "updatedAt": "2026-09-16T08:52:06Z",
+          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-09-16/",
+          "summary": "MSCI 아시아태평양 지수는 한국·대만 증시 강세에 0.5% 올랐지만 미 10년물 금리는 4.99%대로 5% 부근을 유지했다. 시장은 Fed의 25bp 인상 가능성을 약 93%로 반영했고 브렌트유는 전날 급등 뒤 108달러 안팎에서 거래됐다.",
           "impact": "high",
-          "region": "global"
-        },
-        {
-          "id": "macro-morganstanley-two-fed-hikes-20260915",
-          "title": "Morgan Stanley, 올해 Fed 두 차례 인상 전망으로 선회",
-          "source": "Reuters",
-          "publishedAt": "2026-09-15T07:37:00Z",
-          "updatedAt": "2026-09-16T02:47:46Z",
-          "url": "https://www.reuters.com/business/morgan-stanley-turns-more-hawkish-forecasts-two-fed-hikes-ecb-move-2026-09-15/",
-          "summary": "Morgan Stanley는 물가 둔화가 충분히 설득력 있게 진행되지 않았다며 9월과 12월 각각 25bp의 Fed 금리 인상을 전망했다. 에너지 가격의 2차 효과와 AI 관련 투자 수요가 추가 긴축 논리로 제시됐다.",
-          "impact": "medium",
           "region": "global"
         }
       ]
@@ -44,24 +33,35 @@
       "id": "us",
       "items": [
         {
-          "id": "us-wallstreet-close-20260915",
-          "title": "미 증시 하락…S&P500 0.45%·나스닥 0.78%↓",
+          "id": "us-wallstreet-selloff-20260915",
+          "title": "미 증시 이틀째 하락…S&P500 0.45%·나스닥 0.78%↓",
           "source": "Reuters",
           "publishedAt": "2026-09-15T08:55:00Z",
-          "updatedAt": "2026-09-16T02:47:46Z",
+          "updatedAt": "2026-09-16T08:52:06Z",
           "url": "https://www.reuters.com/business/wall-st-futures-slip-rising-oil-treasury-yields-compound-ai-anxiety-2026-09-15/",
-          "summary": "유가 급등과 미 10년물 금리 5% 돌파, Fed 인상 경계가 겹치며 S&P500은 0.45%, 나스닥은 0.78%, 다우는 0.63% 하락했다. 에너지 업종만 강세를 보였고, 시장은 다음 날 Fed 결정을 앞두고 위험회피 성향을 보였다.",
+          "summary": "유가 급등과 미 10년물 금리 5% 돌파, Fed 인상 경계가 겹치며 S&P500은 0.45%, 나스닥은 0.78%, 다우는 0.63% 하락했다. S&P500 11개 업종 중 에너지만 뚜렷한 강세를 보였고 위험회피 심리가 시장 전반에 확산됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-altera-ipo-20260915",
-          "title": "Altera, 미국 IPO 비공개 신청…AI 수요가 핵심 평가 변수",
+          "id": "us-waystar-sale-20260915",
+          "title": "Waystar, 매각 포함 전략적 대안 검토…보도 후 주가 8%대 상승",
           "source": "Reuters",
-          "publishedAt": "2026-09-15T13:09:00Z",
-          "updatedAt": "2026-09-16T02:47:46Z",
-          "url": "https://www.reuters.com/business/chipmaker-altera-confidentially-files-us-ipo-2026-09-15/",
-          "summary": "Silver Lake와 Intel이 지분을 보유한 FPGA 업체 Altera가 미국 IPO를 비공개 신청했다. 20억달러 이상 조달 가능성이 거론되는 가운데 투자자들은 데이터센터·AI 인프라 관련 매출과 하이퍼스케일러 수요를 주요 지표로 볼 전망이다.",
+          "publishedAt": "2026-09-15T10:05:00Z",
+          "updatedAt": "2026-09-16T08:52:06Z",
+          "url": "https://www.reuters.com/world/healthcare-software-firm-waystar-explores-options-including-sale-sources-say-2026-09-15/",
+          "summary": "미국 헬스케어 소프트웨어 업체 Waystar가 Evercore 등을 통해 매각을 포함한 전략적 대안을 검토 중인 것으로 전해졌으며 논의는 초기 단계다. Reuters 보도 뒤 주가는 8% 넘게 올랐고, AI 충격으로 약세였던 소프트웨어 업종의 인수합병 수요가 시험대에 올랐다.",
+          "impact": "medium",
+          "region": "US"
+        },
+        {
+          "id": "us-nvidia-xi-dinner-20260915",
+          "title": "Nvidia CEO, 트럼프의 시진핑 국빈 만찬 참석 예정",
+          "source": "Reuters",
+          "publishedAt": "2026-09-15T21:43:00Z",
+          "updatedAt": "2026-09-16T08:52:06Z",
+          "url": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-attend-trump-dinner-xi-source-says-2026-09-15/",
+          "summary": "Jensen Huang Nvidia CEO가 9월 24일 워싱턴에서 열릴 트럼프 대통령의 시진핑 중국 국가주석 국빈 만찬에 참석할 예정이라고 Reuters가 보도했다. 미국·중국 간 AI·반도체 기술 경쟁이 지속되는 가운데 Nvidia가 양국 고위급 외교 일정에 다시 등장했다.",
           "impact": "medium",
           "region": "US"
         }
@@ -71,24 +71,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-won-weakens-20260915",
-          "title": "원화 1,359.4원으로 약세…미 국채금리·유가 상승 부담",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-15T07:28:00Z",
-          "updatedAt": "2026-09-16T02:47:46Z",
-          "url": "https://en.yna.co.kr/view/AEN20260915008000320",
-          "summary": "원·달러 환율은 1,359.4원으로 전 거래일보다 12.1원 상승했다. 유가 상승에 따른 인플레이션 우려와 미 10년물 금리 급등, Fed의 금리 인상 기대가 원화 약세를 압박했다.",
+          "id": "korea-skhynix-intel-us-fab-20260916",
+          "title": "SK하이닉스, Intel과 미국 내 메모리 생산 방안 협의",
+          "source": "Reuters",
+          "publishedAt": "2026-09-16T05:32:00Z",
+          "updatedAt": "2026-09-16T08:52:06Z",
+          "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/",
+          "summary": "SK하이닉스가 Intel의 오하이오 공장 일부 임대 또는 Intel·클라우드 기업과의 합작을 통해 미국에서 처음 메모리 칩을 생산하는 방안을 협의 중인 것으로 전해졌다. 아직 결정된 사안은 없으며 HBM·DRAM 등 국가핵심기술이 포함될 경우 한국 정부의 심사를 받을 수 있다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-kospi-morning-rebound-20260916",
-          "title": "코스피, 기술주 강세에 장중 상승 전환…Fed 결정 앞두고 경계 지속",
+          "id": "korea-kospi-turnover-low-20260916",
+          "title": "코스피 일평균 거래대금 21.4조원…6월 대비 절반 이하로 감소",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-16T02:34:00Z",
-          "updatedAt": "2026-09-16T02:47:46Z",
-          "url": "https://en.yna.co.kr/view/AEN20260916004200320",
-          "summary": "코스피는 16일 오전 11시20분 기준 0.2% 오른 6,640.47로 상승 전환했고 삼성전자와 SK하이닉스가 각각 0.6%, 1.45% 올랐다. 다만 외국인은 순매도를 이어갔고 원화는 1,369.75원으로 약세를 보여 Fed 결정을 앞둔 경계감이 남아 있었다.",
+          "publishedAt": "2026-09-16T01:35:00Z",
+          "updatedAt": "2026-09-16T08:52:06Z",
+          "url": "https://www.yna.co.kr/amp/view/AKR20260916070800008",
+          "summary": "한국거래소와 연합인포맥스 집계에서 9월 1~15일 코스피 일평균 거래대금은 21조4천320억원으로 올해 월 기준 최저 수준을 기록했다. 6월 50조3천470억원에서 절반 이하로 줄었고 거래량도 연중 최저로 내려가 유가·금리 급등과 AI주 경계에 따른 투자심리 위축이 확인됐다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -102,9 +102,9 @@
           "title": "미 상원, Clarity Act 절차표결 실패…암호화폐 규제 불확실성 확대",
           "source": "Reuters",
           "publishedAt": "2026-09-15T10:02:00Z",
-          "updatedAt": "2026-09-16T02:47:46Z",
+          "updatedAt": "2026-09-16T08:52:06Z",
           "url": "https://www.reuters.com/legal/government/us-senate-vote-advancing-landmark-crypto-bill-2026-09-15/",
-          "summary": "Clarity Act는 미 상원에서 50대49 찬성에도 진전 요건인 60표에 미달해 절차표결을 통과하지 못했다. 표결 실패 과정에서 비트코인은 5% 넘게 하락했고 Coinbase와 Circle 주가도 장중 최대 10% 가까이 밀렸다.",
+          "summary": "Clarity Act는 미 상원에서 50대49 찬성에도 의사진행에 필요한 60표에 미달해 진전되지 못했다. 표결 실패 과정에서 비트코인은 5% 넘게 하락했고 Coinbase와 Circle도 장중 최대 약 10% 밀려 입법 불확실성이 시장 변동성으로 이어졌다.",
           "impact": "high",
           "region": "US"
         }
