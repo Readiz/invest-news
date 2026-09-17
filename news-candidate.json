@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T02:52:00Z",
-  "headline": "연준이 기준금리를 25bp 인상하고 추가 인상 가능성을 시사한 가운데, 강한 8월 소매판매와 높은 수입물가가 경기 회복력과 인플레이션 압력을 동시에 확인시켰다. 미국 기업은 높은 연료비와 생산 차질의 영향을 받고 있고, 한국에서는 SK하이닉스의 미국 메모리 생산 협의가 부각됐으며 암호화폐 시장은 Clarity Act 부결과 별도의 세제 법안 진전이 엇갈린 정책 신호를 만들었다.",
+  "updatedAt": "2026-09-17T08:48:15Z",
+  "headline": "연준이 3년여 만에 기준금리를 25bp 인상한 뒤 추가 긴축 가능성이 부각됐지만, 사우디의 오만 경유 추가 원유 공급으로 유가는 100달러대 초반까지 되밀리며 공급 불안은 다소 완화됐다. 미국에서는 빅테크 규제와 데이터센터 전력비 문제가 부각됐고, 한국은 SK하이닉스의 미국 메모리 생산 협의가, 암호화폐는 Clarity Act 좌절과 세제 입법 진전이 동시에 주요 변수로 떠올랐다.",
   "sections": [
     {
       "id": "macro",
@@ -10,22 +10,22 @@
           "title": "Fed, 기준금리 25bp 인상…3.75~4.00%로 상향",
           "source": "Federal Reserve",
           "publishedAt": "2026-09-16T18:00:00Z",
-          "updatedAt": "2026-09-17T02:52:00Z",
+          "updatedAt": "2026-09-17T08:48:15Z",
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-          "summary": "FOMC는 12대0 만장일치로 기준금리 목표범위를 3.75~4.00%로 25bp 올렸다. 연준은 경제활동과 국내 지출이 견조하지만 인플레이션이 여전히 높다며 이번 조치가 물가를 2% 목표로 더 신속히 되돌리는 데 필요하다고 밝혔다.",
+          "summary": "FOMC는 12대0 만장일치로 연방기금금리 목표범위를 3.75~4.00%로 25bp 올렸다. 연준은 경제활동과 국내 지출은 견조하지만 인플레이션이 여전히 높다며 이번 조치가 물가를 2% 목표로 더 신속히 되돌리는 데 필요하다고 밝혔다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "macro-us-retail-sales-20260916",
-          "title": "미국 8월 소매판매 1.2% 증가…예상 상회",
+          "id": "macro-oil-eases-oman-20260917",
+          "title": "사우디 오만 경유 추가 공급에 유가 하락…브렌트 104달러 안팎",
           "source": "Reuters",
-          "publishedAt": "2026-09-16T12:37:00Z",
-          "updatedAt": "2026-09-17T02:52:00Z",
-          "url": "https://www.reuters.com/business/retail-consumer/us-retail-sales-rebound-sharply-august-2026-09-16/",
-          "summary": "미국 8월 소매판매는 전월 대비 1.2% 늘어 시장 예상 0.8%를 웃돌았고 핵심 소매판매는 1.4% 증가했다. 견조한 소비는 성장 회복력을 보여줬지만 수입물가도 전월 대비 0.7% 올라 인플레이션 부담이 함께 확인됐다.",
+          "publishedAt": "2026-09-17T01:00:00Z",
+          "updatedAt": "2026-09-17T08:48:15Z",
+          "url": "https://www.reuters.com/business/energy/oil-prices-extend-losses-fears-middle-east-supply-disruptions-ease-2026-09-17/",
+          "summary": "사우디가 오만 소하르를 통한 추가 원유 선적을 제안하면서 공급 차질 우려가 완화돼 브렌트유와 WTI가 각각 1% 넘게 하락했다. 다만 동서횡단 송유관 피해와 중동 전쟁 위험은 남아 있어 유가는 여전히 배럴당 100달러를 웃돌았다.",
           "impact": "high",
-          "region": "US"
+          "region": "Global"
         }
       ]
     },
@@ -33,24 +33,35 @@
       "id": "us",
       "items": [
         {
-          "id": "us-boeing-output-20260916",
-          "title": "Boeing, 737 MAX·787 증산 지연…주가 4% 하락",
+          "id": "us-google-adtech-remedies-20260916",
+          "title": "미 법원, Google에 광고기술 규칙 완화·반독점 감시인 지정 요구",
           "source": "Reuters",
-          "publishedAt": "2026-09-16T19:12:00Z",
-          "updatedAt": "2026-09-17T02:52:00Z",
-          "url": "https://www.reuters.com/legal/litigation/boeing-ceo-says-it-is-taking-longer-stabilize-737-max-output-shares-slide-2026-09-16/",
-          "summary": "Boeing은 737 MAX 생산을 월 47대로 안정화하고 787 생산을 월 10대로 늘리는 작업이 예상보다 오래 걸리고 있다고 밝혔다. 생산 지연으로 올해 잉여현금흐름이 기존 가이던스 상단보다 낮은 약 20억달러 수준에 그칠 가능성이 제시되며 주가는 4% 하락했다.",
+          "publishedAt": "2026-09-16T21:56:00Z",
+          "updatedAt": "2026-09-17T08:48:15Z",
+          "url": "https://www.reuters.com/world/google-should-appoint-antitrust-compliance-officer-us-judge-says-ad-tech-case-2026-09-16/",
+          "summary": "미 연방법원은 Google의 광고기술 독점에 대해 사업 분할 대신 광고경매 규칙 완화와 내부 반독점 감시인 지정을 요구했다. 조치는 6년간 유지될 예정이며, Alphabet 광고 사업의 운영 방식에 직접적인 제약을 가하는 규제 리스크가 이어지게 됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-airlines-fuel-capacity-20260916",
-          "title": "American·United·Southwest, 연료비 급등에 운항계획 축소",
+          "id": "us-data-center-ratepayer-bill-20260916",
+          "title": "미 하원, 데이터센터 전력비 부담 다루는 첫 법안 통과",
           "source": "Reuters",
-          "publishedAt": "2026-09-16T15:19:00Z",
-          "updatedAt": "2026-09-17T02:52:00Z",
-          "url": "https://www.reuters.com/business/american-airlines-warns-high-fuel-prices-could-force-capacity-adjustments-2026-09-16/",
-          "summary": "American Airlines, United Airlines, Southwest Airlines는 최근 연료비 급등에 대응해 연말과 2027년 운항계획을 일부 줄이고 있다고 밝혔다. American은 최근 연료 가격 상승만으로 4분기 비용이 약 10억달러 늘어날 것으로 추산했다.",
+          "publishedAt": "2026-09-16T23:00:00Z",
+          "updatedAt": "2026-09-17T08:48:15Z",
+          "url": "https://www.reuters.com/world/us-house-advances-first-bill-addressing-economic-impacts-data-center-boom-2026-09-16/",
+          "summary": "미 하원은 데이터센터 같은 대규모 전력 사용자가 관련 전력망 증설 비용을 부담해야 하는지 주 규제당국이 검토하도록 하는 Ratepayer Protection Act를 417대3으로 통과시켰다. AI 데이터센터 확대로 발생하는 전력비 부담이 연방 입법 의제로 본격 진입했다는 점이 중요하다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-meta-ai-safety-20260916",
+          "title": "Zuckerberg, AI 업계 공동 감속론에 반대…개별 기업 책임 강조",
+          "source": "Reuters",
+          "publishedAt": "2026-09-16T02:25:00Z",
+          "updatedAt": "2026-09-17T08:48:15Z",
+          "url": "https://www.reuters.com/business/metas-zuckerberg-says-ai-labs-have-enough-incentive-build-safely-2026-09-16/",
+          "summary": "Meta의 Mark Zuckerberg CEO는 경쟁과 법적 책임만으로도 AI 기업이 안전하게 개발할 충분한 유인이 있다며 업계 전체의 공동 감속 필요성에 선을 그었다. Anthropic·OpenAI·xAI 경영진의 감속론과 대조되면서 미국 AI 산업의 규제 방향과 개발 속도 논쟁이 이어지고 있다.",
           "impact": "medium",
           "region": "US"
         }
@@ -64,9 +75,9 @@
           "title": "SK하이닉스, Intel과 미국 내 첫 메모리 생산 방안 협의",
           "source": "Reuters",
           "publishedAt": "2026-09-16T05:32:00Z",
-          "updatedAt": "2026-09-17T02:52:00Z",
+          "updatedAt": "2026-09-17T08:48:15Z",
           "url": "https://www.reuters.com/world/asia-pacific/sk-hynix-talks-with-intel-about-deal-make-memory-chips-us-first-time-sources-say-2026-09-16/",
-          "summary": "SK하이닉스가 Intel 오하이오 공장의 일부를 임차하거나 Intel·클라우드 기업과 합작해 미국에서 메모리를 생산하는 방안을 협의 중인 것으로 전해졌다. 회사는 아직 결정된 사안이 없다고 밝혔으며 HBM·DRAM 등 국가핵심기술이 포함되면 한국 정부 심사 대상이 될 수 있다.",
+          "summary": "SK하이닉스가 Intel 오하이오 공장의 일부 임차 또는 Intel·클라우드 업체와의 합작을 통해 미국에서 메모리를 생산하는 방안을 협의 중인 것으로 전해졌다. 회사는 아직 결정된 사안이 없다고 밝혔으며 HBM·DRAM 등 국가핵심기술이 포함될 경우 한국 정부 심사 대상이 될 수 있다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -77,36 +88,36 @@
       "items": [
         {
           "id": "crypto-clarity-act-defeat-20260916",
-          "title": "미 상원, Clarity Act 절차표결 부결…규제 불확실성 지속",
+          "title": "미 상원 Clarity Act 절차표결 부결…규제 불확실성 지속",
           "source": "Reuters",
           "publishedAt": "2026-09-16T14:30:00Z",
-          "updatedAt": "2026-09-17T02:52:00Z",
+          "updatedAt": "2026-09-17T08:48:15Z",
           "url": "https://www.reuters.com/legal/transactional/crypto-bills-defeat-shows-limits-industrys-political-machine-2026-09-16/",
-          "summary": "미 상원은 암호화폐 시장구조법인 Clarity Act의 의사진행을 49대50으로 부결해 필요한 60표에 미달했다. 민주당의 윤리규정 요구와 은행권의 예금 경쟁 우려, 일부 공화당 이탈이 겹치며 미국 디지털자산 규제 입법의 불확실성이 이어지게 됐다.",
+          "summary": "미 상원은 암호화폐 시장구조법인 Clarity Act의 의사진행을 49대50으로 부결해 필요한 60표에 미달했다. 민주당의 윤리규정 요구와 은행권의 예금 경쟁 우려, 일부 공화당 이탈이 겹치며 미국 디지털자산 규제의 입법 불확실성이 이어지게 됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "crypto-digital-asset-tax-bill-20260916",
+          "id": "crypto-tax-bill-20260916",
           "title": "미 하원 세입위, 디지털자산 세제 법안 38대5로 통과",
           "source": "CoinDesk",
           "publishedAt": "2026-09-16",
-          "updatedAt": "2026-09-17T02:52:00Z",
+          "updatedAt": "2026-09-17T08:48:15Z",
           "url": "https://www.coindesk.com/policy/2026/09/16/u-s-house-s-tax-committee-advances-crypto-tax-bill-in-wake-of-clarity-act-loss",
-          "summary": "미 하원 세입위원회는 Digital Asset Tax Certainty Act를 38대5로 승인해 본회의 단계로 넘겼다. 법안은 소액 암호화폐 거래와 스테이킹·채굴·브로커 보고 등 과세 규칙을 정비해 디지털자산을 다른 금융자산과 유사하게 취급하는 내용을 담고 있다.",
+          "summary": "미 하원 세입위원회는 Digital Asset Tax Certainty Act를 38대5로 승인해 본회의 단계로 넘겼다. 소액 암호화폐 거래와 스테이킹·채굴·브로커 보고 등 과세 규칙을 정비하는 내용으로, 시장구조법 좌절과 별개로 세제 분야 입법은 진전됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "crypto-payward-hyperliquid-perps-20260916",
-          "title": "Payward, 미국 고객 대상 Hyperliquid 온체인 무기한선물 추진",
-          "source": "Payward",
-          "publishedAt": "2026-09-16",
-          "updatedAt": "2026-09-17T02:52:00Z",
-          "url": "https://www.payward.com/press-release/payward-hyperliquid-onchain-perpetual-futures",
-          "summary": "Kraken 모회사 Payward는 규제 승인을 전제로 미국 고객에게 Hyperliquid 기반 온체인 무기한선물을 제공할 계획이라고 발표했다. Bitnomial의 CFTC 규제 거래소·청산 인프라와 NinjaTrader Clearing을 활용해 온체인 파생상품을 미국 규제 체계 안에서 제공하는 구조다.",
+          "id": "crypto-btc-rebound-fed-20260917",
+          "title": "Fed 인상 소화하며 비트코인 7만6천달러대 회복…주요 코인 반등",
+          "source": "CoinDesk",
+          "publishedAt": "2026-09-17",
+          "updatedAt": "2026-09-17T08:48:15Z",
+          "url": "https://www.coindesk.com/markets/2026/09/17/zcash-jumps-23-as-bitcoin-and-major-tokens-rise-despite-fed-s-first-hike-since-2023",
+          "summary": "Fed의 25bp 인상 이후 비트코인은 7만6천달러를 웃돌았고 Solana·BNB·Ether 등 주요 암호화폐도 반등했다. 시장은 이번 인상이 예상된 조치였고 연준의 점도표가 연내 추가 인상을 한 차례 정도로 시사한 점을 소화하며 위험자산 가격이 일부 회복됐다.",
           "impact": "medium",
-          "region": "US"
+          "region": "Global"
         }
       ]
     }
