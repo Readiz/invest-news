@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T22:52:13Z",
-  "headline": "연준의 25bp 인상 이후에도 미국 고용이 견조하게 유지되고 유가가 100달러를 웃돌아 추가 긴축 경계는 남았지만, 장기금리와 유가의 동반 하락에 힘입어 미국 기술주가 강하게 반등했다. 한국 증시는 보합권에서 마감한 가운데 외국인 순매도가 이어졌고, 암호화폐 시장에서는 SEC의 토큰화 주식 규제 특례가 새로운 제도권 진입 경로로 부각됐다.",
+  "updatedAt": "2026-09-18T02:52:10Z",
+  "headline": "연준의 25bp 인상 이후 미국 고용이 견조한 흐름을 유지하는 가운데 국제유가와 미 국채금리가 내려가며 위험자산 심리가 개선됐다. 뉴욕증시는 기술주 중심으로 반등했고 코스피도 반도체 강세에 2% 넘게 올랐으며, 암호화폐 시장에서는 SEC의 토큰화 주식 규제 특례와 비트코인 반등이 주목받았다.",
   "sections": [
     {
       "id": "macro",
@@ -10,9 +10,9 @@
           "title": "Fed, 기준금리 25bp 인상…3.75~4.00%로 상향",
           "source": "Federal Reserve",
           "publishedAt": "2026-09-16T18:00:00Z",
-          "updatedAt": "2026-09-17T22:52:13Z",
+          "updatedAt": "2026-09-18T02:52:10Z",
           "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-          "summary": "FOMC는 12대0 만장일치로 연방기금금리 목표범위를 3.75~4.00%로 25bp 올렸다. 연준은 경제활동과 국내 지출이 견조하지만 인플레이션이 여전히 높다며 이번 인상이 2% 물가목표로의 복귀를 앞당기기 위한 조치라고 밝혔다.",
+          "summary": "FOMC는 12대0 만장일치로 연방기금금리 목표범위를 3.75~4.00%로 25bp 올렸다. 연준은 경제활동과 국내 지출이 견조하지만 인플레이션이 여전히 높아 2% 목표로 더 신속히 복귀할 필요가 있다고 밝혔다.",
           "impact": "high",
           "region": "US"
         },
@@ -21,9 +21,9 @@
           "title": "미 신규 실업수당 청구 19만6천건…예상 밖 감소",
           "source": "Reuters",
           "publishedAt": "2026-09-17T12:42:00Z",
-          "updatedAt": "2026-09-17T22:52:13Z",
+          "updatedAt": "2026-09-18T02:52:10Z",
           "url": "https://www.reuters.com/business/us-weekly-jobless-claims-unexpectedly-fall-2026-09-17/",
-          "summary": "미국의 주간 신규 실업수당 청구는 19만6천건으로 1만건 감소해 예상치 20만8천건을 밑돌았다. 노동시장이 안정적인 흐름을 유지하면서 연준이 인플레이션 억제에 정책 초점을 둘 여지가 커졌다는 평가가 나왔다.",
+          "summary": "주간 신규 실업수당 청구는 19만6천건으로 1만건 줄어 시장 예상 20만8천건을 밑돌았다. 노동시장이 안정적인 흐름을 유지하면서 연준이 물가 안정에 정책 초점을 둘 여지가 이어졌다.",
           "impact": "high",
           "region": "US"
         },
@@ -32,9 +32,9 @@
           "title": "국제유가 1% 하락…브렌트 104.82달러로 마감",
           "source": "Reuters",
           "publishedAt": "2026-09-17T01:00:00Z",
-          "updatedAt": "2026-09-17T22:52:13Z",
+          "updatedAt": "2026-09-18T02:52:10Z",
           "url": "https://www.reuters.com/business/energy/oil-prices-extend-losses-fears-middle-east-supply-disruptions-ease-2026-09-17/",
-          "summary": "브렌트유는 104.82달러, WTI는 101.91달러로 각각 약 1%와 0.5% 하락했다. 사우디가 오만을 통한 추가 공급을 추진하고 동서횡단 송유관 복구 기대가 커졌지만, 호르무즈 통항 감소와 중동 긴장은 공급 리스크로 남아 있다.",
+          "summary": "브렌트유는 104.82달러, WTI는 101.91달러로 각각 약 1%와 0.5% 하락했다. 사우디의 오만 경유 추가 공급과 송유관 복구 기대가 공급 우려를 일부 낮췄지만 호르무즈 통항 감소와 중동 긴장은 여전히 리스크로 남았다.",
           "impact": "high",
           "region": "Global"
         }
@@ -48,9 +48,9 @@
           "title": "미 증시 기술주 주도로 반등…나스닥 1.69% 상승",
           "source": "Reuters",
           "publishedAt": "2026-09-17T09:22:00Z",
-          "updatedAt": "2026-09-17T22:52:13Z",
+          "updatedAt": "2026-09-18T02:52:10Z",
           "url": "https://www.reuters.com/business/wall-st-futures-rise-fed-rate-hike-lifts-long-standing-overhang-2026-09-17/",
-          "summary": "다우는 0.62%, S&P500은 1.14%, 나스닥은 1.69% 상승하며 전날 Fed 인상 충격에서 반등했다. 유가와 미 국채금리가 내려간 가운데 기술주와 반도체주가 강세를 주도했고 필라델피아 반도체지수도 3% 넘게 올랐다.",
+          "summary": "다우는 0.62%, S&P500은 1.14%, 나스닥은 1.69% 상승했다. 유가와 미 국채금리가 내려간 가운데 기술주가 상승을 주도했고 필라델피아 반도체지수도 3% 넘게 올랐다.",
           "impact": "high",
           "region": "US"
         },
@@ -59,10 +59,10 @@
           "title": "CoreWeave, 30억달러 전환사채 발행 추진…AI 인프라 자금수요 확대",
           "source": "Reuters",
           "publishedAt": "2026-09-17T13:30:00Z",
-          "updatedAt": "2026-09-17T22:52:13Z",
+          "updatedAt": "2026-09-18T02:52:10Z",
           "url": "https://www.reuters.com/legal/transactional/coreweave-launches-3-billion-convertible-debt-sale-2026-09-17/",
-          "summary": "Nvidia가 투자한 CoreWeave는 AI 인프라 확장을 위해 30억달러 규모의 전환사채 발행을 추진하고 최대 3,500만주의 시장가 주식매각 프로그램도 열었다. 회사의 계약 전력은 6월 말 3.7GW에서 4.2GW로 늘어 AI 데이터센터 확대에 필요한 대규모 자금조달이 이어지고 있다.",
-          "impact": "high",
+          "summary": "Nvidia가 투자한 CoreWeave는 AI 인프라 확장을 위해 30억달러 규모 전환사채 발행을 추진하고 최대 3,500만주의 시장가 주식매각 프로그램도 열었다. 계약 전력은 6월 말 3.7GW에서 약 4.2GW로 늘어 AI 데이터센터 증설에 필요한 대규모 자금수요가 이어지고 있다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -71,13 +71,13 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-fed-20260917",
-          "title": "코스피 0.04% 하락 마감…Fed 인상 소화하며 보합권",
+          "id": "korea-kospi-rally-20260918",
+          "title": "코스피 2%대 상승해 6,800선 회복…삼성전자·SK하이닉스 강세",
           "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-17T06:54:00Z",
-          "updatedAt": "2026-09-17T22:52:13Z",
-          "url": "https://en.yna.co.kr/view/AEN20260917007451320",
-          "summary": "코스피는 6,715.41로 0.04% 하락해 거의 보합으로 마감했고 외국인은 2조2,700억원을 순매도했다. 삼성전자와 SK하이닉스가 약세를 보인 반면 방산·조선주는 상승했고, 원화는 달러당 1,382.2원으로 약세를 나타냈다.",
+          "publishedAt": "2026-09-18T00:24:00Z",
+          "updatedAt": "2026-09-18T02:52:10Z",
+          "url": "https://www.yna.co.kr/amp/view/AKR20260918039500008",
+          "summary": "코스피는 오전 9시18분 기준 2.26% 오른 6,866.86을 기록하며 6,800선을 회복했다. 뉴욕증시 반등과 미 국채금리·유가 하락에 힘입어 삼성전자와 SK하이닉스 등 대형 반도체주가 상승을 주도했다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -91,9 +91,9 @@
           "title": "SEC, 토큰화 주식 거래에 5년 규제 특례 도입",
           "source": "Reuters",
           "publishedAt": "2026-09-17T13:02:00Z",
-          "updatedAt": "2026-09-17T22:52:13Z",
+          "updatedAt": "2026-09-18T02:52:10Z",
           "url": "https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/",
-          "summary": "미 SEC는 토큰화 주식 거래 플랫폼에 거래소 규정 일부를 면제하고 유동성 공급자의 딜러 등록 의무도 완화하는 5년짜리 특례를 발표했다. 토큰화 주식은 기존 주식과 동일한 배당·의결권을 제공해야 하며 발행사가 반대하면 해당 종목을 상장할 수 없다.",
+          "summary": "미 SEC는 토큰화 주식 거래 플랫폼에 거래소 규정 일부를 면제하고 유동성 공급자의 딜러 등록 의무도 완화하는 5년짜리 특례를 발표했다. 플랫폼은 발행사에 사전 통지해야 하며 발행사가 반대하면 해당 주식의 토큰화 상품을 제공할 수 없다.",
           "impact": "high",
           "region": "US"
         },
@@ -102,9 +102,9 @@
           "title": "비트코인 7만6천달러대 반등…Fed 인상 이후 위험자산 회복",
           "source": "CoinDesk",
           "publishedAt": "2026-09-17",
-          "updatedAt": "2026-09-17T22:52:13Z",
+          "updatedAt": "2026-09-18T02:52:10Z",
           "url": "https://www.coindesk.com/markets/2026/09/17/crypto-rallies-through-the-fed-s-first-rate-increase-since-2023",
-          "summary": "비트코인은 약 7만6,600달러로 24시간 기준 상승했고 이더리움과 솔라나 등 주요 암호화폐도 동반 반등했다. 시장은 Fed의 점도표가 2026년 말 정책금리 중간값 4.1%를 제시해 공격적인 연속 인상보다는 제한적인 추가 긴축을 시사한 점을 소화했다.",
+          "summary": "비트코인은 약 7만6,600달러로 올라 24시간 기준 0.88% 상승했고 이더리움과 솔라나도 동반 반등했다. 시장은 Fed의 금리 인상 자체보다 점도표가 장기간의 공격적 긴축을 시사하지 않았다는 점을 소화했다.",
           "impact": "medium",
           "region": "Global"
         }
