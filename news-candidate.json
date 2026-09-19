@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-19T22:51:52Z",
-  "headline": "미국·유럽·일본의 주요 중앙은행이 에너지발 물가 압력에 대응해 긴축 기조를 강화하는 가운데, 미중은 AI 안보·무역 현안을 다시 논의할 예정이다. 미국에서는 AI 인프라의 자금 조달과 모델 검증 투자가 확대됐고, 한국은 대미 제조업 투자 협상과 SK하이닉스의 AI 생태계 투자 확대가, 디지털자산 시장에서는 SEC의 토큰화 주식 규제 특례가 핵심 이슈로 부각됐다.",
+  "headline": "미국·유럽·일본의 주요 중앙은행이 에너지발 물가 압력에 대응해 긴축 기조를 강화하는 가운데, 미중은 AI 안보·무역 현안을 다시 논의할 예정이다. 미국에서는 AI 인프라 자금 조달과 모델 검증 투자가 이어졌고, 한국은 대미 제조업 투자 협상이, 암호화폐 시장에서는 미국의 이란계 거래소 제재가 주요 변수로 부각됐다.",
   "sections": [
     {
       "id": "macro",
@@ -53,6 +53,17 @@
           "summary": "Anthropic과 Accenture가 향후 5년간 각각 최소 10억달러를 투입해 최첨단 AI 모델의 독립 평가와 레드팀 역량을 구축하기로 했다. AI 안전성과 신뢰성 검증이 기업의 AI 도입과 서비스 확대 과정에서 별도 투자 영역으로 커지고 있다.",
           "impact": "medium",
           "region": "US"
+        },
+        {
+          "id": "us-disney-first-cto-20260918",
+          "title": "Disney, 첫 최고기술책임자에 Character.AI 출신 Karandeep Anand 선임",
+          "source": "Reuters",
+          "publishedAt": "2026-09-18T15:14:00Z",
+          "updatedAt": "2026-09-19T22:51:52Z",
+          "url": "https://www.reuters.com/technology/disney-names-characterais-karandeep-anand-its-first-tech-chief-2026-09-18/",
+          "summary": "Disney는 Character.AI 최고경영자 출신 Karandeep Anand를 회사 최초의 최고기술책임자로 선임해 기업 기술, AI 플랫폼과 엔지니어링을 총괄하게 했다. 미디어 업계의 AI 도입 경쟁 속에서 기술 조직을 최고경영진 직속으로 강화하는 인사다.",
+          "impact": "medium",
+          "region": "US"
         }
       ]
     },
@@ -69,17 +80,6 @@
           "summary": "한국과 미국은 약 3,500억달러 규모의 대미 제조업 투자 패키지 집행과 반도체 등 전략 산업 협력을 계속 논의했다. 한국 측은 투자 프로젝트의 상업적 타당성을 핵심 쟁점으로 제시했고 양국은 후속 협의를 이어가기로 했다.",
           "impact": "high",
           "region": "South Korea"
-        },
-        {
-          "id": "korea-skhynix-ventures-20260918",
-          "title": "SK하이닉스, 실리콘밸리에 'SK hynix Ventures' 출범",
-          "source": "SK hynix",
-          "publishedAt": "2026-09-18",
-          "updatedAt": "2026-09-19T22:51:52Z",
-          "url": "https://news.skhynix.com/en/sk-hynix-ventures/",
-          "summary": "SK하이닉스는 실리콘밸리에 신규 CVC 브랜드 'SK hynix Ventures'를 출범하고 투자 범위를 반도체에서 AI 컴퓨팅, 데이터센터, 시스템 소프트웨어, 광인터커넥트 등으로 넓혔다. AI 인프라 생태계 전반에서 전략적 투자와 기술 협력을 강화하려는 움직임이다.",
-          "impact": "medium",
-          "region": "South Korea"
         }
       ]
     },
@@ -87,15 +87,15 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-sec-tokenized-stock-exemption-20260917",
-          "title": "SEC, 토큰화 주식 거래에 5년 조건부 규제 특례 도입",
-          "source": "U.S. Securities and Exchange Commission",
-          "publishedAt": "2026-09-17",
+          "id": "crypto-us-sanctions-bitbank-20260917",
+          "title": "미국, 이란계 암호화폐 거래소 BitBank 제재…호르무즈 결제 연계 지목",
+          "source": "Reuters",
+          "publishedAt": "2026-09-17T18:03:00Z",
           "updatedAt": "2026-09-19T22:51:52Z",
-          "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
-          "summary": "미 SEC는 일정 요건을 충족하는 토큰화 NMS 주식 거래 플랫폼에 거래소 등록 규정 등을 한시적으로 면제하는 'Innovation Exemption'을 도입했다. 토큰화 주식은 기존 주식과 동등한 권리를 보장해야 하며 해당 특례는 공표 후 5년간 적용된다.",
+          "url": "https://www.reuters.com/world/middle-east/us-sanctions-iranian-financiers-crypto-exchange-says-it-processes-hormuz-2026-09-17/",
+          "summary": "미국은 이란 금융업자 Babak Zanjani가 통제하는 암호화폐 거래소 BitBank를 제재하며 호르무즈 해협 통항 관련 결제와 혁명수비대 자금 이전에 활용됐다고 밝혔다. 디지털자산을 이용한 제재 회피 인프라에 대한 미국의 단속 범위가 확대된 사례다.",
           "impact": "high",
-          "region": "US"
+          "region": "Global"
         }
       ]
     }
