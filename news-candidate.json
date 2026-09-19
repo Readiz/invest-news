@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-19T02:48:38Z",
-  "headline": "일본은행의 추가 금리 인상과 미국 10년물 국채금리 5% 재돌파로 글로벌 긴축 부담이 이어졌지만, 국제유가는 중동 공급 우려 완화로 하락했다. 미국 증시는 반도체·AI 관련주가 지수를 지지했고, 한국은 반도체 중심의 강한 반등을 보였으며 디지털자산 시장에서는 SEC의 토큰화 주식 규제 특례가 제도 변화의 핵심 이슈로 부각됐다.",
+  "updatedAt": "2026-09-19T08:52:51Z",
+  "headline": "일본은행의 추가 금리 인상과 미국 10년물 금리 5% 재돌파로 글로벌 금리 부담이 이어졌지만, 국제유가는 사우디 공급 차질 우려 완화로 하락했다. 미국 증시는 반도체가 지수를 지지했고 한국은 외국인 복귀와 반도체 강세로 급반등했으며, 비트코인은 3거래일 연속 반등해 8만1천달러선까지 올라섰다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-boj-yen-20260918",
-          "title": "BOJ, 기준금리 1.25%로 인상…엔화는 오히려 약세",
+          "id": "macro-boj-hike-20260918",
+          "title": "BOJ, 기준금리 1.25%로 인상…31년 만의 최고",
           "source": "Reuters",
-          "publishedAt": "2026-09-18T00:59:00Z",
-          "updatedAt": "2026-09-19T02:48:38Z",
-          "url": "https://www.reuters.com/world/asia-pacific/yen-weak-ahead-boj-decision-rate-hike-expected-2026-09-18/",
-          "summary": "일본은행은 기준금리를 1.25%로 25bp 인상해 31년 만의 최고 수준으로 올렸지만 결정이 7대2로 갈리면서 추가 인상 의지가 예상보다 강하지 않다는 해석이 나왔다. 달러는 엔화 대비 강세를 보였고 미국 연준의 추가 긴축 전망과 함께 글로벌 금리 부담이 이어졌다.",
+          "publishedAt": "2026-09-18T03:23:00Z",
+          "updatedAt": "2026-09-19T08:52:51Z",
+          "url": "https://www.reuters.com/world/asia-pacific/view-investors-react-boj-raising-interest-rates-31-year-high-2026-09-18/",
+          "summary": "일본은행은 정책금리를 1.00%에서 1.25%로 25bp 인상했으며 결정은 7대2였다. 물가 상방 위험에 대응한 조치였지만 두 명의 반대표와 제한적인 추가 인상 신호 때문에 엔화는 약세를 보였다.",
           "impact": "high",
           "region": "Japan"
         },
         {
-          "id": "macro-oil-houthi-saudi-20260918",
+          "id": "macro-oil-saudi-houthi-20260918",
           "title": "국제유가 하락…중국의 이란 설득으로 사우디 공급 우려 일부 완화",
           "source": "Reuters",
           "publishedAt": "2026-09-18T01:01:00Z",
-          "updatedAt": "2026-09-19T02:48:38Z",
+          "updatedAt": "2026-09-19T08:52:51Z",
           "url": "https://www.reuters.com/business/energy/oil-prices-fall-1-hopes-limited-supply-disruptions-2026-09-18/",
-          "summary": "중국이 사우디 요청을 받아 이란에 후티의 사우디 석유시설 공격 자제를 요청하면서 브렌트유는 104.87달러, WTI는 100.30달러로 하락 마감했다. 다만 호르무즈 해협 통항량은 평시보다 크게 낮고 사우디 동서횡단 송유관 복구 일정도 불확실해 공급 리스크는 남아 있다.",
+          "summary": "중국이 사우디 요청을 받아 이란에 후티의 사우디 석유시설 공격 자제를 요청하면서 브렌트유는 104.87달러, WTI는 100.30달러로 하락 마감했다. 다만 호르무즈 통항 제약과 사우디 동서횡단 송유관 복구 불확실성은 남아 있다.",
           "impact": "high",
           "region": "Global"
         }
@@ -34,12 +34,23 @@
       "items": [
         {
           "id": "us-wall-st-close-20260918",
-          "title": "S&P500·나스닥 상승…미 10년물 5% 재돌파에도 반도체주 강세",
+          "title": "S&P500·나스닥 상승…미 10년물 5% 상회에도 반도체주 강세",
           "source": "Reuters",
           "publishedAt": "2026-09-18T09:14:00Z",
-          "updatedAt": "2026-09-19T02:48:38Z",
+          "updatedAt": "2026-09-19T08:52:51Z",
           "url": "https://www.reuters.com/business/nasdaq-futures-lead-wall-st-gains-oil-retreat-eases-inflation-worries-2026-09-18/",
-          "summary": "S&P500은 0.17%, 나스닥은 0.40% 상승했고 다우는 0.18% 하락해 혼조 마감했다. 10년물 국채금리가 5%를 웃돌고 유가가 100달러 이상을 유지했지만 반도체주 강세가 기술주 지수를 지지했다.",
+          "summary": "S&P500은 0.17%, 나스닥은 0.40% 상승했고 다우는 0.18% 하락했다. 미 10년물 국채금리가 5%를 웃돌고 유가가 100달러 이상을 유지했지만 반도체주 강세가 기술주 지수를 지지했다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-berkshire-chair-20260918",
+          "title": "워런 버핏, Berkshire 회장직서 물러나…Howard Buffett가 승계",
+          "source": "Reuters",
+          "publishedAt": "2026-09-18T10:13:00Z",
+          "updatedAt": "2026-09-19T08:52:51Z",
+          "url": "https://www.reuters.com/business/retail-consumer/berkshire-hathaway-names-warren-buffett-chairman-emeritus-2026-09-18/",
+          "summary": "워런 버핏은 Berkshire Hathaway 회장직에서 물러나 명예회장이 됐고 장남 Howard Buffett가 비상임 회장을 맡았다. CEO는 올해 초 취임한 Greg Abel이 계속 맡아 장기간 준비해온 경영 승계가 한 단계 더 마무리됐다.",
           "impact": "high",
           "region": "US"
         },
@@ -48,20 +59,9 @@
           "title": "Nvidia 투자 Nscale, 미국 IPO 신청…상반기 매출 13배 급증",
           "source": "Reuters",
           "publishedAt": "2026-09-18T20:00:00Z",
-          "updatedAt": "2026-09-19T02:48:38Z",
+          "updatedAt": "2026-09-19T08:52:51Z",
           "url": "https://www.reuters.com/technology/ai-cloud-firm-nscale-files-us-ipo-2026-09-18/",
-          "summary": "AI 클라우드 업체 Nscale은 상반기 매출이 전년 동기 대비 1,252% 증가한 1억4,060만달러를 기록했다고 IPO 서류에서 밝혔다. 같은 기간 순손실은 10억2천만달러로 확대돼 AI 인프라 수요 급증과 대규모 자본 소요가 동시에 확인됐다.",
-          "impact": "medium",
-          "region": "US"
-        },
-        {
-          "id": "us-anthropic-model-ipo-20260919",
-          "title": "Anthropic, IPO 앞두고 차세대 AI 모델 출시 검토",
-          "source": "Reuters",
-          "publishedAt": "2026-09-19T00:05:00Z",
-          "updatedAt": "2026-09-19T02:48:38Z",
-          "url": "https://www.reuters.com/business/anthropic-considers-releasing-new-ai-model-ahead-ipo-sources-say-2026-09-19/",
-          "summary": "Anthropic은 OpenAI의 GPT-6 Astra가 기업 시장에서 점유를 확대하는 가운데 IPO를 앞두고 새로운 AI 모델 출시 시점을 검토 중인 것으로 전해졌다. 고금리 환경에서 AI 기업들의 막대한 투자비와 수익성 확보 압력이 동시에 커지고 있다는 점도 부각됐다.",
+          "summary": "Nvidia가 투자한 AI 클라우드 업체 Nscale은 상반기 매출이 전년 동기 대비 1,252% 증가한 1억4,060만달러를 기록했다고 IPO 서류에서 밝혔다. 같은 기간 순손실은 10억2천만달러로 확대돼 AI 인프라의 고성장과 대규모 자본 소요가 동시에 확인됐다.",
           "impact": "medium",
           "region": "US"
         }
@@ -75,21 +75,21 @@
           "title": "코스피 2.66% 반등…외국인 8거래일 만에 순매수",
           "source": "Yonhap News Agency",
           "publishedAt": "2026-09-18T07:06:00Z",
-          "updatedAt": "2026-09-19T02:48:38Z",
+          "updatedAt": "2026-09-19T08:52:51Z",
           "url": "https://www.yna.co.kr/view/AKR20260918140600008",
-          "summary": "코스피는 6,894.23으로 2.66% 상승 마감했고 외국인은 8거래일 만에 순매수로 전환했다. 삼성전자가 3.37%, SK하이닉스가 6.42% 오르는 등 반도체 대형주가 지수 반등을 주도했다.",
+          "summary": "코스피는 6,894.23으로 2.66% 상승 마감했고 외국인은 8거래일 만에 순매수로 돌아섰다. 삼성전자가 3.37%, SK하이닉스가 6.42% 오르는 등 반도체 대형주가 반등을 주도했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-solidigm-us-nand-20260918",
-          "title": "SK하이닉스 Solidigm, 미국 NAND 공장 검토…뉴욕주 유력",
+          "id": "korea-us-investment-talks-20260918",
+          "title": "한미 투자 패키지 협상, 상업성·수익배분이 핵심 쟁점",
           "source": "Reuters",
-          "publishedAt": "2026-09-18T05:59:00Z",
-          "updatedAt": "2026-09-19T02:48:38Z",
-          "url": "https://www.reuters.com/world/asia-pacific/sk-hynixs-solidigm-unit-is-weighing-nand-memory-chip-factory-us-sources-say-2026-09-18/",
-          "summary": "SK하이닉스의 미국 자회사 Solidigm이 뉴욕주 북부를 유력 후보로 NAND 플래시 생산시설 건설을 검토 중인 것으로 전해졌다. 회사는 구체적으로 확정된 계획은 없다고 밝혔으며, 이 구상은 Intel 오하이오 공장 활용 논의와 별개의 프로젝트다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-18T03:11:00Z",
+          "updatedAt": "2026-09-19T08:52:51Z",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-commercial-viability-sticking-point-us-investment-talks-2026-09-18/",
+          "summary": "이재명 대통령은 대미 투자 패키지 협상에서 사업의 상업적 타당성과 수익·손실 배분 방식이 핵심 쟁점이라고 밝혔다. 한국은 기존 무역합의에 따라 미국 제조업에 3,500억달러 투자를 약속했으며 세부 프로젝트의 조건을 놓고 양국 협의가 이어지고 있다.",
+          "impact": "high",
           "region": "South Korea"
         }
       ]
@@ -98,15 +98,15 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-sec-tokenized-stocks-20260917",
-          "title": "SEC, 토큰화 주식 거래에 5년 규제 특례 도입",
+          "id": "crypto-bitcoin-rebound-20260918",
+          "title": "비트코인 5.9% 상승해 8만1천달러…3거래일 연속 반등",
           "source": "Reuters",
-          "publishedAt": "2026-09-17T13:02:00Z",
-          "updatedAt": "2026-09-19T02:48:38Z",
-          "url": "https://www.reuters.com/world/us-securities-regulator-rolls-out-five-year-exemption-tokenized-stock-trading-2026-09-17/",
-          "summary": "미 SEC는 토큰화 주식 거래 플랫폼에 거래소 규정 일부를 면제하고 유동성 공급자의 딜러 등록 의무도 완화하는 5년 특례를 발표했다. 토큰화 주식은 기존 주식과 동일한 권리를 제공해야 하며 발행사가 반대하면 해당 상품을 제공할 수 없도록 했다.",
-          "impact": "high",
-          "region": "US"
+          "publishedAt": "2026-09-18T00:59:00Z",
+          "updatedAt": "2026-09-19T08:52:51Z",
+          "url": "https://www.reuters.com/world/asia-pacific/yen-weak-ahead-boj-decision-rate-hike-expected-2026-09-18/",
+          "summary": "비트코인은 18일 5.9% 상승한 8만1천달러로 올라 3거래일 연속 반등했다. 미국 상원의 포괄적 암호화폐 법안 처리 실패로 급락했던 이후 낙폭을 되돌리는 흐름이 이어졌다.",
+          "impact": "medium",
+          "region": "Global"
         }
       ]
     }
