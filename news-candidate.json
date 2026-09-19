@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-19T08:52:51Z",
-  "headline": "일본은행의 추가 금리 인상과 미국 10년물 금리 5% 재돌파로 글로벌 금리 부담이 이어졌지만, 국제유가는 사우디 공급 차질 우려 완화로 하락했다. 미국 증시는 반도체가 지수를 지지했고 한국은 외국인 복귀와 반도체 강세로 급반등했으며, 비트코인은 3거래일 연속 반등해 8만1천달러선까지 올라섰다.",
+  "updatedAt": "2026-09-19T22:51:52Z",
+  "headline": "미국·유럽·일본의 주요 중앙은행이 에너지발 물가 압력에 대응해 긴축 기조를 강화하는 가운데, 미중은 AI 안보·무역 현안을 다시 논의할 예정이다. 미국에서는 AI 인프라의 자금 조달과 모델 검증 투자가 확대됐고, 한국은 대미 제조업 투자 협상과 SK하이닉스의 AI 생태계 투자 확대가, 디지털자산 시장에서는 SEC의 토큰화 주식 규제 특례가 핵심 이슈로 부각됐다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-boj-hike-20260918",
-          "title": "BOJ, 기준금리 1.25%로 인상…31년 만의 최고",
+          "id": "macro-global-rate-hike-cycle-20260918",
+          "title": "미·유럽·일본 중앙은행, 에너지발 인플레이션에 긴축 기조 강화",
           "source": "Reuters",
-          "publishedAt": "2026-09-18T03:23:00Z",
-          "updatedAt": "2026-09-19T08:52:51Z",
-          "url": "https://www.reuters.com/world/asia-pacific/view-investors-react-boj-raising-interest-rates-31-year-high-2026-09-18/",
-          "summary": "일본은행은 정책금리를 1.00%에서 1.25%로 25bp 인상했으며 결정은 7대2였다. 물가 상방 위험에 대응한 조치였지만 두 명의 반대표와 제한적인 추가 인상 신호 때문에 엔화는 약세를 보였다.",
+          "publishedAt": "2026-09-18T11:11:00Z",
+          "updatedAt": "2026-09-19T22:51:52Z",
+          "url": "https://www.reuters.com/markets/europe/global-rate-hike-cycle-view-central-banks-take-inflation-2026-09-18/",
+          "summary": "미국·유럽·일본의 주요 중앙은행이 에너지 가격 충격에 따른 물가 압력에 대응해 금리 인상 또는 추가 긴축 신호를 강화했다. 유가 상승이 장기화될 경우 물가와 장기금리 부담이 함께 이어질 수 있다는 경계가 커졌다.",
           "impact": "high",
-          "region": "Japan"
+          "region": "Global"
         },
         {
-          "id": "macro-oil-saudi-houthi-20260918",
-          "title": "국제유가 하락…중국의 이란 설득으로 사우디 공급 우려 일부 완화",
+          "id": "macro-us-china-bessent-he-talks-20260919",
+          "title": "미 재무장관·중국 부총리, 뉴욕서 AI 안보·무역 현안 협의 예정",
           "source": "Reuters",
-          "publishedAt": "2026-09-18T01:01:00Z",
-          "updatedAt": "2026-09-19T08:52:51Z",
-          "url": "https://www.reuters.com/business/energy/oil-prices-fall-1-hopes-limited-supply-disruptions-2026-09-18/",
-          "summary": "중국이 사우디 요청을 받아 이란에 후티의 사우디 석유시설 공격 자제를 요청하면서 브렌트유는 104.87달러, WTI는 100.30달러로 하락 마감했다. 다만 호르무즈 통항 제약과 사우디 동서횡단 송유관 복구 불확실성은 남아 있다.",
+          "publishedAt": "2026-09-19T18:34:00Z",
+          "updatedAt": "2026-09-19T22:51:52Z",
+          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-meet-sunday-jpmorgan-headquarters-2026-09-19/",
+          "summary": "스콧 베선트 미 재무장관과 허리펑 중국 부총리가 뉴욕에서 AI 안보, 무역 및 기타 경제 현안을 논의할 예정이다. 미중 정상회담을 앞둔 고위급 협의로 기술 규제와 공급망·교역 정책이 주요 시장 변수로 다시 부각됐다.",
           "impact": "high",
           "region": "Global"
         }
@@ -33,35 +33,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-wall-st-close-20260918",
-          "title": "S&P500·나스닥 상승…미 10년물 5% 상회에도 반도체주 강세",
-          "source": "Reuters",
-          "publishedAt": "2026-09-18T09:14:00Z",
-          "updatedAt": "2026-09-19T08:52:51Z",
-          "url": "https://www.reuters.com/business/nasdaq-futures-lead-wall-st-gains-oil-retreat-eases-inflation-worries-2026-09-18/",
-          "summary": "S&P500은 0.17%, 나스닥은 0.40% 상승했고 다우는 0.18% 하락했다. 미 10년물 국채금리가 5%를 웃돌고 유가가 100달러 이상을 유지했지만 반도체주 강세가 기술주 지수를 지지했다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "us-berkshire-chair-20260918",
-          "title": "워런 버핏, Berkshire 회장직서 물러나…Howard Buffett가 승계",
-          "source": "Reuters",
-          "publishedAt": "2026-09-18T10:13:00Z",
-          "updatedAt": "2026-09-19T08:52:51Z",
-          "url": "https://www.reuters.com/business/retail-consumer/berkshire-hathaway-names-warren-buffett-chairman-emeritus-2026-09-18/",
-          "summary": "워런 버핏은 Berkshire Hathaway 회장직에서 물러나 명예회장이 됐고 장남 Howard Buffett가 비상임 회장을 맡았다. CEO는 올해 초 취임한 Greg Abel이 계속 맡아 장기간 준비해온 경영 승계가 한 단계 더 마무리됐다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
           "id": "us-nscale-ipo-20260918",
           "title": "Nvidia 투자 Nscale, 미국 IPO 신청…상반기 매출 13배 급증",
           "source": "Reuters",
           "publishedAt": "2026-09-18T20:00:00Z",
-          "updatedAt": "2026-09-19T08:52:51Z",
+          "updatedAt": "2026-09-19T22:51:52Z",
           "url": "https://www.reuters.com/technology/ai-cloud-firm-nscale-files-us-ipo-2026-09-18/",
-          "summary": "Nvidia가 투자한 AI 클라우드 업체 Nscale은 상반기 매출이 전년 동기 대비 1,252% 증가한 1억4,060만달러를 기록했다고 IPO 서류에서 밝혔다. 같은 기간 순손실은 10억2천만달러로 확대돼 AI 인프라의 고성장과 대규모 자본 소요가 동시에 확인됐다.",
+          "summary": "엔비디아가 투자한 AI 클라우드 업체 Nscale이 미국 IPO를 신청했고 상반기 매출은 전년 동기 대비 1,252% 늘어난 1억4,060만달러를 기록했다. 같은 기간 순손실은 10억2천만달러로 확대돼 AI 인프라의 고성장과 대규모 자본 소요가 동시에 나타났다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "us-anthropic-accenture-ai-evaluation-20260918",
+          "title": "Anthropic·Accenture, AI 모델 평가에 총 20억달러 이상 투자",
+          "source": "Reuters",
+          "publishedAt": "2026-09-18T21:02:00Z",
+          "updatedAt": "2026-09-19T22:51:52Z",
+          "url": "https://www.reuters.com/business/anthropic-accenture-invest-2-billion-ai-model-evaluation-safety-concerns-rise-2026-09-18/",
+          "summary": "Anthropic과 Accenture가 향후 5년간 각각 최소 10억달러를 투입해 최첨단 AI 모델의 독립 평가와 레드팀 역량을 구축하기로 했다. AI 안전성과 신뢰성 검증이 기업의 AI 도입과 서비스 확대 과정에서 별도 투자 영역으로 커지고 있다.",
           "impact": "medium",
           "region": "US"
         }
@@ -71,25 +60,25 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-close-20260918",
-          "title": "코스피 2.66% 반등…외국인 8거래일 만에 순매수",
-          "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-18T07:06:00Z",
-          "updatedAt": "2026-09-19T08:52:51Z",
-          "url": "https://www.yna.co.kr/view/AKR20260918140600008",
-          "summary": "코스피는 6,894.23으로 2.66% 상승 마감했고 외국인은 8거래일 만에 순매수로 돌아섰다. 삼성전자가 3.37%, SK하이닉스가 6.42% 오르는 등 반도체 대형주가 반등을 주도했다.",
+          "id": "korea-us-investment-pact-talks-20260918",
+          "title": "한미, 3,500억달러 대미 투자 패키지·반도체 협력 논의",
+          "source": "Reuters",
+          "publishedAt": "2026-09-18T15:53:00Z",
+          "updatedAt": "2026-09-19T22:51:52Z",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-cho-meets-rubio-amid-tensions-investment-delays-2026-09-18/",
+          "summary": "한국과 미국은 약 3,500억달러 규모의 대미 제조업 투자 패키지 집행과 반도체 등 전략 산업 협력을 계속 논의했다. 한국 측은 투자 프로젝트의 상업적 타당성을 핵심 쟁점으로 제시했고 양국은 후속 협의를 이어가기로 했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-us-investment-talks-20260918",
-          "title": "한미 투자 패키지 협상, 상업성·수익배분이 핵심 쟁점",
-          "source": "Reuters",
-          "publishedAt": "2026-09-18T03:11:00Z",
-          "updatedAt": "2026-09-19T08:52:51Z",
-          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-commercial-viability-sticking-point-us-investment-talks-2026-09-18/",
-          "summary": "이재명 대통령은 대미 투자 패키지 협상에서 사업의 상업적 타당성과 수익·손실 배분 방식이 핵심 쟁점이라고 밝혔다. 한국은 기존 무역합의에 따라 미국 제조업에 3,500억달러 투자를 약속했으며 세부 프로젝트의 조건을 놓고 양국 협의가 이어지고 있다.",
-          "impact": "high",
+          "id": "korea-skhynix-ventures-20260918",
+          "title": "SK하이닉스, 실리콘밸리에 'SK hynix Ventures' 출범",
+          "source": "SK hynix",
+          "publishedAt": "2026-09-18",
+          "updatedAt": "2026-09-19T22:51:52Z",
+          "url": "https://news.skhynix.com/en/sk-hynix-ventures/",
+          "summary": "SK하이닉스는 실리콘밸리에 신규 CVC 브랜드 'SK hynix Ventures'를 출범하고 투자 범위를 반도체에서 AI 컴퓨팅, 데이터센터, 시스템 소프트웨어, 광인터커넥트 등으로 넓혔다. AI 인프라 생태계 전반에서 전략적 투자와 기술 협력을 강화하려는 움직임이다.",
+          "impact": "medium",
           "region": "South Korea"
         }
       ]
@@ -98,15 +87,15 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-bitcoin-rebound-20260918",
-          "title": "비트코인 5.9% 상승해 8만1천달러…3거래일 연속 반등",
-          "source": "Reuters",
-          "publishedAt": "2026-09-18T00:59:00Z",
-          "updatedAt": "2026-09-19T08:52:51Z",
-          "url": "https://www.reuters.com/world/asia-pacific/yen-weak-ahead-boj-decision-rate-hike-expected-2026-09-18/",
-          "summary": "비트코인은 18일 5.9% 상승한 8만1천달러로 올라 3거래일 연속 반등했다. 미국 상원의 포괄적 암호화폐 법안 처리 실패로 급락했던 이후 낙폭을 되돌리는 흐름이 이어졌다.",
-          "impact": "medium",
-          "region": "Global"
+          "id": "crypto-sec-tokenized-stock-exemption-20260917",
+          "title": "SEC, 토큰화 주식 거래에 5년 조건부 규제 특례 도입",
+          "source": "U.S. Securities and Exchange Commission",
+          "publishedAt": "2026-09-17",
+          "updatedAt": "2026-09-19T22:51:52Z",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+          "summary": "미 SEC는 일정 요건을 충족하는 토큰화 NMS 주식 거래 플랫폼에 거래소 등록 규정 등을 한시적으로 면제하는 'Innovation Exemption'을 도입했다. 토큰화 주식은 기존 주식과 동등한 권리를 보장해야 하며 해당 특례는 공표 후 5년간 적용된다.",
+          "impact": "high",
+          "region": "US"
         }
       ]
     }
