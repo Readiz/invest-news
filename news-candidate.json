@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-09-20T22:47:29Z",
-  "headline": "중동 긴장이 다시 유가를 끌어올리고 연준 인사도 광범위한 물가 압력을 재확인하면서 글로벌 시장의 금리·에너지 부담이 이어지고 있다. 미중은 AI·관세·핵심광물을 놓고 고위급 협의를 시작했고, 한국 증시는 삼성전자·SK하이닉스 자사주 매입과 애프터마켓 유동성 변화가 주요 수급 이슈로 부각됐다.",
+  "updatedAt": "2026-09-21T02:49:46Z",
+  "headline": "미중이 AI 안전·관세를 놓고 고위급 협의를 이어가고 중국은 기준 대출금리를 동결한 가운데, 이란 전쟁의 외교 가능성과 사우디 수출 회복 기대가 국제유가를 일주일여 만의 저점으로 끌어내렸다. 미국 AI 투자 경쟁에서는 소프트뱅크의 대규모 OpenAI 자금조달이 부각됐고, 한국 증시는 외국인·기관 매수와 반도체 강세에 장중 코스피 7,000선을 다시 넘었다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-us-china-ai-trade-talks-20260920",
-          "title": "미중, AI·관세·핵심광물 고위급 협의 시작",
-          "source": "Reuters",
-          "publishedAt": "2026-09-20T05:06:00Z",
-          "updatedAt": "2026-09-20T22:47:29Z",
-          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20/",
-          "summary": "스콧 베선트 미 재무장관과 허리펑 중국 부총리는 뉴욕에서 AI 안전장치, 관세, 희토류·핵심광물 공급을 논의하기 시작했다. 미중 정상회담과 11월 무역 휴전 만료를 앞둔 협의여서 기술 규제와 공급망 정책의 향방이 핵심 변수다.",
-          "impact": "high",
-          "region": "Global"
-        },
-        {
-          "id": "macro-fed-kashkari-inflation-20260920",
-          "title": "연준 카시카리, 에너지 제외해도 인플레이션 여전히 높다고 평가",
-          "source": "Reuters",
-          "publishedAt": "2026-09-20T15:06:00Z",
-          "updatedAt": "2026-09-20T22:47:29Z",
-          "url": "https://www.reuters.com/business/feds-kashkari-says-inflation-goes-beyond-oil-prices-according-fox-news-interview-2026-09-20/",
-          "summary": "닐 카시카리 미니애폴리스 연은 총재는 식품과 에너지를 제외해도 서비스 등 경제 전반의 물가 압력이 여전히 높다고 밝혔다. 최근 연준의 25bp 인상을 지지했으며, 성장과 생산성은 견조하다고 평가했다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "macro-oil-houthi-riyadh-20260920",
-          "title": "후티의 리야드 공격 이후 국제유가 상승…브렌트 104달러대",
+          "id": "macro-oil-diplomacy-saudi-20260921",
+          "title": "국제유가, 이란 외교 기대·사우디 수출 회복에 일주일여 만의 저점",
           "source": "Reuters",
           "publishedAt": "2026-09-20T22:10:00Z",
-          "updatedAt": "2026-09-20T22:47:29Z",
+          "updatedAt": "2026-09-21T02:49:46Z",
           "url": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20/",
-          "summary": "예멘 후티가 사우디아라비아 수도 리야드를 미사일과 드론으로 공격한 뒤 브렌트유가 배럴당 104.68달러, WTI가 101.06달러로 상승했다. 중동 긴장 재확대로 에너지 가격과 인플레이션 경로에 대한 불확실성이 다시 커졌다.",
+          "summary": "유엔 총회를 계기로 이란 전쟁의 외교적 완화 가능성이 거론되고 사우디 원유 수출이 회복되면서 브렌트유와 WTI가 9월 10일 이후 최저 수준으로 하락했다. 다만 후티의 리야드 공격과 호르무즈 해협 리스크는 여전히 남아 있어 중동발 공급 불확실성은 지속되고 있다.",
           "impact": "high",
           "region": "Global"
+        },
+        {
+          "id": "macro-us-china-ai-safety-talks-20260920",
+          "title": "미중, AI 안전 통보체계·관세 완화 논의…정상회담 전 조율",
+          "source": "Reuters",
+          "publishedAt": "2026-09-20T05:06:00Z",
+          "updatedAt": "2026-09-21T02:49:46Z",
+          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20/",
+          "summary": "미 재무장관 스콧 베선트와 중국 부총리 허리펑은 AI 관련 국가안보 사고를 상호 통보하는 체계와 비전략 품목 관세 인하 절차를 논의했다. 미중 정상회담을 앞둔 사전 조율로 기술 규제와 무역 긴장 완화 여부가 글로벌 공급망의 핵심 변수로 부상했다.",
+          "impact": "high",
+          "region": "Global"
+        },
+        {
+          "id": "macro-china-lpr-hold-20260920",
+          "title": "중국, 9월 LPR 16개월 연속 동결…1년물 3.00%·5년물 3.50%",
+          "source": "Reuters",
+          "publishedAt": "2026-09-20T01:34:00Z",
+          "updatedAt": "2026-09-21T02:49:46Z",
+          "url": "https://www.reuters.com/business/finance/china-keeps-benchmark-lending-rates-unchanged-16th-month-september-2026-09-20/",
+          "summary": "중국은 1년물 대출우대금리를 3.00%, 5년물을 3.50%로 유지해 16개월 연속 동결했다. 주요국 중앙은행의 매파적 기조와 높은 미중 금리차 속에서 추가 통화완화 여력이 제한적이라는 신호로 해석된다.",
+          "impact": "high",
+          "region": "China"
         }
       ]
     },
@@ -44,13 +44,24 @@
       "id": "us",
       "items": [
         {
+          "id": "us-softbank-openai-bonds-20260921",
+          "title": "소프트뱅크, OpenAI 투자 위해 100억달러 넘는 채권 발행 추진",
+          "source": "Reuters",
+          "publishedAt": "2026-09-21T01:43:00Z",
+          "updatedAt": "2026-09-21T02:49:46Z",
+          "url": "https://www.reuters.com/business/media-telecom/softbank-group-launches-over-10-billion-bonds-openai-investment-term-sheet-shows-2026-09-21/",
+          "summary": "소프트뱅크는 OpenAI 후속 투자 3차분을 조달하기 위해 100억달러와 10억유로 규모의 선순위 무담보채 발행을 시작했다. 대규모 외부 자금조달이 이어지면서 미국 AI 인프라·모델 경쟁에 투입되는 자본 규모가 다시 부각됐다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
           "id": "us-ai-adviser-policy-20260919",
-          "title": "미국, 새 AI 자문역·전담 조직 추진…규제 완화 기조 재확인",
+          "title": "트럼프, 새 AI 자문역·전담 조직 추진…규제 완화 기조 재확인",
           "source": "Reuters",
           "publishedAt": "2026-09-19T17:25:00Z",
-          "updatedAt": "2026-09-20T22:47:29Z",
+          "updatedAt": "2026-09-21T02:49:46Z",
           "url": "https://www.reuters.com/world/us/trump-says-he-will-create-ai-force-name-ai-czar-2026-09-19/",
-          "summary": "도널드 트럼프 미국 대통령은 새 AI 자문역과 'AI force'를 만들겠다고 밝혔지만 구체적인 운영 방식은 제시하지 않았다. 동시에 AI 산업의 성장을 저해하지 않겠다는 기존 규제 완화 기조를 재확인해 미국 AI·빅테크 정책 환경의 방향성이 다시 부각됐다.",
+          "summary": "도널드 트럼프 미국 대통령은 새 AI 자문역을 임명하고 별도 AI 전담 조직을 만들겠다고 밝혔지만 구체적인 운영 방식은 제시하지 않았다. 동시에 산업 성장을 저해하는 규제를 최소화하겠다는 입장을 재확인해 미국 AI 정책의 친산업적 방향성이 이어지고 있음을 보여줬다.",
           "impact": "medium",
           "region": "US"
         }
@@ -60,36 +71,14 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-samsung-sk-hynix-buybacks-20260920",
-          "title": "삼성전자·SK하이닉스 자사주 매입, 이르면 10월 중순 종료 전망",
+          "id": "korea-kospi-7000-recovery-20260921",
+          "title": "코스피 장중 7,000선 회복…외국인·기관 매수와 반도체 강세",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-19T21:05:00Z",
-          "updatedAt": "2026-09-20T22:47:29Z",
-          "url": "https://www.yna.co.kr/view/AKR20260919023400008",
-          "summary": "삼성전자와 SK하이닉스는 계획 물량의 각각 약 74.7%, 58.8%를 이미 매입했고 누적 매입액은 합산 약 34조7천억원이다. 현재 속도가 이어지면 당초 11월보다 이른 10월 중순께 매입이 끝날 수 있어 이후 대형 반도체주의 수급 변화가 주목된다.",
+          "publishedAt": "2026-09-21T00:35:00Z",
+          "updatedAt": "2026-09-21T02:49:46Z",
+          "url": "https://www.yna.co.kr/amp/view/AKR20260921033051008",
+          "summary": "코스피는 21일 장 초반 외국인과 기관의 동반 순매수에 힘입어 한때 7,000선을 웃돌았다. 삼성전자가 3%대 상승하고 SK하이닉스도 강세를 보이며 반도체 대형주가 지수 상승을 주도했다.",
           "impact": "high",
-          "region": "South Korea"
-        },
-        {
-          "id": "korea-etf-overseas-share-20260920",
-          "title": "국내 운용사, 하반기 신규 ETF 40.5% 해외형",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-19T21:20:00Z",
-          "updatedAt": "2026-09-20T22:47:29Z",
-          "url": "https://www.yna.co.kr/amp/view/AKR20260919036200008",
-          "summary": "올해 하반기 신규 상장 ETF 37개 가운데 해외형은 15개로 40.5%를 차지해 상반기 27.2%보다 비중이 높아졌다. 국내 증시 조정 국면에서 미국 AI·반도체와 글로벌 자산을 활용한 상품 출시가 다시 늘고 있다.",
-          "impact": "medium",
-          "region": "South Korea"
-        },
-        {
-          "id": "korea-krx-aftermarket-first-week-20260920",
-          "title": "KRX 애프터마켓 첫 주 일평균 거래대금 1.15조원…정규장의 4.5%",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-20T03:41:00Z",
-          "updatedAt": "2026-09-20T22:47:29Z",
-          "url": "https://www.yna.co.kr/view/AKR20260919033200008",
-          "summary": "KRX 애프터마켓은 개장 첫 주 일평균 1조1천476억원을 거래해 정규장 거래대금의 약 4.5%를 추가로 소화했다. 첫날 이후 거래 비중이 4% 안팎으로 낮아져 장시간 연장이 지속적인 유동성 확대와 외국인 참여로 이어질지가 과제로 남았다.",
-          "impact": "medium",
           "region": "South Korea"
         }
       ]
