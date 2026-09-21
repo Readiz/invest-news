@@ -1,29 +1,40 @@
 {
-  "updatedAt": "2026-09-21T08:49:35Z",
-  "headline": "유럽의 가스 가격 급등이 물가로 더 빠르게 전이될 수 있다는 ECB 분석이 나온 가운데, 미중 정상회담 일정이 확정되며 무역·AI 규제 협상이 이번 주 핵심 거시 변수로 부상했다. 한국 증시는 반도체 강세로 코스피 7,000선을 회복했고, 미국 금융시장에서는 AI 투자 자금조달과 레버리지 리스크에 대한 규제당국의 점검이 동시에 부각됐다.",
+  "updatedAt": "2026-09-21T22:50:51Z",
+  "headline": "국제유가는 미·이란 외교 기대와 사우디 수출 회복으로 급락하고, 미국 증시는 AI·반도체 강세에 S&P 500과 나스닥이 큰 폭으로 반등했다. 미중 정상회담과 유럽 에너지발 인플레이션 리스크가 거시 변수로 남는 가운데, 한국 코스피도 반도체 주도로 7,000선을 회복했고 ECB는 블록체인 결제 인프라를 가동했다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-europe-gas-inflation-20260921",
-          "title": "ECB, 유럽 가스 급등이 물가에 과거보다 빠르게 전이될 수 있다고 평가",
+          "id": "macro-ecb-gas-inflation-20260921",
+          "title": "ECB, 유럽 가스 급등의 물가 전이가 과거보다 빨라질 수 있다고 평가",
           "source": "Reuters",
           "publishedAt": "2026-09-21T08:01:00Z",
-          "updatedAt": "2026-09-21T08:49:35Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
           "url": "https://www.reuters.com/business/energy/europes-gas-price-surge-may-feed-into-inflation-more-quickly-ecb-finds-2026-09-21/",
-          "summary": "ECB는 이란 전쟁과 낮은 유럽 가스 재고로 도매 천연가스 가격이 전년 대비 140% 넘게 오른 가운데, 가스 가격 충격이 소매 물가에 과거보다 더 빠르게 반영될 수 있다고 분석했다. 다만 재생에너지 비중 확대 덕분에 전기요금으로의 전이 강도는 이전보다 약해졌다고 평가했다.",
+          "summary": "ECB는 유럽 도매 천연가스 가격이 전년 대비 140% 넘게 오른 가운데 가스 가격 충격이 소비자물가에 과거보다 빠르게 반영될 수 있다고 분석했다. 재생에너지 확대 덕분에 전기요금으로의 전이는 과거보다 약해졌지만, 유로존 물가가 이미 3%를 웃도는 상황에서 금리 부담을 키울 수 있는 변수다.",
           "impact": "high",
           "region": "Europe"
         },
         {
-          "id": "macro-xi-us-visit-20260921",
-          "title": "시진핑, 9월 23~25일 미국 국빈 방문…트럼프와 정상회담",
+          "id": "macro-us-china-summit-trade-20260921",
+          "title": "미중 정상회담 앞두고 무역휴전·AI 안전장치가 핵심 의제로 부상",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T07:33:00Z",
-          "updatedAt": "2026-09-21T08:49:35Z",
-          "url": "https://www.reuters.com/world/china/chinas-xi-visit-us-september-23-25-2026-09-21/",
-          "summary": "중국 외교부는 시진핑 주석이 9월 23~25일 미국을 국빈 방문해 도널드 트럼프 대통령과 회담한다고 발표했다. 무역 휴전 연장과 AI 안전장치, 비민감 품목 교역 등이 핵심 의제로 거론돼 글로벌 공급망과 기술 규제 방향에 영향을 줄 수 있는 일정이다.",
+          "publishedAt": "2026-09-21T02:50:00Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
+          "url": "https://www.reuters.com/world/china/xi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-2026-09-21/",
+          "summary": "트럼프 대통령과 시진핑 주석은 9월 24일 워싱턴에서 회담할 예정이며, 무역휴전 연장과 AI 안전장치·비민감 품목 교역이 핵심 의제로 거론되고 있다. 중국의 연간 무역흑자가 1조달러를 다시 넘을 전망인 가운데 양국의 관세·공급망 협상 방향이 글로벌 시장 변수로 부각됐다.",
+          "impact": "high",
+          "region": "Global"
+        },
+        {
+          "id": "macro-oil-us-iran-diplomacy-20260920",
+          "title": "국제유가 급락…미·이란 외교 기대와 사우디 수출 회복 영향",
+          "source": "Reuters",
+          "publishedAt": "2026-09-20T22:10:00Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
+          "url": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20/",
+          "summary": "브렌트유는 3.4% 내린 배럴당 100.34달러, WTI 10월물은 4.51% 하락한 95.78달러로 마감하며 9월 9일 이후 최저 수준으로 내려왔다. 유엔 총회를 계기로 한 미·이란 외교 기대와 사우디의 호르무즈 경유 수출 회복이 공급 불안 우려를 일부 완화했다.",
           "impact": "high",
           "region": "Global"
         }
@@ -33,25 +44,36 @@
       "id": "us",
       "items": [
         {
-          "id": "us-softbank-openai-bonds-20260921",
-          "title": "소프트뱅크, OpenAI 투자 위해 100억달러·10억유로 채권 발행 추진",
+          "id": "us-wall-st-ai-rally-20260921",
+          "title": "미 증시, AI·반도체 강세에 급등…나스닥 2.3% 상승",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T01:43:00Z",
-          "updatedAt": "2026-09-21T08:49:35Z",
-          "url": "https://www.reuters.com/business/media-telecom/softbank-group-launches-over-10-billion-bonds-openai-investment-term-sheet-shows-2026-09-21/",
-          "summary": "소프트뱅크는 OpenAI 후속 투자 3차분 등을 조달하기 위해 100억달러와 10억유로 규모의 선순위 무담보채 발행을 시작했다. 미국 AI 산업에 투입되는 자본 규모가 계속 확대되는 동시에 대규모 외부 차입을 통한 투자 경쟁도 심화되고 있다.",
+          "publishedAt": "2026-09-21T21:00:00Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
+          "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-21/",
+          "summary": "S&P 500은 1.5%, 나스닥은 2.3% 상승했고 반도체주는 약 4% 올랐다. 국제유가가 나흘 연속 하락한 가운데 Intel이 12%, Meta와 AMD가 각각 약 11% 상승하며 AI 관련 위험선호가 다시 강해졌다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-fed-boe-trading-firm-exposure-20260921",
-          "title": "Fed·BoE, Jane Street 대규모 손실 뒤 은행의 트레이딩 업체 익스포저 점검 강화",
+          "id": "us-iambic-ipo-20260921",
+          "title": "엔비디아 투자 Iambic Therapeutics, 미국 IPO 신청",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T05:08:00Z",
-          "updatedAt": "2026-09-21T08:49:35Z",
-          "url": "https://www.reuters.com/business/finance/us-fed-boe-step-up-scrutiny-bank-exposure-trading-firms-after-jane-street-loss-2026-09-21/",
-          "summary": "Reuters는 Financial Times를 인용해 Fed와 영란은행이 Jane Street의 대규모 손실 이후 글로벌 은행들에 대형 트레이딩 업체 익스포저와 장중 리스크 관리 자료를 요구하고 있다고 전했다. AI·반도체 주식 급락과 레버리지 거래가 금융기관 건전성 점검으로 이어진 사례다.",
-          "impact": "high",
+          "publishedAt": "2026-09-21T21:41:00Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
+          "url": "https://www.reuters.com/legal/litigation/nvidia-qia-backed-iambic-therapeutics-files-us-ipo-biotech-boom-rolls-2026-09-21/",
+          "summary": "엔비디아와 카타르투자청이 투자한 AI 신약개발사 Iambic Therapeutics가 나스닥 상장을 위한 IPO 서류를 제출했다. 회사는 설립 이후 약 4억6,180만달러를 조달했고 AbbVie 등과 AI 기반 신약개발 협업을 진행하고 있다.",
+          "impact": "medium",
+          "region": "US"
+        },
+        {
+          "id": "us-lockheed-prsm-contract-20260921",
+          "title": "Lockheed Martin, 미 육군과 최대 12억달러 PrSM 계약",
+          "source": "Reuters",
+          "publishedAt": "2026-09-21T22:20:00Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
+          "url": "https://www.reuters.com/business/aerospace-defense/lockheed-wins-us-army-missile-contract-worth-up-12-billion-2026-09-21/",
+          "summary": "Lockheed Martin은 미 육군의 차세대 장거리 정밀타격미사일 PrSM Increment 2 생산을 위해 최대 12억달러 규모 계약을 확보했다. 회사는 장거리 정밀타격 수요 증가에 맞춰 연간 생산능력을 550발로 확대하는 계획도 추진하고 있다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -60,35 +82,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-close-7007-20260921",
-          "title": "코스피 1.65% 상승해 7,007.72 마감…삼성전자 4.98% 급등",
+          "id": "korea-kospi-7007-chip-rally-20260921",
+          "title": "코스피 1.65% 상승해 7,007.72 마감…반도체주 강세",
           "source": "연합뉴스",
           "publishedAt": "2026-09-21T07:39:00Z",
-          "updatedAt": "2026-09-21T08:49:35Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
           "url": "https://en.yna.co.kr/view/AEN20260921006852320",
-          "summary": "코스피는 기관의 1조4,900억원 순매수와 반도체 강세에 힘입어 1.65% 오른 7,007.72로 마감하며 사흘 연속 상승했다. 삼성전자는 4.98% 상승했고 SK하이닉스도 0.59% 올라 중동 긴장과 고유가 부담을 상쇄했다.",
+          "summary": "코스피는 기관의 1조4,900억원 순매수와 반도체 강세에 힘입어 1.65% 오른 7,007.72로 마감했다. 삼성전자는 4.98% 상승했고 SK하이닉스도 0.59% 오르며 지수 상승을 주도했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-us-investment-package-risk-20260921",
-          "title": "한미 3,500억달러 투자 패키지 협상, 에너지 사업 손익배분 논란 부각",
-          "source": "Reuters",
-          "publishedAt": "2026-09-21T08:07:00Z",
-          "updatedAt": "2026-09-21T08:49:35Z",
-          "url": "https://www.reuters.com/world/asia-pacific/south-korean-opposition-lawmaker-warns-risks-us-investment-package-2026-09-21/",
-          "summary": "한국과 미국이 3,500억달러 규모 대미 투자 패키지의 구체적 사업을 조율하는 가운데 텍사스 가스발전소와 최대 8기의 원전 사업에서 자금조달과 수익·손실 배분이 핵심 쟁점으로 부상했다. 정부의 국회 보고도 협상 지속을 이유로 미뤄져 최종 조건에 대한 불확실성이 이어지고 있다.",
-          "impact": "high",
-          "region": "South Korea"
-        },
-        {
-          "id": "korea-public-housing-plan-20260921",
-          "title": "정부, 2030년까지 공공분양·임대주택 119만호 공급 계획",
+          "id": "korea-us-japan-economic-energy-talks-20260921",
+          "title": "한미일 외교장관, 뉴욕서 경제·에너지 협력 논의",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-21T07:00:00Z",
-          "updatedAt": "2026-09-21T08:49:35Z",
-          "url": "https://en.yna.co.kr/view/AEN20260921006600320",
-          "summary": "국토교통부는 수도권 집값 압력에 대응해 2030년까지 공공분양·임대주택 119만호를 공급하는 계획을 발표했다. 전체 공급의 약 77%를 수도권에 배치하고 공공택지 신축과 민간주택 매입 등 다양한 방식을 활용할 예정이다.",
+          "publishedAt": "2026-09-21T08:52:00Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
+          "url": "https://en.yna.co.kr/view/AEN20260921010200315",
+          "summary": "한미일 외교장관은 뉴욕에서 경제·에너지 협력과 지역 안보 현안을 논의할 예정이며 북극항로·에너지 공급 협력 MOU 가능성도 거론됐다. 한국과 미국은 최근 대미 투자 약속과 호르무즈 해협 항행 안전 문제도 별도로 협의해 관련 공급망·에너지 정책의 연계성이 커지고 있다.",
           "impact": "medium",
           "region": "South Korea"
         }
@@ -96,7 +107,19 @@
     },
     {
       "id": "crypto",
-      "items": []
+      "items": [
+        {
+          "id": "crypto-ecb-pontes-blockchain-20260921",
+          "title": "ECB, 블록체인 금융시장과 중앙은행 결제망 연결하는 Pontes 가동",
+          "source": "Reuters",
+          "publishedAt": "2026-09-21T10:02:00Z",
+          "updatedAt": "2026-09-21T22:50:51Z",
+          "url": "https://www.reuters.com/business/finance/ecb-opens-blockchain-link-financial-markets-2026-09-21/",
+          "summary": "ECB는 블록체인 기반 금융거래를 중앙은행 화폐로 결제할 수 있도록 기존 결제망과 연결하는 Pontes 서비스를 시작했다. Deutsche Bank·Santander·Clearstream 등이 초기 참여자로 등록했고, ECB는 자체자금의 일부를 블록체인 기반 고등급 유로채권에도 투자할 계획이다.",
+          "impact": "high",
+          "region": "Europe"
+        }
+      ]
     }
   ]
 }
