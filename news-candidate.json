@@ -1,40 +1,29 @@
 {
-  "updatedAt": "2026-09-22T08:51:33Z",
-  "headline": "국제유가는 미·이란 대화 기대와 공급 회복 신호 속에서도 중동 공급 불확실성 때문에 다시 반등했고, 미중 정상회담을 앞두고 무역휴전·AI 규제가 핵심 거시 변수로 부상했다. 미국과 한국 증시는 AI·반도체 강세가 이어졌지만, 한국은행은 가계부채와 주택가격을 중심으로 금융불균형 경계를 강화했다.",
+  "updatedAt": "2026-09-22T22:47:38Z",
+  "headline": "연준 인사들이 물가 위험을 이유로 추가 긴축 가능성을 열어둔 가운데, 사우디의 동서횡단 송유관 재가동으로 중동 원유 공급 불안은 일부 완화됐다. 미국에서는 AI·반도체 강세로 나스닥이 최고치를 경신했지만 AI 기업의 대규모 부채 조달과 암호화폐 규제 리스크도 부각됐고, 한국은행은 가계부채와 주택가격을 다시 경고했다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-oil-us-iran-talks-20260922",
-          "title": "국제유가 반등…미·이란 대화 기대 속 공급 불확실성 지속",
+          "id": "macro-fed-barkin-inflation-20260922",
+          "title": "연준 바킨, 경기 견조·물가 위험 우위 평가…추가 인상 가능성 열어둬",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T00:34:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
-          "url": "https://www.reuters.com/business/energy/oil-rises-slightly-ahead-potential-us-iran-talks-2026-09-22/",
-          "summary": "브렌트유와 WTI는 미·이란 대화 가능성을 주시하는 가운데 나흘 연속 하락 뒤 반등했다. 사우디의 호르무즈 수출 회복에도 리비아 생산 차질과 중동 긴장이 남아 있어 공급 경로의 불확실성이 이어지고 있다.",
+          "publishedAt": "2026-09-22T16:53:00Z",
+          "updatedAt": "2026-09-22T22:47:38Z",
+          "url": "https://www.reuters.com/business/feds-barkin-says-economy-may-be-firming-inflation-not-limited-energy-tariff-2026-09-22/",
+          "summary": "토머스 바킨 리치먼드 연은 총재는 미국 경제가 오히려 강해지고 있으며 물가 위험이 고용 위험보다 크다고 평가했다. 지난주 금리 인상이 물가 안정에 도움이 될 것이라면서 추가 인상 여부는 향후 지표에 달렸다고 밝혔다.",
           "impact": "high",
-          "region": "Global"
+          "region": "US"
         },
         {
-          "id": "macro-germany-growth-forecast-20260922",
-          "title": "독일 주요 연구기관, 2026·2027 성장률 전망 상향",
+          "id": "macro-saudi-east-west-pipeline-20260922",
+          "title": "사우디, 동서횡단 송유관 재가동…중동 원유 공급 우려 일부 완화",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T08:23:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
-          "url": "https://www.reuters.com/business/german-institutes-raise-2026-2027-economic-growth-forecasts-sources-say-2026-09-22/",
-          "summary": "독일 주요 경제연구기관들은 2026년 성장률 전망을 0.6%에서 1.3%로, 2027년 전망을 0.9%에서 1.1%로 높였다. 유럽 최대 경제의 경기 회복 기대가 강화됐다는 점에서 유로존 성장·금리 경로에 영향을 줄 수 있는 변화다.",
-          "impact": "medium",
-          "region": "Europe"
-        },
-        {
-          "id": "macro-us-china-summit-trade-20260921",
-          "title": "미중 정상회담 24일 개최…무역휴전 연장·AI 규제가 핵심 의제",
-          "source": "Reuters",
-          "publishedAt": "2026-09-21T02:50:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
-          "url": "https://www.reuters.com/world/china/xi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-2026-09-21/",
-          "summary": "트럼프 대통령과 시진핑 주석은 9월 24일 워싱턴에서 만나 무역휴전 연장과 AI 안전장치 등을 논의할 예정이다. 중국의 연간 무역흑자가 다시 1조달러를 넘을 가능성이 커진 상황에서 관세·공급망 협상이 글로벌 시장의 핵심 변수로 부상했다.",
+          "publishedAt": "2026-09-22T10:08:00Z",
+          "updatedAt": "2026-09-22T22:47:38Z",
+          "url": "https://www.reuters.com/business/energy/saudi-arabia-restarts-east-west-oil-pipeline-resume-exports-yanbu-sources-say-2026-09-22/",
+          "summary": "사우디아라비아는 드론 공격으로 중단됐던 동서횡단 송유관을 낮은 가동률로 재가동하고 홍해 얀부항 수출 재개를 준비했다. 약 하루 400만배럴을 호르무즈 해협을 우회해 운송하던 통로가 복구되기 시작하면서 브렌트유는 배럴당 97달러 부근까지 하락했다.",
           "impact": "high",
           "region": "Global"
         }
@@ -44,36 +33,36 @@
       "id": "us",
       "items": [
         {
-          "id": "us-nasdaq-record-ai-rally-20260921",
-          "title": "나스닥 사상 최고치…AI·반도체 강세와 금리·유가 하락이 견인",
+          "id": "us-nasdaq-record-ai-20260922",
+          "title": "나스닥 이틀 연속 최고치…마이크론 등 AI 반도체 강세",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T09:38:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
-          "url": "https://www.reuters.com/business/wall-st-futures-rise-ai-stocks-gain-oil-prices-slide-2026-09-21/",
-          "summary": "나스닥은 2.26% 상승해 사상 최고 종가를 기록했고 S&P 500도 1.49% 올랐다. 반도체 지수가 4.3% 급등한 가운데 미 10년물 금리가 5% 아래로 내려가고 유가도 하락하면서 성장주 투자심리가 개선됐다.",
+          "publishedAt": "2026-09-22T10:19:00Z",
+          "updatedAt": "2026-09-22T22:47:38Z",
+          "url": "https://www.reuters.com/business/wall-st-futures-pause-after-ai-rally-focus-mideast-tensions-2026-09-22/",
+          "summary": "나스닥은 0.45% 오른 27,244.28로 이틀 연속 사상 최고 종가를 기록했고 마이크론과 샌디스크 등 반도체주가 강세를 보였다. S&P 500은 보합권, 다우는 0.36% 하락해 AI 관련주와 금융·소비 관련주의 흐름이 엇갈렸다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-amd-trillion-market-cap-20260921",
-          "title": "AMD, AI 수요 기대에 시가총액 1조달러 첫 돌파",
+          "id": "us-ai-corporate-debt-20260922",
+          "title": "AI 기업 회사채 공급 급증에 채권 투자자 선별 강화",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T14:21:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
-          "url": "https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/",
-          "summary": "AMD 주가는 약 9.6% 상승하며 처음으로 시가총액 1조달러를 넘어섰고 미국 반도체 기업 중 네 번째로 해당 수준에 도달했다. AI 시스템 사업 확대와 서버 CPU 점유율 상승 기대가 최근 반도체 랠리의 핵심 동력으로 작용했다.",
+          "publishedAt": "2026-09-22T10:04:00Z",
+          "updatedAt": "2026-09-22T22:47:38Z",
+          "url": "https://www.reuters.com/legal/transactional/corporate-bond-buyers-get-picky-with-flood-ai-debt-2026-09-22/",
+          "summary": "데이터센터와 AI 인프라 투자를 위한 차입이 급증하면서 투자자들이 AI 관련 우량 회사채에 더 큰 금리 가산폭을 요구하고 있다. 골드만삭스는 하이퍼스케일러의 2027년 총 회사채 발행이 4,200억달러로 2026년 추정치보다 60% 늘어날 것으로 봤다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-openai-softbank-bonds-20260921",
-          "title": "소프트뱅크, OpenAI 투자 위해 110억달러 규모 채권 발행 추진",
+          "id": "us-bessent-ai-czar-20260922",
+          "title": "미 재무장관 베선트, 새 AI 총괄 역할 후보로 거론",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T01:43:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
-          "url": "https://www.reuters.com/business/media-telecom/softbank-group-launches-over-10-billion-bonds-openai-investment-term-sheet-shows-2026-09-21/",
-          "summary": "소프트뱅크는 OpenAI 후속 투자 자금 등을 마련하기 위해 100억달러와 10억유로 규모의 선순위 무담보채 발행에 나섰다. 계획대로 발행되면 아시아태평양·일본 비금융 기업 사상 최대 규모의 회사채 거래가 될 수 있다.",
-          "impact": "high",
+          "publishedAt": "2026-09-22T21:55:00Z",
+          "updatedAt": "2026-09-22T22:47:38Z",
+          "url": "https://www.reuters.com/business/us-treasury-secretary-could-take-ai-czar-role-source-says-2026-09-22/",
+          "summary": "스콧 베선트 미 재무장관이 트럼프 행정부가 신설하려는 AI 총괄 역할의 후보로 검토되고 있는 것으로 전해졌다. 미 행정부는 AI 규제 확대에는 신중한 입장을 유지하면서 미중 AI 안전·국가안보 협의도 병행하고 있다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
@@ -82,35 +71,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-close-ai-chips-20260922",
-          "title": "코스피 7,017.91 마감…AI 낙관론에 반도체 중심 3거래일 연속 상승",
+          "id": "korea-kospi-close-chips-20260922",
+          "title": "코스피 7,017.91 마감…반도체 강세 속 3거래일 연속 상승",
           "source": "연합뉴스",
           "publishedAt": "2026-09-22T07:02:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
+          "updatedAt": "2026-09-22T22:47:38Z",
           "url": "https://en.yna.co.kr/view/AEN20260922006751320",
-          "summary": "코스피는 장중 7,171.44까지 오른 뒤 0.15% 상승한 7,017.91로 마감해 3거래일 연속 상승했다. 삼성전자는 0.91% 올랐지만 SK하이닉스는 장중 상승분을 반납해 1.5% 하락하는 등 장 후반 차익실현이 나타났다.",
-          "impact": "high",
-          "region": "South Korea"
-        },
-        {
-          "id": "korea-us-investment-texas-power-20260922",
-          "title": "한국, 3,500억달러 대미 투자 첫 사업으로 텍사스 가스발전소 선정",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-22T02:40:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
-          "url": "https://en.yna.co.kr/view/AEN20260922004400315",
-          "summary": "한국 정부는 3,500억달러 규모 대미 투자 약속의 첫 사업으로 텍사스 대형 가스발전소 건설을 선정한 것으로 전해졌다. 후속 후보로 미국 내 원전 8기와 알래스카 LNG 프로젝트가 거론되며 한미 산업협력의 구체적 집행 단계가 시작됐다.",
+          "summary": "코스피는 장중 7,171.44까지 올랐다가 0.15% 상승한 7,017.91로 마감해 3거래일 연속 상승했다. 삼성전자는 0.91% 올랐고 SK하이닉스는 1.5% 하락하는 등 장 후반 차익실현으로 반도체주의 흐름이 엇갈렸다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
           "id": "korea-bok-financial-stability-20260922",
-          "title": "한국은행, 주택가격·가계부채 누적에 금융불균형 경계 강화",
+          "title": "한국은행, 주택가격·가계부채 누적에 금융불균형 경계",
           "source": "연합뉴스",
           "publishedAt": "2026-09-22T02:00:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
+          "updatedAt": "2026-09-22T22:47:38Z",
           "url": "https://en.yna.co.kr/view/AEN20260922001800320",
-          "summary": "한국은행은 금융안정보고서에서 주택가격 상승과 높은 가계부채로 금융불균형이 누적되고 있다고 경고했다. 3월 말 가계부채의 GDP 대비 비율은 85.3%였으며, 연준 정책 변화와 중동 리스크가 금융·외환시장 변동성을 키울 수 있다고 지적했다.",
+          "summary": "한국은행은 금융안정보고서에서 주택가격 상승 기대와 높은 가계부채로 금융불균형이 누적되고 있다고 진단했다. 3월 말 가계부채의 GDP 대비 비율은 85.3%로 장기평균 84%를 웃돌았다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -124,9 +102,9 @@
           "title": "미 검찰, 바이낸스의 이란 제재 위반 가능성 조사",
           "source": "Reuters",
           "publishedAt": "2026-09-22T02:04:00Z",
-          "updatedAt": "2026-09-22T08:51:33Z",
+          "updatedAt": "2026-09-22T22:47:38Z",
           "url": "https://www.reuters.com/legal/government/binance-under-us-scrutiny-over-possible-iran-sanctions-violations-bloomberg-news-2026-09-22/",
-          "summary": "미 연방 검찰은 바이낸스가 이란 관련 거래를 차단하지 않아 미국 제재를 위반했는지 조사 중인 것으로 전해졌다. 수사는 거래소가 문제 거래를 인지하고도 허용했는지에 초점을 맞추고 있어 대형 암호화폐 거래소의 규제 리스크가 다시 부각됐다.",
+          "summary": "미 연방 검찰은 바이낸스가 이란 관련 거래를 인지하고도 허용해 미국 제재를 위반했는지 조사하고 있다. 바이낸스는 제재 위반에 무관용 원칙을 적용하고 있으며 수사기관에 협조하고 있다고 밝혔다.",
           "impact": "high",
           "region": "US"
         }
