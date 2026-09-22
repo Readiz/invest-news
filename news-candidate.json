@@ -1,42 +1,31 @@
 {
-  "updatedAt": "2026-09-21T22:50:51Z",
-  "headline": "국제유가는 미·이란 외교 기대와 사우디 수출 회복으로 급락하고, 미국 증시는 AI·반도체 강세에 S&P 500과 나스닥이 큰 폭으로 반등했다. 미중 정상회담과 유럽 에너지발 인플레이션 리스크가 거시 변수로 남는 가운데, 한국 코스피도 반도체 주도로 7,000선을 회복했고 ECB는 블록체인 결제 인프라를 가동했다.",
+  "updatedAt": "2026-09-22T02:51:48Z",
+  "headline": "AI·반도체 랠리로 나스닥이 사상 최고치로 마감한 뒤 한국 증시도 반도체 중심 강세를 이어가고 있다. 다만 주요국 중앙은행의 매파적 기조와 한국은행의 금융불균형 경고가 금리 부담을 남기고 있으며, 암호화폐 시장에서는 바이낸스의 이란 제재 위반 가능성에 대한 미국 수사와 ECB의 블록체인 결제 인프라 확대가 동시에 부각됐다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-ecb-gas-inflation-20260921",
-          "title": "ECB, 유럽 가스 급등의 물가 전이가 과거보다 빨라질 수 있다고 평가",
+          "id": "macro-yen-hawkish-central-banks-20260922",
+          "title": "글로벌 중앙은행 매파 전환에 엔화 약세…미·일 금리차 재부각",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T08:01:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
-          "url": "https://www.reuters.com/business/energy/europes-gas-price-surge-may-feed-into-inflation-more-quickly-ecb-finds-2026-09-21/",
-          "summary": "ECB는 유럽 도매 천연가스 가격이 전년 대비 140% 넘게 오른 가운데 가스 가격 충격이 소비자물가에 과거보다 빠르게 반영될 수 있다고 분석했다. 재생에너지 확대 덕분에 전기요금으로의 전이는 과거보다 약해졌지만, 유로존 물가가 이미 3%를 웃도는 상황에서 금리 부담을 키울 수 있는 변수다.",
+          "publishedAt": "2026-09-22T00:53:00Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
+          "url": "https://www.reuters.com/world/asia-pacific/yen-squeezed-hawkish-turn-grips-central-banks-2026-09-22/",
+          "summary": "연준과 일본은행이 지난주 모두 금리를 올린 뒤 글로벌 중앙은행의 추가 긴축 기대가 커지면서 엔화가 달러 대비 약세를 보였다. 시장은 연준의 10월 추가 인상 가능성을 약 55%, 일본은행의 10월 인상 가능성을 약 30%로 반영하고 있다.",
           "impact": "high",
+          "region": "Global"
+        },
+        {
+          "id": "macro-germany-inflation-bundesbank-20260921",
+          "title": "독일 중앙은행, 에너지 비용 영향으로 물가 고점 지속 전망",
+          "source": "Reuters",
+          "publishedAt": "2026-09-21T10:04:00Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
+          "url": "https://www.reuters.com/business/finance/german-inflation-stay-high-growth-has-slowed-bundesbank-says-2026-09-21/",
+          "summary": "독일 중앙은행은 이란 분쟁에 따른 에너지 비용 상승과 내년 의료제도 개편 영향으로 물가가 당분간 높은 수준에 머물 것으로 예상했다. 동시에 수출과 소비 둔화로 여름 경기 모멘텀이 약해졌지만 연말에는 회복 가능성이 있다고 평가했다.",
+          "impact": "medium",
           "region": "Europe"
-        },
-        {
-          "id": "macro-us-china-summit-trade-20260921",
-          "title": "미중 정상회담 앞두고 무역휴전·AI 안전장치가 핵심 의제로 부상",
-          "source": "Reuters",
-          "publishedAt": "2026-09-21T02:50:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
-          "url": "https://www.reuters.com/world/china/xi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-2026-09-21/",
-          "summary": "트럼프 대통령과 시진핑 주석은 9월 24일 워싱턴에서 회담할 예정이며, 무역휴전 연장과 AI 안전장치·비민감 품목 교역이 핵심 의제로 거론되고 있다. 중국의 연간 무역흑자가 1조달러를 다시 넘을 전망인 가운데 양국의 관세·공급망 협상 방향이 글로벌 시장 변수로 부각됐다.",
-          "impact": "high",
-          "region": "Global"
-        },
-        {
-          "id": "macro-oil-us-iran-diplomacy-20260920",
-          "title": "국제유가 급락…미·이란 외교 기대와 사우디 수출 회복 영향",
-          "source": "Reuters",
-          "publishedAt": "2026-09-20T22:10:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
-          "url": "https://www.reuters.com/business/energy/oil-rises-after-houthi-attack-saudi-capital-2026-09-20/",
-          "summary": "브렌트유는 3.4% 내린 배럴당 100.34달러, WTI 10월물은 4.51% 하락한 95.78달러로 마감하며 9월 9일 이후 최저 수준으로 내려왔다. 유엔 총회를 계기로 한 미·이란 외교 기대와 사우디의 호르무즈 경유 수출 회복이 공급 불안 우려를 일부 완화했다.",
-          "impact": "high",
-          "region": "Global"
         }
       ]
     },
@@ -44,35 +33,35 @@
       "id": "us",
       "items": [
         {
-          "id": "us-wall-st-ai-rally-20260921",
-          "title": "미 증시, AI·반도체 강세에 급등…나스닥 2.3% 상승",
+          "id": "us-nasdaq-record-ai-rally-20260921",
+          "title": "나스닥 사상 최고치 마감…AI·반도체 강세와 금리 하락이 견인",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T21:00:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-21/",
-          "summary": "S&P 500은 1.5%, 나스닥은 2.3% 상승했고 반도체주는 약 4% 올랐다. 국제유가가 나흘 연속 하락한 가운데 Intel이 12%, Meta와 AMD가 각각 약 11% 상승하며 AI 관련 위험선호가 다시 강해졌다.",
+          "publishedAt": "2026-09-21T09:38:00Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
+          "url": "https://www.reuters.com/business/wall-st-futures-rise-ai-stocks-gain-oil-prices-slide-2026-09-21/",
+          "summary": "나스닥은 2.26% 상승해 6월 이후 처음으로 사상 최고 종가를 기록했고 S&P 500도 1.49% 올랐다. 국제유가와 미 10년물 국채금리가 내려간 가운데 반도체 지수가 4.3% 뛰며 AI 관련주가 시장 상승을 주도했다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-iambic-ipo-20260921",
-          "title": "엔비디아 투자 Iambic Therapeutics, 미국 IPO 신청",
+          "id": "us-amd-trillion-market-cap-20260921",
+          "title": "AMD, AI 수요 기대에 시가총액 1조달러 첫 돌파",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T21:41:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
-          "url": "https://www.reuters.com/legal/litigation/nvidia-qia-backed-iambic-therapeutics-files-us-ipo-biotech-boom-rolls-2026-09-21/",
-          "summary": "엔비디아와 카타르투자청이 투자한 AI 신약개발사 Iambic Therapeutics가 나스닥 상장을 위한 IPO 서류를 제출했다. 회사는 설립 이후 약 4억6,180만달러를 조달했고 AbbVie 등과 AI 기반 신약개발 협업을 진행하고 있다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-21T14:21:00Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
+          "url": "https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/",
+          "summary": "AMD 주가는 약 9.6% 상승해 사상 처음 시가총액 1조달러를 넘어섰고, 미국 반도체 기업 가운데 네 번째로 해당 수준에 도달했다. AI 컴퓨팅에서 개별 칩을 넘어 시스템 단위로 사업을 확장한 점과 서버 CPU 점유율 확대가 투자심리를 끌어올렸다.",
+          "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-lockheed-prsm-contract-20260921",
-          "title": "Lockheed Martin, 미 육군과 최대 12억달러 PrSM 계약",
+          "id": "us-oura-ipo-valuation-20260921",
+          "title": "Oura, 최대 22억달러 조달 목표로 미국 IPO 로드쇼 시작",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T22:20:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
-          "url": "https://www.reuters.com/business/aerospace-defense/lockheed-wins-us-army-missile-contract-worth-up-12-billion-2026-09-21/",
-          "summary": "Lockheed Martin은 미 육군의 차세대 장거리 정밀타격미사일 PrSM Increment 2 생산을 위해 최대 12억달러 규모 계약을 확보했다. 회사는 장거리 정밀타격 수요 증가에 맞춰 연간 생산능력을 550발로 확대하는 계획도 추진하고 있다.",
+          "publishedAt": "2026-09-21T11:15:00Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
+          "url": "https://www.reuters.com/legal/transactional/smart-ring-maker-oura-shareholders-look-raise-up-22-billion-us-ipo-2026-09-21/",
+          "summary": "스마트링 업체 Oura가 주당 40~44달러의 희망 범위로 IPO 로드쇼를 시작했으며 완전희석 기준 약 156억달러의 기업가치를 목표로 한다. 회사와 기존 투자자는 최대 22억달러를 조달할 계획으로, 가을 미국 IPO 시장의 투자 수요를 가늠할 시험대로 평가된다.",
           "impact": "medium",
           "region": "US"
         }
@@ -82,25 +71,25 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-7007-chip-rally-20260921",
-          "title": "코스피 1.65% 상승해 7,007.72 마감…반도체주 강세",
+          "id": "korea-kospi-chip-rally-20260922",
+          "title": "코스피 장중 1.58% 상승…삼성전자·SK하이닉스 동반 강세",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-21T07:39:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
-          "url": "https://en.yna.co.kr/view/AEN20260921006852320",
-          "summary": "코스피는 기관의 1조4,900억원 순매수와 반도체 강세에 힘입어 1.65% 오른 7,007.72로 마감했다. 삼성전자는 4.98% 상승했고 SK하이닉스도 0.59% 오르며 지수 상승을 주도했다.",
+          "publishedAt": "2026-09-22T02:26:00Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
+          "url": "https://en.yna.co.kr/view/AEN20260922003500320?section=economy-finance/economy",
+          "summary": "코스피는 장 초반 2.2% 급등한 뒤 오전 11시20분 기준 1.58% 오른 7,188.66을 기록했다. 나스닥 사상 최고치와 국제유가·채권금리 하락의 영향으로 삼성전자와 SK하이닉스가 각각 1.92%, 2.41% 상승했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-us-japan-economic-energy-talks-20260921",
-          "title": "한미일 외교장관, 뉴욕서 경제·에너지 협력 논의",
+          "id": "korea-bok-financial-stability-warning-20260922",
+          "title": "한국은행, 집값·가계부채 누적에 금융불균형 경계 강화",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-21T08:52:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
-          "url": "https://en.yna.co.kr/view/AEN20260921010200315",
-          "summary": "한미일 외교장관은 뉴욕에서 경제·에너지 협력과 지역 안보 현안을 논의할 예정이며 북극항로·에너지 공급 협력 MOU 가능성도 거론됐다. 한국과 미국은 최근 대미 투자 약속과 호르무즈 해협 항행 안전 문제도 별도로 협의해 관련 공급망·에너지 정책의 연계성이 커지고 있다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-22T02:00:00Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
+          "url": "https://en.yna.co.kr/view/AEN20260922001800320?section=economy-finance/economy",
+          "summary": "한국은행은 금융안정보고서에서 주택가격 상승과 높은 가계부채로 금융불균형이 누적되고 있다고 경고했다. 3월 말 가계부채의 GDP 대비 비율은 85.3%였으며, 연준 정책 변화와 중동 지정학 리스크가 금융·외환시장 변동성을 키울 수 있다고 지적했다.",
+          "impact": "high",
           "region": "South Korea"
         }
       ]
@@ -109,13 +98,24 @@
       "id": "crypto",
       "items": [
         {
+          "id": "crypto-binance-iran-sanctions-probe-20260922",
+          "title": "미 검찰, 바이낸스의 이란 제재 위반 가능성 조사",
+          "source": "Reuters",
+          "publishedAt": "2026-09-22T02:04:00Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
+          "url": "https://www.reuters.com/legal/government/binance-under-us-scrutiny-over-possible-iran-sanctions-violations-bloomberg-news-2026-09-22/",
+          "summary": "미 연방 검찰이 바이낸스가 이란 관련 거래를 차단하지 않아 제재를 위반했는지 조사 중이라고 Reuters가 Bloomberg 보도를 인용해 전했다. 당국은 바이낸스가 문제 거래를 인지하고도 허용했는지를 살피고 있으며, 회사는 제재 위반에 무관용 원칙을 적용하고 수사기관에 협조하고 있다고 밝혔다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
           "id": "crypto-ecb-pontes-blockchain-20260921",
           "title": "ECB, 블록체인 금융시장과 중앙은행 결제망 연결하는 Pontes 가동",
           "source": "Reuters",
           "publishedAt": "2026-09-21T10:02:00Z",
-          "updatedAt": "2026-09-21T22:50:51Z",
+          "updatedAt": "2026-09-22T02:51:48Z",
           "url": "https://www.reuters.com/business/finance/ecb-opens-blockchain-link-financial-markets-2026-09-21/",
-          "summary": "ECB는 블록체인 기반 금융거래를 중앙은행 화폐로 결제할 수 있도록 기존 결제망과 연결하는 Pontes 서비스를 시작했다. Deutsche Bank·Santander·Clearstream 등이 초기 참여자로 등록했고, ECB는 자체자금의 일부를 블록체인 기반 고등급 유로채권에도 투자할 계획이다.",
+          "summary": "ECB는 블록체인 기반 금융거래를 중앙은행 화폐로 결제할 수 있도록 기존 결제망과 연결하는 Pontes 서비스를 시작했다. Deutsche Bank·Santander·Clearstream 등이 초기 참여자로 등록했고 ECB 자체자금 일부도 블록체인 기반 고등급 유로채권에 투자할 계획이다.",
           "impact": "high",
           "region": "Europe"
         }
