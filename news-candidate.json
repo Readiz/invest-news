@@ -1,31 +1,42 @@
 {
-  "updatedAt": "2026-09-22T02:51:48Z",
-  "headline": "AI·반도체 랠리로 나스닥이 사상 최고치로 마감한 뒤 한국 증시도 반도체 중심 강세를 이어가고 있다. 다만 주요국 중앙은행의 매파적 기조와 한국은행의 금융불균형 경고가 금리 부담을 남기고 있으며, 암호화폐 시장에서는 바이낸스의 이란 제재 위반 가능성에 대한 미국 수사와 ECB의 블록체인 결제 인프라 확대가 동시에 부각됐다.",
+  "updatedAt": "2026-09-22T08:51:33Z",
+  "headline": "국제유가는 미·이란 대화 기대와 공급 회복 신호 속에서도 중동 공급 불확실성 때문에 다시 반등했고, 미중 정상회담을 앞두고 무역휴전·AI 규제가 핵심 거시 변수로 부상했다. 미국과 한국 증시는 AI·반도체 강세가 이어졌지만, 한국은행은 가계부채와 주택가격을 중심으로 금융불균형 경계를 강화했다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-yen-hawkish-central-banks-20260922",
-          "title": "글로벌 중앙은행 매파 전환에 엔화 약세…미·일 금리차 재부각",
+          "id": "macro-oil-us-iran-talks-20260922",
+          "title": "국제유가 반등…미·이란 대화 기대 속 공급 불확실성 지속",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T00:53:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
-          "url": "https://www.reuters.com/world/asia-pacific/yen-squeezed-hawkish-turn-grips-central-banks-2026-09-22/",
-          "summary": "연준과 일본은행이 지난주 모두 금리를 올린 뒤 글로벌 중앙은행의 추가 긴축 기대가 커지면서 엔화가 달러 대비 약세를 보였다. 시장은 연준의 10월 추가 인상 가능성을 약 55%, 일본은행의 10월 인상 가능성을 약 30%로 반영하고 있다.",
+          "publishedAt": "2026-09-22T00:34:00Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
+          "url": "https://www.reuters.com/business/energy/oil-rises-slightly-ahead-potential-us-iran-talks-2026-09-22/",
+          "summary": "브렌트유와 WTI는 미·이란 대화 가능성을 주시하는 가운데 나흘 연속 하락 뒤 반등했다. 사우디의 호르무즈 수출 회복에도 리비아 생산 차질과 중동 긴장이 남아 있어 공급 경로의 불확실성이 이어지고 있다.",
           "impact": "high",
           "region": "Global"
         },
         {
-          "id": "macro-germany-inflation-bundesbank-20260921",
-          "title": "독일 중앙은행, 에너지 비용 영향으로 물가 고점 지속 전망",
+          "id": "macro-germany-growth-forecast-20260922",
+          "title": "독일 주요 연구기관, 2026·2027 성장률 전망 상향",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T10:04:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
-          "url": "https://www.reuters.com/business/finance/german-inflation-stay-high-growth-has-slowed-bundesbank-says-2026-09-21/",
-          "summary": "독일 중앙은행은 이란 분쟁에 따른 에너지 비용 상승과 내년 의료제도 개편 영향으로 물가가 당분간 높은 수준에 머물 것으로 예상했다. 동시에 수출과 소비 둔화로 여름 경기 모멘텀이 약해졌지만 연말에는 회복 가능성이 있다고 평가했다.",
+          "publishedAt": "2026-09-22T08:23:00Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
+          "url": "https://www.reuters.com/business/german-institutes-raise-2026-2027-economic-growth-forecasts-sources-say-2026-09-22/",
+          "summary": "독일 주요 경제연구기관들은 2026년 성장률 전망을 0.6%에서 1.3%로, 2027년 전망을 0.9%에서 1.1%로 높였다. 유럽 최대 경제의 경기 회복 기대가 강화됐다는 점에서 유로존 성장·금리 경로에 영향을 줄 수 있는 변화다.",
           "impact": "medium",
           "region": "Europe"
+        },
+        {
+          "id": "macro-us-china-summit-trade-20260921",
+          "title": "미중 정상회담 24일 개최…무역휴전 연장·AI 규제가 핵심 의제",
+          "source": "Reuters",
+          "publishedAt": "2026-09-21T02:50:00Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
+          "url": "https://www.reuters.com/world/china/xi-rolls-into-trump-summit-with-chinas-trade-engine-roaring-2026-09-21/",
+          "summary": "트럼프 대통령과 시진핑 주석은 9월 24일 워싱턴에서 만나 무역휴전 연장과 AI 안전장치 등을 논의할 예정이다. 중국의 연간 무역흑자가 다시 1조달러를 넘을 가능성이 커진 상황에서 관세·공급망 협상이 글로벌 시장의 핵심 변수로 부상했다.",
+          "impact": "high",
+          "region": "Global"
         }
       ]
     },
@@ -34,12 +45,12 @@
       "items": [
         {
           "id": "us-nasdaq-record-ai-rally-20260921",
-          "title": "나스닥 사상 최고치 마감…AI·반도체 강세와 금리 하락이 견인",
+          "title": "나스닥 사상 최고치…AI·반도체 강세와 금리·유가 하락이 견인",
           "source": "Reuters",
           "publishedAt": "2026-09-21T09:38:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
           "url": "https://www.reuters.com/business/wall-st-futures-rise-ai-stocks-gain-oil-prices-slide-2026-09-21/",
-          "summary": "나스닥은 2.26% 상승해 6월 이후 처음으로 사상 최고 종가를 기록했고 S&P 500도 1.49% 올랐다. 국제유가와 미 10년물 국채금리가 내려간 가운데 반도체 지수가 4.3% 뛰며 AI 관련주가 시장 상승을 주도했다.",
+          "summary": "나스닥은 2.26% 상승해 사상 최고 종가를 기록했고 S&P 500도 1.49% 올랐다. 반도체 지수가 4.3% 급등한 가운데 미 10년물 금리가 5% 아래로 내려가고 유가도 하락하면서 성장주 투자심리가 개선됐다.",
           "impact": "high",
           "region": "US"
         },
@@ -48,21 +59,21 @@
           "title": "AMD, AI 수요 기대에 시가총액 1조달러 첫 돌파",
           "source": "Reuters",
           "publishedAt": "2026-09-21T14:21:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
           "url": "https://www.reuters.com/business/amd-becomes-latest-chipmaker-reach-1-trillion-valuation-ai-demand-2026-09-21/",
-          "summary": "AMD 주가는 약 9.6% 상승해 사상 처음 시가총액 1조달러를 넘어섰고, 미국 반도체 기업 가운데 네 번째로 해당 수준에 도달했다. AI 컴퓨팅에서 개별 칩을 넘어 시스템 단위로 사업을 확장한 점과 서버 CPU 점유율 확대가 투자심리를 끌어올렸다.",
+          "summary": "AMD 주가는 약 9.6% 상승하며 처음으로 시가총액 1조달러를 넘어섰고 미국 반도체 기업 중 네 번째로 해당 수준에 도달했다. AI 시스템 사업 확대와 서버 CPU 점유율 상승 기대가 최근 반도체 랠리의 핵심 동력으로 작용했다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-oura-ipo-valuation-20260921",
-          "title": "Oura, 최대 22억달러 조달 목표로 미국 IPO 로드쇼 시작",
+          "id": "us-openai-softbank-bonds-20260921",
+          "title": "소프트뱅크, OpenAI 투자 위해 110억달러 규모 채권 발행 추진",
           "source": "Reuters",
-          "publishedAt": "2026-09-21T11:15:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
-          "url": "https://www.reuters.com/legal/transactional/smart-ring-maker-oura-shareholders-look-raise-up-22-billion-us-ipo-2026-09-21/",
-          "summary": "스마트링 업체 Oura가 주당 40~44달러의 희망 범위로 IPO 로드쇼를 시작했으며 완전희석 기준 약 156억달러의 기업가치를 목표로 한다. 회사와 기존 투자자는 최대 22억달러를 조달할 계획으로, 가을 미국 IPO 시장의 투자 수요를 가늠할 시험대로 평가된다.",
-          "impact": "medium",
+          "publishedAt": "2026-09-21T01:43:00Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
+          "url": "https://www.reuters.com/business/media-telecom/softbank-group-launches-over-10-billion-bonds-openai-investment-term-sheet-shows-2026-09-21/",
+          "summary": "소프트뱅크는 OpenAI 후속 투자 자금 등을 마련하기 위해 100억달러와 10억유로 규모의 선순위 무담보채 발행에 나섰다. 계획대로 발행되면 아시아태평양·일본 비금융 기업 사상 최대 규모의 회사채 거래가 될 수 있다.",
+          "impact": "high",
           "region": "US"
         }
       ]
@@ -71,24 +82,35 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-chip-rally-20260922",
-          "title": "코스피 장중 1.58% 상승…삼성전자·SK하이닉스 동반 강세",
+          "id": "korea-kospi-close-ai-chips-20260922",
+          "title": "코스피 7,017.91 마감…AI 낙관론에 반도체 중심 3거래일 연속 상승",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-22T02:26:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
-          "url": "https://en.yna.co.kr/view/AEN20260922003500320?section=economy-finance/economy",
-          "summary": "코스피는 장 초반 2.2% 급등한 뒤 오전 11시20분 기준 1.58% 오른 7,188.66을 기록했다. 나스닥 사상 최고치와 국제유가·채권금리 하락의 영향으로 삼성전자와 SK하이닉스가 각각 1.92%, 2.41% 상승했다.",
+          "publishedAt": "2026-09-22T07:02:00Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
+          "url": "https://en.yna.co.kr/view/AEN20260922006751320",
+          "summary": "코스피는 장중 7,171.44까지 오른 뒤 0.15% 상승한 7,017.91로 마감해 3거래일 연속 상승했다. 삼성전자는 0.91% 올랐지만 SK하이닉스는 장중 상승분을 반납해 1.5% 하락하는 등 장 후반 차익실현이 나타났다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-bok-financial-stability-warning-20260922",
-          "title": "한국은행, 집값·가계부채 누적에 금융불균형 경계 강화",
+          "id": "korea-us-investment-texas-power-20260922",
+          "title": "한국, 3,500억달러 대미 투자 첫 사업으로 텍사스 가스발전소 선정",
+          "source": "연합뉴스",
+          "publishedAt": "2026-09-22T02:40:00Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
+          "url": "https://en.yna.co.kr/view/AEN20260922004400315",
+          "summary": "한국 정부는 3,500억달러 규모 대미 투자 약속의 첫 사업으로 텍사스 대형 가스발전소 건설을 선정한 것으로 전해졌다. 후속 후보로 미국 내 원전 8기와 알래스카 LNG 프로젝트가 거론되며 한미 산업협력의 구체적 집행 단계가 시작됐다.",
+          "impact": "high",
+          "region": "South Korea"
+        },
+        {
+          "id": "korea-bok-financial-stability-20260922",
+          "title": "한국은행, 주택가격·가계부채 누적에 금융불균형 경계 강화",
           "source": "연합뉴스",
           "publishedAt": "2026-09-22T02:00:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
-          "url": "https://en.yna.co.kr/view/AEN20260922001800320?section=economy-finance/economy",
-          "summary": "한국은행은 금융안정보고서에서 주택가격 상승과 높은 가계부채로 금융불균형이 누적되고 있다고 경고했다. 3월 말 가계부채의 GDP 대비 비율은 85.3%였으며, 연준 정책 변화와 중동 지정학 리스크가 금융·외환시장 변동성을 키울 수 있다고 지적했다.",
+          "updatedAt": "2026-09-22T08:51:33Z",
+          "url": "https://en.yna.co.kr/view/AEN20260922001800320",
+          "summary": "한국은행은 금융안정보고서에서 주택가격 상승과 높은 가계부채로 금융불균형이 누적되고 있다고 경고했다. 3월 말 가계부채의 GDP 대비 비율은 85.3%였으며, 연준 정책 변화와 중동 리스크가 금융·외환시장 변동성을 키울 수 있다고 지적했다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -102,22 +124,11 @@
           "title": "미 검찰, 바이낸스의 이란 제재 위반 가능성 조사",
           "source": "Reuters",
           "publishedAt": "2026-09-22T02:04:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
+          "updatedAt": "2026-09-22T08:51:33Z",
           "url": "https://www.reuters.com/legal/government/binance-under-us-scrutiny-over-possible-iran-sanctions-violations-bloomberg-news-2026-09-22/",
-          "summary": "미 연방 검찰이 바이낸스가 이란 관련 거래를 차단하지 않아 제재를 위반했는지 조사 중이라고 Reuters가 Bloomberg 보도를 인용해 전했다. 당국은 바이낸스가 문제 거래를 인지하고도 허용했는지를 살피고 있으며, 회사는 제재 위반에 무관용 원칙을 적용하고 수사기관에 협조하고 있다고 밝혔다.",
+          "summary": "미 연방 검찰은 바이낸스가 이란 관련 거래를 차단하지 않아 미국 제재를 위반했는지 조사 중인 것으로 전해졌다. 수사는 거래소가 문제 거래를 인지하고도 허용했는지에 초점을 맞추고 있어 대형 암호화폐 거래소의 규제 리스크가 다시 부각됐다.",
           "impact": "high",
           "region": "US"
-        },
-        {
-          "id": "crypto-ecb-pontes-blockchain-20260921",
-          "title": "ECB, 블록체인 금융시장과 중앙은행 결제망 연결하는 Pontes 가동",
-          "source": "Reuters",
-          "publishedAt": "2026-09-21T10:02:00Z",
-          "updatedAt": "2026-09-22T02:51:48Z",
-          "url": "https://www.reuters.com/business/finance/ecb-opens-blockchain-link-financial-markets-2026-09-21/",
-          "summary": "ECB는 블록체인 기반 금융거래를 중앙은행 화폐로 결제할 수 있도록 기존 결제망과 연결하는 Pontes 서비스를 시작했다. Deutsche Bank·Santander·Clearstream 등이 초기 참여자로 등록했고 ECB 자체자금 일부도 블록체인 기반 고등급 유로채권에 투자할 계획이다.",
-          "impact": "high",
-          "region": "Europe"
         }
       ]
     }
