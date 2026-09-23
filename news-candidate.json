@@ -1,29 +1,51 @@
 {
-  "updatedAt": "2026-09-23T08:51:17Z",
-  "headline": "유로존 경기지표가 예상보다 강하게 반등했지만 에너지발 비용 압력이 다시 커졌고, 미중 AI 경쟁 속에서도 양국 자본의 상호 노출은 계속 확대되고 있다. 미국 증시는 AI·반도체 강세로 나스닥이 사상 최고치를 경신했고 한국 증시도 반도체주 중심으로 강세를 보였으며, 암호화폐에서는 바이낸스의 Circle 지분 투자로 스테이블코인 협력 확대가 부각됐다.",
+  "updatedAt": "2026-09-23T22:49:14Z",
+  "headline": "미국에서는 강한 9월 기업활동과 연준의 추가 긴축 신호가 국채금리와 주식시장에 부담을 주는 가운데, 미중은 기존 무역 합의를 내년 1월까지 연장하기로 했다. AI 투자는 성장 버팀목으로 평가받지만 에너지 충격과 높은 금리 부담이 이어지고 있으며, 암호화폐 시장에서는 토큰화 주식과 스테이블코인 관련 제도권 협력이 확대되고 있다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-eurozone-pmi-20260923",
-          "title": "유로존 9월 기업활동 3년여 만에 최고…비용 압력도 확대",
+          "id": "macro-us-pmi-inflation-20260923",
+          "title": "미국 9월 기업활동 5년여 만에 최고…투입물가도 급등",
           "source": "Reuters",
-          "publishedAt": "2026-09-23T08:05:00Z",
-          "updatedAt": "2026-09-23T08:51:17Z",
-          "url": "https://www.reuters.com/business/euro-zone-business-activity-posts-surprise-upturn-september-pmi-shows-2026-09-23/",
-          "summary": "유로존 9월 종합 PMI는 53.1로 올라 2023년 4월 이후 최고치를 기록했고 신규 주문도 4년여 만에 가장 빠르게 증가했다. 동시에 중동발 에너지 가격 상승으로 투입비용 압력이 커지며 성장 회복과 물가 부담이 함께 나타났다.",
+          "publishedAt": "2026-09-23T13:52:00Z",
+          "updatedAt": "2026-09-23T22:49:14Z",
+          "url": "https://www.reuters.com/business/us-business-activity-more-than-five-year-high-inflation-pressures-building-2026-09-23/",
+          "summary": "S&P Global 미국 9월 종합 PMI는 58.4로 2021년 7월 이후 최고치를 기록했고 신규 주문도 2022년 3월 이후 가장 강했다. 투입가격 지수는 66.4로 2022년 10월 이후 최고치까지 올라 성장 강세와 물가 압력이 동시에 확인됐다.",
           "impact": "high",
-          "region": "Eurozone"
+          "region": "US"
         },
         {
-          "id": "macro-us-china-ai-capital-links-20260922",
-          "title": "미중 AI 경쟁 속 상호 투자 연결 지속…정상회담 앞두고 긴장 완화 기대",
+          "id": "macro-fed-barr-more-hikes-20260923",
+          "title": "연준 바, 물가 위험 확대에 추가 금리 인상 필요 시사",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T08:56:00Z",
-          "updatedAt": "2026-09-23T08:51:17Z",
-          "url": "https://www.reuters.com/business/retail-consumer/trump-xi-meet-investors-play-both-sides-ai-divide-2026-09-22/",
-          "summary": "미국 은행들은 올해 중국 첨단기술 주식자금 조달 거래 19건에서 172억달러 규모를 주관했고, 중국·홍콩 투자자의 미국 주식 보유액도 7,500억달러를 넘었다. AI 공급망 분리가 진행되는 가운데서도 금융 연결이 유지되며 미중 정상회담의 안정적 관계 관리 여부가 시장 변수로 남았다.",
+          "publishedAt": "2026-09-23T14:07:00Z",
+          "updatedAt": "2026-09-23T22:49:14Z",
+          "url": "https://www.reuters.com/business/feds-barr-says-further-rate-hikes-will-likely-be-needed-2026-09-23/",
+          "summary": "마이클 바 연준 이사는 물가 목표 달성 위험이 커진 반면 노동시장 위험은 줄었다며 추가 정책 조정이 필요할 가능성이 높다고 밝혔다. 미국 국채금리도 상승해 10년물 수익률이 2007년 이후 최고 수준까지 올라갔다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
+          "id": "macro-oecd-ai-energy-outlook-20260923",
+          "title": "OECD, AI 투자가 에너지 충격 일부 상쇄…2027년 물가 전망은 상향",
+          "source": "Reuters",
+          "publishedAt": "2026-09-23T08:02:00Z",
+          "updatedAt": "2026-09-23T22:49:14Z",
+          "url": "https://www.reuters.com/world/china/oecd-expects-ai-boom-help-offset-middle-east-energy-shock-now-2026-09-23/",
+          "summary": "OECD는 AI 인프라 투자를 반영해 2026년 세계 성장률 전망을 2.9%로 소폭 상향했지만 2027년은 3.0%로 낮췄다. 중동발 에너지 충격이 장기화되면서 G20의 2027년 물가 전망도 3.6%로 크게 높였다.",
+          "impact": "high",
+          "region": "Global"
+        },
+        {
+          "id": "macro-us-china-busan-extension-20260923",
+          "title": "미중, '부산 합의' 내년 1월 10일까지 연장",
+          "source": "Reuters",
+          "publishedAt": "2026-09-23T22:22:00Z",
+          "updatedAt": "2026-09-23T22:49:14Z",
+          "url": "https://www.reuters.com/world/china/us-china-agree-extend-the-busan-agreement-until-january-bessent-says-2026-09-23/",
+          "summary": "스콧 베선트 미 재무장관은 허리펑 중국 부총리와의 협의 뒤 양국이 기존 '부산 합의'를 2027년 1월 10일까지 연장하기로 했다고 밝혔다. 정상회담을 앞두고 무역 갈등의 단기 확전을 억제하는 합의가 유지되게 됐다.",
           "impact": "high",
           "region": "Global"
         }
@@ -33,35 +55,24 @@
       "id": "us",
       "items": [
         {
-          "id": "us-nasdaq-record-ai-20260922",
-          "title": "나스닥 사상 최고 종가…AI·메모리 반도체 강세",
+          "id": "us-wall-street-yields-oil-20260923",
+          "title": "미 증시 하락…유가 상승·10년물 금리 2007년 이후 최고",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T10:19:00Z",
-          "updatedAt": "2026-09-23T08:51:17Z",
-          "url": "https://www.reuters.com/business/wall-st-futures-pause-after-ai-rally-focus-mideast-tensions-2026-09-22/",
-          "summary": "나스닥은 0.45% 오른 27,244.28로 이틀 연속 사상 최고 종가를 기록했고 마이크론과 샌디스크 등 AI·메모리 관련 종목이 상승을 주도했다. 반면 S&P 500은 보합권, 다우는 0.36% 하락해 업종별 흐름은 엇갈렸다.",
+          "publishedAt": "2026-09-23T10:07:00Z",
+          "updatedAt": "2026-09-23T22:49:14Z",
+          "url": "https://www.reuters.com/world/china/wall-st-futures-steady-with-focus-mideast-talks-us-china-summit-2026-09-23/",
+          "summary": "S&P 500은 0.75%, 나스닥은 1.13%, 다우는 0.68% 하락했다. 이란 관련 긴장으로 유가가 뛰고 미국 10년물 국채금리가 2007년 이후 최고 수준까지 오르면서 기술주와 금리 민감 업종에 부담이 커졌다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-meta-muse-ai-agent-20260922",
-          "title": "메타 AI 에이전트 Muse 초기 흥행…새 수익원 기대 부각",
+          "id": "us-meta-muse-disruption-20260923",
+          "title": "메타 AI 에이전트 Muse 급성장…여행·금융·커머스 업종 재평가",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T12:25:00Z",
-          "updatedAt": "2026-09-23T08:51:17Z",
-          "url": "https://www.reuters.com/business/wall-street-expects-metas-ai-agent-shape-into-new-revenue-engine-2026-09-22/",
-          "summary": "메타의 AI 에이전트 Muse는 출시 12일 만에 280만 다운로드를 기록했고, 메타 주가는 출시 이후 20% 넘게 상승했다. 소비자용 AI 에이전트의 빠른 채택이 플랫폼 수익화와 AI 인프라 수요 기대를 동시에 자극하고 있다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "us-ai-debt-bond-selectivity-20260922",
-          "title": "AI 인프라 차입 급증에 회사채 투자자 선별 강화",
-          "source": "Reuters",
-          "publishedAt": "2026-09-22T10:04:00Z",
-          "updatedAt": "2026-09-23T08:51:17Z",
-          "url": "https://www.reuters.com/legal/transactional/corporate-bond-buyers-get-picky-with-flood-ai-debt-2026-09-22/",
-          "summary": "데이터센터와 칩 투자 자금조달이 급증하면서 AI 관련 우량 회사채에 더 높은 스프레드가 요구되고 있다. 하이퍼스케일러의 2027년 회사채 발행은 4,200억달러로 예상돼, AI 투자 확대가 주식시장뿐 아니라 신용시장 수급에도 영향을 주고 있다.",
+          "publishedAt": "2026-09-23T17:13:00Z",
+          "updatedAt": "2026-09-23T22:49:14Z",
+          "url": "https://www.reuters.com/business/finance/metas-muse-rekindles-fears-over-winners-losers-personal-ai-agent-emerges-2026-09-23/",
+          "summary": "Muse는 출시 약 2주 만에 미국과 캐나다 앱스토어에서 ChatGPT를 제치고 무료 앱 1위에 올랐고 다운로드는 280만건을 기록했다. AI 에이전트가 쇼핑·여행·금융 중개 구조를 바꿀 수 있다는 우려가 관련 업종 주가에 반영되는 반면 AI 인프라 수요 기대는 커지고 있다.",
           "impact": "high",
           "region": "US"
         }
@@ -69,42 +80,30 @@
     },
     {
       "id": "korea",
-      "items": [
-        {
-          "id": "korea-kospi-chip-gains-20260923",
-          "title": "코스피 장중 상승폭 축소…삼성전자·SK하이닉스 강세",
-          "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-23T02:26:00Z",
-          "updatedAt": "2026-09-23T08:51:17Z",
-          "url": "https://en.yna.co.kr/view/AEN20260923005300320",
-          "summary": "코스피는 1.94% 급등 출발한 뒤 오전 11시20분 기준 0.08% 상승한 7,023.87을 기록하며 차익실현으로 상승폭을 줄였다. 삼성전자와 SK하이닉스는 각각 1.9%, 0.11% 올라 미국 기술주 강세의 영향이 이어졌다.",
-          "impact": "high",
-          "region": "South Korea"
-        },
-        {
-          "id": "korea-us-texas-power-investment-20260922",
-          "title": "한국, 대미 투자 첫 사업으로 텍사스 6.3GW 가스발전소 선정",
-          "source": "Yonhap News Agency",
-          "publishedAt": "2026-09-22T05:55:00Z",
-          "updatedAt": "2026-09-23T08:51:17Z",
-          "url": "https://en.yna.co.kr/view/AEN20260922004451315",
-          "summary": "한국은 3,500억달러 규모 대미 투자 약속의 첫 사업으로 텍사스 엔시널 6.3GW 가스발전소를 선정했다. 사업 가치는 223억달러로 제시됐으며 후속 후보로 미국 내 대형 원전 8기와 알래스카 LNG 프로젝트가 논의되고 있다.",
-          "impact": "high",
-          "region": "South Korea"
-        }
-      ]
+      "items": []
     },
     {
       "id": "crypto",
       "items": [
         {
+          "id": "crypto-nyse-blockchain-tokenized-stocks-20260923",
+          "title": "NYSE·Blockchain.com, 미국 상장주식·ETF 토큰화 협력 검토",
+          "source": "Reuters",
+          "publishedAt": "2026-09-23T13:06:00Z",
+          "updatedAt": "2026-09-23T22:49:14Z",
+          "url": "https://www.reuters.com/legal/government/nyse-blockchaincom-explore-selling-tokenised-stocks-2026-09-23/",
+          "summary": "뉴욕증권거래소와 Blockchain.com은 NYSE 상장 주식과 ETF를 블록체인 토큰 형태로 제공하는 방안을 공동 검토하기로 했다. 전통 거래소가 토큰화 증권 유통을 직접 모색한다는 점에서 자본시장과 디지털자산 인프라의 접점이 확대되고 있다.",
+          "impact": "high",
+          "region": "US"
+        },
+        {
           "id": "crypto-binance-circle-stake-20260922",
           "title": "바이낸스, Circle 지분 1억달러 인수…USDC 협력 확대",
           "source": "Reuters",
           "publishedAt": "2026-09-22T11:43:00Z",
-          "updatedAt": "2026-09-23T08:51:17Z",
+          "updatedAt": "2026-09-23T22:49:14Z",
           "url": "https://www.reuters.com/legal/transactional/binance-buys-100-million-stake-circle-expands-partnership-2026-09-22/",
-          "summary": "바이낸스가 USDC 발행사 Circle 지분 1억달러어치를 인수하며 양사 관계를 확대했다. 양사는 5년간 상업 협력을 강화하고 바이낸스 플랫폼에서 USDC 이용 확대를 추진한다.",
+          "summary": "바이낸스는 USDC 발행사 Circle 지분 1억달러어치를 인수했고 양사는 5년간 상업 협력을 확대하기로 했다. 대형 거래소와 스테이블코인 발행사 간 결합이 강화되면서 USDC의 유통·결제 생태계 확장이 주목된다.",
           "impact": "high",
           "region": "Global"
         }
