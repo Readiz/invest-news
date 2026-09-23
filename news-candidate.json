@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-09-22T22:47:38Z",
-  "headline": "연준 인사들이 물가 위험을 이유로 추가 긴축 가능성을 열어둔 가운데, 사우디의 동서횡단 송유관 재가동으로 중동 원유 공급 불안은 일부 완화됐다. 미국에서는 AI·반도체 강세로 나스닥이 최고치를 경신했지만 AI 기업의 대규모 부채 조달과 암호화폐 규제 리스크도 부각됐고, 한국은행은 가계부채와 주택가격을 다시 경고했다.",
+  "updatedAt": "2026-09-23T02:52:18Z",
+  "headline": "주요국의 추가 금리 인상 기대가 달러 강세를 지지하는 가운데, 사우디 원유 공급 회복과 이란 외교 기대가 유가 부담을 일부 낮추고 있다. 미국에서는 AI 수요가 나스닥과 메타 등 기술주를 떠받쳤고, 한국은 ADB의 성장률 상향과 한미 전략투자 협의 진전이 부각됐으며 암호화폐에서는 바이낸스의 Circle 지분 투자와 유럽의 스테이블코인 규제 논의가 핵심 이슈로 떠올랐다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
-          "id": "macro-fed-barkin-inflation-20260922",
-          "title": "연준 바킨, 경기 견조·물가 위험 우위 평가…추가 인상 가능성 열어둬",
+          "id": "macro-dollar-rate-hikes-iran-20260923",
+          "title": "달러, 추가 금리 인상 기대에 2개월 고점 부근…이란 외교 주시",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T16:53:00Z",
-          "updatedAt": "2026-09-22T22:47:38Z",
-          "url": "https://www.reuters.com/business/feds-barkin-says-economy-may-be-firming-inflation-not-limited-energy-tariff-2026-09-22/",
-          "summary": "토머스 바킨 리치먼드 연은 총재는 미국 경제가 오히려 강해지고 있으며 물가 위험이 고용 위험보다 크다고 평가했다. 지난주 금리 인상이 물가 안정에 도움이 될 것이라면서 추가 인상 여부는 향후 지표에 달렸다고 밝혔다.",
+          "publishedAt": "2026-09-23T01:43:00Z",
+          "updatedAt": "2026-09-23T02:52:18Z",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-holds-near-2-month-high-markets-weigh-rate-hikes-iran-diplomacy-2026-09-23/",
+          "summary": "주요 중앙은행의 매파적 기조와 추가 금리 인상 기대가 달러를 약 2개월 만의 강한 수준에 머물게 했다. 동시에 유가는 미·이란 외교 가능성으로 완화됐지만 중동 정세 불확실성은 여전히 환율과 금리의 핵심 변수다.",
           "impact": "high",
-          "region": "US"
+          "region": "Global"
         },
         {
-          "id": "macro-saudi-east-west-pipeline-20260922",
-          "title": "사우디, 동서횡단 송유관 재가동…중동 원유 공급 우려 일부 완화",
+          "id": "macro-oil-saudi-flows-20260922",
+          "title": "국제유가 하락…사우디 원유 흐름 회복과 호르무즈 통항 증가",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T10:08:00Z",
-          "updatedAt": "2026-09-22T22:47:38Z",
-          "url": "https://www.reuters.com/business/energy/saudi-arabia-restarts-east-west-oil-pipeline-resume-exports-yanbu-sources-say-2026-09-22/",
-          "summary": "사우디아라비아는 드론 공격으로 중단됐던 동서횡단 송유관을 낮은 가동률로 재가동하고 홍해 얀부항 수출 재개를 준비했다. 약 하루 400만배럴을 호르무즈 해협을 우회해 운송하던 통로가 복구되기 시작하면서 브렌트유는 배럴당 97달러 부근까지 하락했다.",
+          "publishedAt": "2026-09-22T00:34:00Z",
+          "updatedAt": "2026-09-23T02:52:18Z",
+          "url": "https://www.reuters.com/business/energy/oil-rises-slightly-ahead-potential-us-iran-talks-2026-09-22/",
+          "summary": "사우디의 동서횡단 송유관 재가동과 호르무즈 해협을 통한 원유 이동 증가로 브렌트유와 WTI가 하락 마감했다. 공급 정상화 기대가 커졌지만 이란과의 외교 진전 여부에 따라 중동발 에너지 변동성은 계속될 수 있다.",
           "impact": "high",
           "region": "Global"
         }
@@ -34,35 +34,24 @@
       "items": [
         {
           "id": "us-nasdaq-record-ai-20260922",
-          "title": "나스닥 이틀 연속 최고치…마이크론 등 AI 반도체 강세",
+          "title": "나스닥 이틀 연속 사상 최고 종가…AI·메모리 반도체 강세",
           "source": "Reuters",
           "publishedAt": "2026-09-22T10:19:00Z",
-          "updatedAt": "2026-09-22T22:47:38Z",
+          "updatedAt": "2026-09-23T02:52:18Z",
           "url": "https://www.reuters.com/business/wall-st-futures-pause-after-ai-rally-focus-mideast-tensions-2026-09-22/",
-          "summary": "나스닥은 0.45% 오른 27,244.28로 이틀 연속 사상 최고 종가를 기록했고 마이크론과 샌디스크 등 반도체주가 강세를 보였다. S&P 500은 보합권, 다우는 0.36% 하락해 AI 관련주와 금융·소비 관련주의 흐름이 엇갈렸다.",
+          "summary": "나스닥은 0.45% 오른 27,244.28로 이틀 연속 사상 최고 종가를 기록했고 마이크론과 샌디스크 등 반도체주가 강세를 보였다. S&P 500은 보합권, 다우는 0.36% 하락해 AI 관련주와 금융·소비주의 흐름은 엇갈렸다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-ai-corporate-debt-20260922",
-          "title": "AI 기업 회사채 공급 급증에 채권 투자자 선별 강화",
+          "id": "us-meta-muse-ai-agent-20260922",
+          "title": "월가, 메타 AI 에이전트 Muse를 새 수익원으로 평가",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T10:04:00Z",
-          "updatedAt": "2026-09-22T22:47:38Z",
-          "url": "https://www.reuters.com/legal/transactional/corporate-bond-buyers-get-picky-with-flood-ai-debt-2026-09-22/",
-          "summary": "데이터센터와 AI 인프라 투자를 위한 차입이 급증하면서 투자자들이 AI 관련 우량 회사채에 더 큰 금리 가산폭을 요구하고 있다. 골드만삭스는 하이퍼스케일러의 2027년 총 회사채 발행이 4,200억달러로 2026년 추정치보다 60% 늘어날 것으로 봤다.",
+          "publishedAt": "2026-09-22T12:25:00Z",
+          "updatedAt": "2026-09-23T02:52:18Z",
+          "url": "https://www.reuters.com/business/wall-street-expects-metas-ai-agent-shape-into-new-revenue-engine-2026-09-22/",
+          "summary": "메타의 AI 에이전트 Muse가 출시 12일 만에 280만 다운로드를 기록하며 소비자용 AI 서비스의 새로운 수익원으로 주목받고 있다. 메타 주가는 출시 이후 20% 넘게 상승했고 관련 기대는 AI 반도체주 강세에도 영향을 줬다.",
           "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "us-bessent-ai-czar-20260922",
-          "title": "미 재무장관 베선트, 새 AI 총괄 역할 후보로 거론",
-          "source": "Reuters",
-          "publishedAt": "2026-09-22T21:55:00Z",
-          "updatedAt": "2026-09-22T22:47:38Z",
-          "url": "https://www.reuters.com/business/us-treasury-secretary-could-take-ai-czar-role-source-says-2026-09-22/",
-          "summary": "스콧 베선트 미 재무장관이 트럼프 행정부가 신설하려는 AI 총괄 역할의 후보로 검토되고 있는 것으로 전해졌다. 미 행정부는 AI 규제 확대에는 신중한 입장을 유지하면서 미중 AI 안전·국가안보 협의도 병행하고 있다.",
-          "impact": "medium",
           "region": "US"
         }
       ]
@@ -71,24 +60,24 @@
       "id": "korea",
       "items": [
         {
-          "id": "korea-kospi-close-chips-20260922",
-          "title": "코스피 7,017.91 마감…반도체 강세 속 3거래일 연속 상승",
+          "id": "korea-adb-growth-forecast-20260923",
+          "title": "ADB, 한국 2026년 성장률 전망 3.2%로 상향",
           "source": "연합뉴스",
-          "publishedAt": "2026-09-22T07:02:00Z",
-          "updatedAt": "2026-09-22T22:47:38Z",
-          "url": "https://en.yna.co.kr/view/AEN20260922006751320",
-          "summary": "코스피는 장중 7,171.44까지 올랐다가 0.15% 상승한 7,017.91로 마감해 3거래일 연속 상승했다. 삼성전자는 0.91% 올랐고 SK하이닉스는 1.5% 하락하는 등 장 후반 차익실현으로 반도체주의 흐름이 엇갈렸다.",
+          "publishedAt": "2026-09-23T00:00:00Z",
+          "updatedAt": "2026-09-23T02:52:18Z",
+          "url": "https://en.yna.co.kr/view/AEN20260923002000320",
+          "summary": "아시아개발은행은 AI 반도체 수요에 따른 수출 증가와 기업 실적 개선을 반영해 한국의 2026년 성장률 전망을 2.6%에서 3.2%로 높였다. 다만 지정학적 긴장과 금융시장 변동성, 추가적인 미국 관세 인상을 주요 하방 위험으로 지목했다.",
           "impact": "high",
           "region": "South Korea"
         },
         {
-          "id": "korea-bok-financial-stability-20260922",
-          "title": "한국은행, 주택가격·가계부채 누적에 금융불균형 경계",
-          "source": "연합뉴스",
-          "publishedAt": "2026-09-22T02:00:00Z",
-          "updatedAt": "2026-09-22T22:47:38Z",
-          "url": "https://en.yna.co.kr/view/AEN20260922001800320",
-          "summary": "한국은행은 금융안정보고서에서 주택가격 상승 기대와 높은 가계부채로 금융불균형이 누적되고 있다고 진단했다. 3월 말 가계부채의 GDP 대비 비율은 85.3%로 장기평균 84%를 웃돌았다.",
+          "id": "korea-us-strategic-investment-progress-20260923",
+          "title": "한미 정상, 3,500억달러 전략투자 사업 협의 진전 평가",
+          "source": "Reuters",
+          "publishedAt": "2026-09-23T01:56:00Z",
+          "updatedAt": "2026-09-23T02:52:18Z",
+          "url": "https://www.reuters.com/world/china/south-koreas-lee-trump-welcome-progress-us-strategic-investment-projects-2026-09-23/",
+          "summary": "이재명 대통령과 도널드 트럼프 대통령은 유엔총회 계기 회담에서 한미 전략투자 프로젝트 논의에 상당한 진전이 있었다고 평가했다. 텍사스 가스발전소를 포함해 원전과 알래스카 LNG 등 3,500억달러 규모 투자 패키지의 후속 사업이 논의되고 있다.",
           "impact": "high",
           "region": "South Korea"
         }
@@ -98,15 +87,26 @@
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-binance-iran-sanctions-probe-20260922",
-          "title": "미 검찰, 바이낸스의 이란 제재 위반 가능성 조사",
+          "id": "crypto-binance-circle-stake-20260922",
+          "title": "바이낸스, Circle 지분 1억달러 인수…USDC 협력 확대",
           "source": "Reuters",
-          "publishedAt": "2026-09-22T02:04:00Z",
-          "updatedAt": "2026-09-22T22:47:38Z",
-          "url": "https://www.reuters.com/legal/government/binance-under-us-scrutiny-over-possible-iran-sanctions-violations-bloomberg-news-2026-09-22/",
-          "summary": "미 연방 검찰은 바이낸스가 이란 관련 거래를 인지하고도 허용해 미국 제재를 위반했는지 조사하고 있다. 바이낸스는 제재 위반에 무관용 원칙을 적용하고 있으며 수사기관에 협조하고 있다고 밝혔다.",
+          "publishedAt": "2026-09-22T11:43:00Z",
+          "updatedAt": "2026-09-23T02:52:18Z",
+          "url": "https://www.reuters.com/legal/transactional/binance-buys-100-million-stake-circle-expands-partnership-2026-09-22/",
+          "summary": "바이낸스가 USDC 발행사 Circle의 지분 1억달러어치를 인수하며 양사 협력을 확대했다. Circle은 바이낸스에 월별 인센티브를 지급하고 바이낸스는 자사 플랫폼에서 USDC 이용 확대를 지원하는 5년 계약을 체결했다.",
           "impact": "high",
-          "region": "US"
+          "region": "Global"
+        },
+        {
+          "id": "crypto-ecb-stablecoin-reserve-rule-20260922",
+          "title": "ECB·EU 중앙은행, 스테이블코인 은행예치 의무 폐지 제안",
+          "source": "Reuters",
+          "publishedAt": "2026-09-22T10:15:00Z",
+          "updatedAt": "2026-09-23T02:52:18Z",
+          "url": "https://www.reuters.com/business/finance/ecb-eu-central-banks-oppose-stablecoin-bank-deposit-rule-2026-09-22/",
+          "summary": "ECB와 EU 각국 중앙은행은 MiCA의 스테이블코인 준비자산 은행예치 의무가 은행 자금조달 구조를 불안정하게 할 수 있다며 폐지를 제안했다. 대신 1~5영업일 내 만기가 돌아오는 고유동성 자산 보유 요건을 두는 방안을 권고했다.",
+          "impact": "high",
+          "region": "EU"
         }
       ]
     }
