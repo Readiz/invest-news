@@ -1,51 +1,51 @@
 {
-  "updatedAt": "2026-09-23T22:49:14Z",
-  "headline": "미국에서는 강한 9월 기업활동과 연준의 추가 긴축 신호가 국채금리와 주식시장에 부담을 주는 가운데, 미중은 기존 무역 합의를 내년 1월까지 연장하기로 했다. AI 투자는 성장 버팀목으로 평가받지만 에너지 충격과 높은 금리 부담이 이어지고 있으며, 암호화폐 시장에서는 토큰화 주식과 스테이블코인 관련 제도권 협력이 확대되고 있다.",
+  "updatedAt": "2026-09-24T02:50:08Z",
+  "headline": "미국의 9월 기업활동과 물가 압력이 동시에 강해지며 연준의 추가 금리 인상 기대가 커졌고, 미 국채 10년물 금리는 5%대를 유지해 글로벌 위험자산에 부담을 주고 있다. 다만 미중 무역휴전 연장 기대와 유가의 고점 이탈이 일부 완충 역할을 하는 가운데, 한국은 조선업 중심의 한미 산업협력이 부각되고 블록체인 기반 은행예금 실험도 제도권 금융에서 진전됐다.",
   "sections": [
     {
       "id": "macro",
       "items": [
         {
+          "id": "macro-global-bonds-oil-trade-20260924",
+          "title": "미 국채 5%대 여파 지속…아시아 채권 흔들리고 유가는 고점서 후퇴",
+          "source": "Reuters",
+          "publishedAt": "2026-09-24T01:48:00Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-09-24/",
+          "summary": "미 10년물 국채금리가 5.11% 부근을 유지한 가운데 일본 10년물 금리는 30년 만의 최고 수준까지 올랐다. 반면 유가는 최근 고점에서 일부 밀렸고 미중 무역휴전 연장 기대가 아시아 시장의 충격을 부분적으로 완화했다.",
+          "impact": "high",
+          "region": "Global"
+        },
+        {
           "id": "macro-us-pmi-inflation-20260923",
           "title": "미국 9월 기업활동 5년여 만에 최고…투입물가도 급등",
           "source": "Reuters",
           "publishedAt": "2026-09-23T13:52:00Z",
-          "updatedAt": "2026-09-23T22:49:14Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
           "url": "https://www.reuters.com/business/us-business-activity-more-than-five-year-high-inflation-pressures-building-2026-09-23/",
-          "summary": "S&P Global 미국 9월 종합 PMI는 58.4로 2021년 7월 이후 최고치를 기록했고 신규 주문도 2022년 3월 이후 가장 강했다. 투입가격 지수는 66.4로 2022년 10월 이후 최고치까지 올라 성장 강세와 물가 압력이 동시에 확인됐다.",
+          "summary": "S&P Global 미국 9월 종합 PMI는 58.4로 2021년 7월 이후 최고치를 기록했고 신규 주문도 2022년 3월 이후 가장 강했다. 투입가격 지수는 66.4로 거의 4년 만의 최고 수준까지 올라 성장 강세와 물가 압력이 동시에 확인됐다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "macro-fed-barr-more-hikes-20260923",
-          "title": "연준 바, 물가 위험 확대에 추가 금리 인상 필요 시사",
+          "id": "macro-fed-barr-hikes-20260923",
+          "title": "연준 바, 물가 위험 확대에 추가 금리 인상 필요성 시사",
           "source": "Reuters",
           "publishedAt": "2026-09-23T14:07:00Z",
-          "updatedAt": "2026-09-23T22:49:14Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
           "url": "https://www.reuters.com/business/feds-barr-says-further-rate-hikes-will-likely-be-needed-2026-09-23/",
-          "summary": "마이클 바 연준 이사는 물가 목표 달성 위험이 커진 반면 노동시장 위험은 줄었다며 추가 정책 조정이 필요할 가능성이 높다고 밝혔다. 미국 국채금리도 상승해 10년물 수익률이 2007년 이후 최고 수준까지 올라갔다.",
+          "summary": "마이클 바 연준 이사는 물가 목표 달성 위험이 커진 반면 노동시장 위험은 줄었다며 추가 정책 조정이 필요할 가능성이 높다고 밝혔다. 강한 경기지표와 에너지 가격 상승이 겹치면서 시장의 10월 추가 인상 기대도 높아졌다.",
           "impact": "high",
           "region": "US"
         },
         {
           "id": "macro-oecd-ai-energy-outlook-20260923",
-          "title": "OECD, AI 투자가 에너지 충격 일부 상쇄…2027년 물가 전망은 상향",
+          "title": "OECD, AI 투자가 에너지 충격 일부 상쇄…2027년 물가 전망 상향",
           "source": "Reuters",
           "publishedAt": "2026-09-23T08:02:00Z",
-          "updatedAt": "2026-09-23T22:49:14Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
           "url": "https://www.reuters.com/world/china/oecd-expects-ai-boom-help-offset-middle-east-energy-shock-now-2026-09-23/",
-          "summary": "OECD는 AI 인프라 투자를 반영해 2026년 세계 성장률 전망을 2.9%로 소폭 상향했지만 2027년은 3.0%로 낮췄다. 중동발 에너지 충격이 장기화되면서 G20의 2027년 물가 전망도 3.6%로 크게 높였다.",
-          "impact": "high",
-          "region": "Global"
-        },
-        {
-          "id": "macro-us-china-busan-extension-20260923",
-          "title": "미중, '부산 합의' 내년 1월 10일까지 연장",
-          "source": "Reuters",
-          "publishedAt": "2026-09-23T22:22:00Z",
-          "updatedAt": "2026-09-23T22:49:14Z",
-          "url": "https://www.reuters.com/world/china/us-china-agree-extend-the-busan-agreement-until-january-bessent-says-2026-09-23/",
-          "summary": "스콧 베선트 미 재무장관은 허리펑 중국 부총리와의 협의 뒤 양국이 기존 '부산 합의'를 2027년 1월 10일까지 연장하기로 했다고 밝혔다. 정상회담을 앞두고 무역 갈등의 단기 확전을 억제하는 합의가 유지되게 됐다.",
+          "summary": "OECD는 AI 인프라 투자를 반영해 2026년 세계 성장률 전망을 2.9%로 소폭 높였지만 2027년은 3.0%로 낮췄다. 중동발 에너지 충격이 더 오래 지속될 것으로 보면서 G20의 2027년 물가 전망도 3.6%로 상향했다.",
           "impact": "high",
           "region": "Global"
         }
@@ -59,51 +59,63 @@
           "title": "미 증시 하락…유가 상승·10년물 금리 2007년 이후 최고",
           "source": "Reuters",
           "publishedAt": "2026-09-23T10:07:00Z",
-          "updatedAt": "2026-09-23T22:49:14Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
           "url": "https://www.reuters.com/world/china/wall-st-futures-steady-with-focus-mideast-talks-us-china-summit-2026-09-23/",
-          "summary": "S&P 500은 0.75%, 나스닥은 1.13%, 다우는 0.68% 하락했다. 이란 관련 긴장으로 유가가 뛰고 미국 10년물 국채금리가 2007년 이후 최고 수준까지 오르면서 기술주와 금리 민감 업종에 부담이 커졌다.",
+          "summary": "S&P 500은 0.75%, 나스닥은 1.13%, 다우는 0.68% 하락했다. 국제유가와 장기 국채금리가 함께 오르면서 기술주와 금리 민감 업종에 부담이 커졌고, 시장은 연준의 추가 긴축 가능성을 재평가했다.",
           "impact": "high",
           "region": "US"
         },
         {
-          "id": "us-meta-muse-disruption-20260923",
-          "title": "메타 AI 에이전트 Muse 급성장…여행·금융·커머스 업종 재평가",
+          "id": "us-meta-charm-muse-20260923",
+          "title": "메타, Muse 탑재 AI 기기 'Charm' 공개…AI 하드웨어 경쟁 확대",
           "source": "Reuters",
-          "publishedAt": "2026-09-23T17:13:00Z",
-          "updatedAt": "2026-09-23T22:49:14Z",
-          "url": "https://www.reuters.com/business/finance/metas-muse-rekindles-fears-over-winners-losers-personal-ai-agent-emerges-2026-09-23/",
-          "summary": "Muse는 출시 약 2주 만에 미국과 캐나다 앱스토어에서 ChatGPT를 제치고 무료 앱 1위에 올랐고 다운로드는 280만건을 기록했다. AI 에이전트가 쇼핑·여행·금융 중개 구조를 바꿀 수 있다는 우려가 관련 업종 주가에 반영되는 반면 AI 인프라 수요 기대는 커지고 있다.",
-          "impact": "high",
+          "publishedAt": "2026-09-23T10:02:00Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
+          "url": "https://www.reuters.com/business/meta-expected-unveil-smart-glasses-without-camera-privacy-concerns-grow-2026-09-23/",
+          "summary": "메타는 5G 연결과 소형 터치스크린을 갖춘 AI 기기 'Charm'을 공개하고 Muse AI를 스마트글라스 전반으로 확대했다. AI 비서가 스마트폰 이후의 주요 인터페이스가 될 수 있다는 기대 속에서 메타의 하드웨어·플랫폼 투자가 한층 확대됐다.",
+          "impact": "medium",
+          "region": "US"
+        },
+        {
+          "id": "us-boeing-china-deal-20260924",
+          "title": "보잉, 미중 정상회담 앞두고 신규 대형 수주 기대 약화",
+          "source": "Reuters",
+          "publishedAt": "2026-09-24T02:27:00Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
+          "url": "https://www.reuters.com/business/autos-transportation/hope-fading-new-boeing-deal-during-us-china-summit-sources-say-2026-09-24/",
+          "summary": "보잉은 미중 정상회담에서 추가 대규모 신규 주문을 확보하기보다 지난 5월 합의한 중국의 200대 구매 계약을 마무리하는 데 초점을 맞추고 있다. 무역협상의 진전 여부가 보잉의 중국 시장 회복 속도와 항공기 수주 전망에 직접 연결되는 상황이다.",
+          "impact": "medium",
           "region": "US"
         }
       ]
     },
     {
       "id": "korea",
-      "items": []
+      "items": [
+        {
+          "id": "korea-us-shipbuilding-cooperation-20260923",
+          "title": "한미 정상, 군함 건조 협력 논의…대미 조선 투자 구체화 기대",
+          "source": "Reuters",
+          "publishedAt": "2026-09-23T22:54:00Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
+          "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-discussed-warship-construction-with-trump-south-korea-says-2026-09-23/",
+          "summary": "이재명 대통령과 도널드 트럼프 대통령은 군함 건조를 포함한 조선업 협력을 논의했고, 한국 대통령실은 한화의 필리 조선소가 미 군용 선박을 건조하게 될 것이라고 밝혔다. 3,500억달러 대미 투자 패키지 가운데 1,500억달러가 조선업에 배정돼 있어 국내 조선·방산 산업의 미국 사업 확대가 주목된다.",
+          "impact": "high",
+          "region": "KR"
+        }
+      ]
     },
     {
       "id": "crypto",
       "items": [
         {
-          "id": "crypto-nyse-blockchain-tokenized-stocks-20260923",
-          "title": "NYSE·Blockchain.com, 미국 상장주식·ETF 토큰화 협력 검토",
+          "id": "crypto-uk-tokenised-deposits-20260923",
+          "title": "영국 대형은행, 세계 첫 은행간 토큰화 예금 거래 완료",
           "source": "Reuters",
-          "publishedAt": "2026-09-23T13:06:00Z",
-          "updatedAt": "2026-09-23T22:49:14Z",
-          "url": "https://www.reuters.com/legal/government/nyse-blockchaincom-explore-selling-tokenised-stocks-2026-09-23/",
-          "summary": "뉴욕증권거래소와 Blockchain.com은 NYSE 상장 주식과 ETF를 블록체인 토큰 형태로 제공하는 방안을 공동 검토하기로 했다. 전통 거래소가 토큰화 증권 유통을 직접 모색한다는 점에서 자본시장과 디지털자산 인프라의 접점이 확대되고 있다.",
-          "impact": "high",
-          "region": "US"
-        },
-        {
-          "id": "crypto-binance-circle-stake-20260922",
-          "title": "바이낸스, Circle 지분 1억달러 인수…USDC 협력 확대",
-          "source": "Reuters",
-          "publishedAt": "2026-09-22T11:43:00Z",
-          "updatedAt": "2026-09-23T22:49:14Z",
-          "url": "https://www.reuters.com/legal/transactional/binance-buys-100-million-stake-circle-expands-partnership-2026-09-22/",
-          "summary": "바이낸스는 USDC 발행사 Circle 지분 1억달러어치를 인수했고 양사는 5년간 상업 협력을 확대하기로 했다. 대형 거래소와 스테이블코인 발행사 간 결합이 강화되면서 USDC의 유통·결제 생태계 확장이 주목된다.",
+          "publishedAt": "2026-09-23T23:04:00Z",
+          "updatedAt": "2026-09-24T02:50:08Z",
+          "url": "https://www.reuters.com/business/finance/uk-banks-make-first-interbank-transactions-using-tokenised-deposits-2026-09-23/",
+          "summary": "영국 대형은행들은 블록체인을 이용한 은행간 토큰화 예금 거래와 주택담보대출 결제 실험을 완료했다. 영란은행이 민간 스테이블코인보다 은행권 토큰화 예금 실험을 선호하는 가운데, 상업은행 화폐의 온체인 결제 모델이 실제 금융거래 단계로 진전됐다.",
           "impact": "high",
           "region": "Global"
         }
